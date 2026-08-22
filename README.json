@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 100061716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:27:18Z",
+                "last_commit": "2026-08-22T00:44:05Z",
                 "owner": "nrwl",
                 "repo": "nx",
-                "stars": 29245
+                "stars": 29246
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 91553810,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T14:16:14Z",
+                "last_commit": "2026-08-22T15:03:57Z",
                 "owner": "ng-packagr",
                 "repo": "ng-packagr",
                 "stars": 1857
@@ -261,10 +261,10 @@
                 "archived": false,
                 "id": 36891867,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:30:32Z",
+                "last_commit": "2026-08-21T18:25:19Z",
                 "owner": "angular",
                 "repo": "angular-cli",
-                "stars": 27016
+                "stars": 27014
               }
             },
             {
@@ -276,10 +276,10 @@
                 "archived": false,
                 "id": 1134202023,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T14:48:11Z",
+                "last_commit": "2026-08-21T22:57:04Z",
                 "owner": "Marve10s",
                 "repo": "Better-Fullstack",
-                "stars": 715
+                "stars": 716
               }
             },
             {
@@ -706,7 +706,7 @@
                 "last_commit": "2026-06-09T10:26:26Z",
                 "owner": "angular-schule",
                 "repo": "angular-cli-ghpages",
-                "stars": 981
+                "stars": 980
               }
             },
             {
@@ -875,10 +875,10 @@
                 "archived": false,
                 "id": 9384267,
                 "language": "C++",
-                "last_commit": "2026-08-21T17:10:53Z",
+                "last_commit": "2026-08-22T16:03:23Z",
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122628
+                "stars": 122649
               }
             },
             {
@@ -905,10 +905,10 @@
                 "archived": false,
                 "id": 161951219,
                 "language": "Go",
-                "last_commit": "2026-08-21T15:12:18Z",
+                "last_commit": "2026-08-22T12:24:35Z",
                 "owner": "wailsapp",
                 "repo": "wails",
-                "stars": 35914
+                "stars": 35925
               }
             },
             {
@@ -920,10 +920,10 @@
                 "archived": false,
                 "id": 138368259,
                 "language": "C",
-                "last_commit": "2026-08-21T01:25:25Z",
+                "last_commit": "2026-08-22T00:20:13Z",
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8611
+                "stars": 8612
               }
             },
             {
@@ -938,7 +938,7 @@
                 "last_commit": "2026-08-08T08:08:18Z",
                 "owner": "belnadris",
                 "repo": "angular-electron",
-                "stars": 5723
+                "stars": 5722
               }
             },
             {
@@ -953,7 +953,7 @@
                 "last_commit": "2026-08-21T16:37:35Z",
                 "owner": "tauri-apps",
                 "repo": "create-tauri-app",
-                "stars": 1622
+                "stars": 1623
               }
             },
             {
@@ -1181,7 +1181,7 @@
                 "last_commit": "2026-04-27T16:54:11Z",
                 "owner": "sudheerj",
                 "repo": "angular-interview-questions",
-                "stars": 4940
+                "stars": 4939
               }
             },
             {
@@ -1400,7 +1400,7 @@
                 "archived": false,
                 "id": 75657790,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T14:26:51Z",
+                "last_commit": "2026-08-22T07:36:35Z",
                 "owner": "dotansimha",
                 "repo": "graphql-code-generator",
                 "stars": 11263
@@ -1557,7 +1557,7 @@
                 "archived": false,
                 "id": 132244720,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T22:39:46Z",
+                "last_commit": "2026-08-22T14:29:20Z",
                 "owner": "diegomvh",
                 "repo": "angular-odata",
                 "stars": 52
@@ -1722,7 +1722,7 @@
                 "archived": false,
                 "id": 605291413,
                 "language": "TypeScript",
-                "last_commit": "2026-05-19T08:25:53Z",
+                "last_commit": "2026-08-22T13:23:29Z",
                 "owner": "NGneers",
                 "repo": "ng-httpclient-easy-network-stub",
                 "stars": 6
@@ -1820,21 +1820,6 @@
             },
             {
               "node_type": "item",
-              "title": "ngx-request-lock",
-              "description": "An Angular library that binds a UI flow to the lifecycle of its HTTP requests.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1297422412,
-                "language": "TypeScript",
-                "last_commit": "2026-08-20T15:23:21Z",
-                "owner": "SalvatoreDiGenua",
-                "repo": "ngx-request-lock-docs",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
               "title": "ngx-smart-interceptor",
               "description": "Enterprise-grade, resilient, and intelligent HTTP Interceptor for modern Angular applications.",
               "children": [],
@@ -1920,6 +1905,21 @@
                 "last_commit": "2026-03-01T19:42:51Z",
                 "owner": "seyfer",
                 "repo": "ngx-soap",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ngx-request-lock",
+              "description": "An Angular library that binds a UI flow to the lifecycle of its HTTP requests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1297422412,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T15:23:21Z",
+                "owner": "SalvatoreDiGenua",
+                "repo": "ngx-request-lock-docs",
                 "stars": 2
               }
             },
@@ -2174,7 +2174,7 @@
                 "last_commit": "2026-08-21T03:21:22Z",
                 "owner": "module-federation",
                 "repo": "core",
-                "stars": 2617
+                "stars": 2618
               }
             },
             {
@@ -2268,10 +2268,10 @@
                 "archived": false,
                 "id": 413918947,
                 "language": "Rust",
-                "last_commit": "2026-08-21T16:47:41Z",
+                "last_commit": "2026-08-22T17:23:20Z",
                 "owner": "vercel",
                 "repo": "turborepo",
-                "stars": 30966
+                "stars": 30972
               }
             },
             {
@@ -2283,10 +2283,10 @@
                 "archived": false,
                 "id": 100061716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:27:18Z",
+                "last_commit": "2026-08-22T00:44:05Z",
                 "owner": "nrwl",
                 "repo": "nx",
-                "stars": 29245
+                "stars": 29246
               }
             }
           ],
@@ -2323,7 +2323,7 @@
                 "last_commit": "2026-08-13T12:40:58Z",
                 "owner": "MrBacony",
                 "repo": "analog-tools",
-                "stars": 6
+                "stars": 8
               }
             },
             {
@@ -2350,7 +2350,7 @@
                 "archived": false,
                 "id": 992679832,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T23:02:31Z",
+                "last_commit": "2026-08-21T18:04:38Z",
                 "owner": "json-derulo",
                 "repo": "ngx-sitemaps",
                 "stars": 2
@@ -2368,7 +2368,7 @@
                 "last_commit": "2026-08-20T01:22:33Z",
                 "owner": "quinnjr",
                 "repo": "ngx-bun",
-                "stars": 1
+                "stars": 2
               }
             },
             {
@@ -2508,7 +2508,7 @@
                 "last_commit": "2026-08-21T08:01:35Z",
                 "owner": "upstash",
                 "repo": "context7",
-                "stars": 61048
+                "stars": 61087
               }
             },
             {
@@ -2520,10 +2520,10 @@
                 "archived": false,
                 "id": 828119367,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T15:50:21Z",
+                "last_commit": "2026-08-22T14:31:17Z",
                 "owner": "yamadashy",
                 "repo": "repomix",
-                "stars": 27990
+                "stars": 28009
               }
             },
             {
@@ -2535,10 +2535,10 @@
                 "archived": false,
                 "id": 603866391,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T14:51:43Z",
+                "last_commit": "2026-08-22T09:28:25Z",
                 "owner": "OvidijusParsiunas",
                 "repo": "deep-chat",
-                "stars": 3707
+                "stars": 3706
               }
             },
             {
@@ -2580,7 +2580,7 @@
                 "archived": false,
                 "id": 1189742035,
                 "language": null,
-                "last_commit": "2026-08-19T20:57:04Z",
+                "last_commit": "2026-08-21T19:46:13Z",
                 "owner": "angular",
                 "repo": "skills",
                 "stars": 623
@@ -2790,7 +2790,7 @@
                 "archived": false,
                 "id": 1212314514,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:08:37Z",
+                "last_commit": "2026-08-22T08:16:39Z",
                 "owner": "kensaurus",
                 "repo": "mushi-mushi",
                 "stars": 3
@@ -3010,7 +3010,7 @@
                 "last_commit": "2026-08-21T08:59:35Z",
                 "owner": "plausible",
                 "repo": "analytics",
-                "stars": 28695
+                "stars": 28706
               }
             },
             {
@@ -3025,7 +3025,7 @@
                 "last_commit": "2026-08-20T22:58:28Z",
                 "owner": "rybbit-io",
                 "repo": "rybbit",
-                "stars": 12851
+                "stars": 12860
               }
             },
             {
@@ -3052,10 +3052,10 @@
                 "archived": false,
                 "id": 349227174,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T00:41:13Z",
+                "last_commit": "2026-08-21T18:04:12Z",
                 "owner": "Swetrix",
                 "repo": "swetrix",
-                "stars": 1165
+                "stars": 1168
               }
             },
             {
@@ -3658,10 +3658,10 @@
                 "archived": false,
                 "id": 54173593,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:05:16Z",
+                "last_commit": "2026-08-22T12:24:50Z",
                 "owner": "storybookjs",
                 "repo": "storybook",
-                "stars": 90888
+                "stars": 90898
               }
             },
             {
@@ -3673,7 +3673,7 @@
                 "archived": false,
                 "id": 71109869,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T11:08:10Z",
+                "last_commit": "2026-08-21T22:06:59Z",
                 "owner": "compodoc",
                 "repo": "compodoc",
                 "stars": 4120
@@ -3800,7 +3800,7 @@
                 "archived": false,
                 "id": 38565895,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:06:40Z",
+                "last_commit": "2026-08-22T13:40:31Z",
                 "owner": "reduxjs",
                 "repo": "redux-devtools",
                 "stars": 14365
@@ -3920,7 +3920,7 @@
                 "archived": false,
                 "id": 989812211,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:30:40Z",
+                "last_commit": "2026-08-22T12:37:13Z",
                 "owner": "BaryshevRS",
                 "repo": "angular-auto-import",
                 "stars": 3
@@ -3960,7 +3960,7 @@
                 "last_commit": "2026-08-21T10:04:26Z",
                 "owner": "abpframework",
                 "repo": "abp",
-                "stars": 14412
+                "stars": 14411
               }
             },
             {
@@ -3972,10 +3972,10 @@
                 "archived": false,
                 "id": 238402553,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T21:19:30Z",
+                "last_commit": "2026-08-21T20:08:55Z",
                 "owner": "orval-labs",
                 "repo": "orval",
-                "stars": 6372
+                "stars": 6378
               }
             },
             {
@@ -4312,7 +4312,7 @@
                 "last_commit": "2026-08-21T14:09:55Z",
                 "owner": "jsverse",
                 "repo": "transloco",
-                "stars": 2274
+                "stars": 2275
               }
             },
             {
@@ -4327,7 +4327,7 @@
                 "last_commit": "2026-08-21T14:09:55Z",
                 "owner": "jsverse",
                 "repo": "transloco",
-                "stars": 2274
+                "stars": 2275
               }
             },
             {
@@ -4339,7 +4339,7 @@
                 "archived": false,
                 "id": 776924173,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T04:54:58Z",
+                "last_commit": "2026-08-22T08:42:51Z",
                 "owner": "aymericzip",
                 "repo": "intlayer",
                 "stars": 798
@@ -4474,7 +4474,7 @@
                 "archived": false,
                 "id": 176234127,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T14:34:33Z",
+                "last_commit": "2026-08-22T16:16:20Z",
                 "owner": "larscom",
                 "repo": "ngx-translate-module-loader",
                 "stars": 35
@@ -4594,7 +4594,7 @@
                 "archived": false,
                 "id": 825913374,
                 "language": "TypeScript",
-                "last_commit": "2026-02-05T11:24:38Z",
+                "last_commit": "2026-08-22T13:00:04Z",
                 "owner": "NGneers",
                 "repo": "signal-translate",
                 "stars": 5
@@ -4964,7 +4964,7 @@
                 "last_commit": "2026-08-20T22:39:23Z",
                 "owner": "angular-eslint",
                 "repo": "angular-eslint",
-                "stars": 1782
+                "stars": 1781
               }
             },
             {
@@ -5021,7 +5021,7 @@
                 "archived": false,
                 "id": 497978571,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T07:27:07Z",
+                "last_commit": "2026-08-22T08:27:51Z",
                 "owner": "Jbz797",
                 "repo": "eslint-config-angular-strict",
                 "stars": 5
@@ -5641,10 +5641,10 @@
                 "archived": false,
                 "id": 518342568,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:32:59Z",
+                "last_commit": "2026-08-22T09:57:24Z",
                 "owner": "chakra-ui",
                 "repo": "panda",
-                "stars": 6153
+                "stars": 6154
               }
             },
             {
@@ -5864,10 +5864,10 @@
                 "archived": false,
                 "id": 180190854,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:55:54Z",
+                "last_commit": "2026-08-22T03:38:59Z",
                 "owner": "appwrite",
                 "repo": "appwrite",
-                "stars": 57080
+                "stars": 57092
               }
             },
             {
@@ -5882,7 +5882,7 @@
                 "last_commit": "2026-08-19T19:50:38Z",
                 "owner": "teamhanko",
                 "repo": "hanko",
-                "stars": 9009
+                "stars": 9010
               }
             },
             {
@@ -5894,7 +5894,7 @@
                 "archived": false,
                 "id": 49453413,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T18:31:27Z",
+                "last_commit": "2026-08-21T22:37:04Z",
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7807
@@ -5909,7 +5909,7 @@
                 "archived": false,
                 "id": 83085579,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:38:52Z",
+                "last_commit": "2026-08-22T16:10:14Z",
                 "owner": "AzureAD",
                 "repo": "microsoft-authentication-library-for-js",
                 "stars": 4115
@@ -6596,7 +6596,7 @@
                 "archived": false,
                 "id": 83716883,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T17:15:29Z",
+                "last_commit": "2026-08-22T15:44:38Z",
                 "owner": "ngrx",
                 "repo": "platform",
                 "stars": 8337
@@ -6806,7 +6806,7 @@
                 "archived": false,
                 "id": 535141166,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T22:50:09Z",
+                "last_commit": "2026-08-22T12:35:24Z",
                 "owner": "Michsior14",
                 "repo": "ngrx-addons",
                 "stars": 5
@@ -7060,10 +7060,10 @@
                 "archived": false,
                 "id": 207645083,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:22:30Z",
+                "last_commit": "2026-08-22T16:16:55Z",
                 "owner": "TanStack",
                 "repo": "query",
-                "stars": 50182
+                "stars": 50183
               }
             },
             {
@@ -7075,10 +7075,10 @@
                 "archived": false,
                 "id": 42455934,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:38:56Z",
+                "last_commit": "2026-08-22T14:08:33Z",
                 "owner": "statelyai",
                 "repo": "xstate",
-                "stars": 30041
+                "stars": 30045
               }
             },
             {
@@ -7090,10 +7090,10 @@
                 "archived": false,
                 "id": 946895816,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:42:48Z",
+                "last_commit": "2026-08-22T16:18:55Z",
                 "owner": "TanStack",
                 "repo": "db",
-                "stars": 3875
+                "stars": 3876
               }
             },
             {
@@ -7480,7 +7480,7 @@
                 "archived": false,
                 "id": 1131289719,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:59:23Z",
+                "last_commit": "2026-08-22T07:09:05Z",
                 "owner": "craft-ts",
                 "repo": "craft-ts",
                 "stars": 2
@@ -7631,7 +7631,7 @@
                 "last_commit": "2026-08-21T14:21:31Z",
                 "owner": "puppeteer",
                 "repo": "puppeteer",
-                "stars": 95481
+                "stars": 95488
               }
             },
             {
@@ -7643,10 +7643,10 @@
                 "archived": false,
                 "id": 952688112,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T17:47:50Z",
+                "last_commit": "2026-08-21T22:46:04Z",
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 36333
+                "stars": 36362
               }
             },
             {
@@ -7661,7 +7661,7 @@
                 "last_commit": "2026-08-21T01:45:25Z",
                 "owner": "webdriverio",
                 "repo": "webdriverio",
-                "stars": 9819
+                "stars": 9821
               }
             },
             {
@@ -7733,7 +7733,7 @@
                 "archived": false,
                 "id": 822728727,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T18:13:25Z",
+                "last_commit": "2026-08-22T16:11:34Z",
                 "owner": "jfgreffier",
                 "repo": "playwright-ng-schematics",
                 "stars": 21
@@ -7815,7 +7815,7 @@
                 "archived": false,
                 "id": 86746409,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:43:22Z",
+                "last_commit": "2026-08-22T15:53:16Z",
                 "owner": "thymikee",
                 "repo": "jest-preset-angular",
                 "stars": 920
@@ -7905,7 +7905,7 @@
                 "archived": false,
                 "id": 134071461,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T09:15:28Z",
+                "last_commit": "2026-08-22T09:12:19Z",
                 "owner": "Ninja-Squad",
                 "repo": "ngx-speculoos",
                 "stars": 78
@@ -8005,7 +8005,7 @@
                 "last_commit": "2026-07-24T08:54:35Z",
                 "owner": "mswjs",
                 "repo": "msw",
-                "stars": 18152
+                "stars": 18153
               }
             },
             {
@@ -8020,7 +8020,7 @@
                 "last_commit": "2026-08-15T21:41:40Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3033
+                "stars": 3039
               }
             },
             {
@@ -8092,7 +8092,7 @@
                 "archived": false,
                 "id": 905421089,
                 "language": "TypeScript",
-                "last_commit": "2026-08-08T08:48:38Z",
+                "last_commit": "2026-08-21T21:44:31Z",
                 "owner": "FrancescoBorzi",
                 "repo": "ngx-page-object-model",
                 "stars": 36
@@ -8137,7 +8137,7 @@
                 "archived": false,
                 "id": 312762373,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T02:18:25Z",
+                "last_commit": "2026-08-22T10:58:13Z",
                 "owner": "help-me-mom",
                 "repo": "ng-mocks-sandbox",
                 "stars": 5
@@ -8318,7 +8318,7 @@
                 "last_commit": "2026-08-03T17:06:53Z",
                 "owner": "realworld-apps",
                 "repo": "angular-realworld-example-app",
-                "stars": 5622
+                "stars": 5623
               }
             },
             {
@@ -8333,7 +8333,7 @@
                 "last_commit": "2026-08-14T19:11:36Z",
                 "owner": "coreui",
                 "repo": "coreui-free-angular-admin-template",
-                "stars": 1832
+                "stars": 1831
               }
             },
             {
@@ -8363,7 +8363,7 @@
                 "last_commit": "2026-01-03T17:32:32Z",
                 "owner": "emonney",
                 "repo": "QuickApp",
-                "stars": 1350
+                "stars": 1349
               }
             },
             {
@@ -8408,7 +8408,7 @@
                 "last_commit": "2026-05-26T11:49:14Z",
                 "owner": "Tailwind-Admin",
                 "repo": "free-tailwind-admin-dashboard-template",
-                "stars": 260
+                "stars": 262
               }
             },
             {
@@ -8480,7 +8480,7 @@
                 "archived": false,
                 "id": 191049513,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T18:11:44Z",
+                "last_commit": "2026-08-21T19:44:50Z",
                 "owner": "rfprod",
                 "repo": "nx-ng-starter",
                 "stars": 135
@@ -8540,7 +8540,7 @@
                 "archived": false,
                 "id": 1283356210,
                 "language": "HTML",
-                "last_commit": "2026-08-21T17:24:46Z",
+                "last_commit": "2026-08-22T17:17:33Z",
                 "owner": "juwairiyah09",
                 "repo": "spike-angular-pro-starter",
                 "stars": 116
@@ -8600,7 +8600,7 @@
                 "archived": false,
                 "id": 1122759624,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T06:27:00Z",
+                "last_commit": "2026-08-22T11:37:55Z",
                 "owner": "Oussemasahbeni",
                 "repo": "spartan-admin-dashboard",
                 "stars": 52
@@ -8615,7 +8615,7 @@
                 "archived": false,
                 "id": 669004835,
                 "language": "HTML",
-                "last_commit": "2026-08-19T00:06:19Z",
+                "last_commit": "2026-08-22T03:35:26Z",
                 "owner": "descope-sample-apps",
                 "repo": "angular-sample-app",
                 "stars": 42
@@ -8690,7 +8690,7 @@
                 "archived": false,
                 "id": 465820147,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T22:44:57Z",
+                "last_commit": "2026-08-22T00:40:11Z",
                 "owner": "netlify-templates",
                 "repo": "angular-quickstart",
                 "stars": 27
@@ -8810,7 +8810,7 @@
                 "archived": false,
                 "id": 230750529,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:46:18Z",
+                "last_commit": "2026-08-22T14:45:44Z",
                 "owner": "tarlepp",
                 "repo": "angular-ngrx-frontend",
                 "stars": 13
@@ -8855,7 +8855,7 @@
                 "archived": false,
                 "id": 636384616,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:35:15Z",
+                "last_commit": "2026-08-21T21:15:34Z",
                 "owner": "sanity-io",
                 "repo": "sanity-template-angular-clean",
                 "stars": 11
@@ -9658,7 +9658,7 @@
                 "last_commit": "2026-08-14T22:14:54Z",
                 "owner": "schedule-x",
                 "repo": "schedule-x",
-                "stars": 2534
+                "stars": 2535
               }
             },
             {
@@ -9875,7 +9875,7 @@
                 "last_commit": "2026-08-19T04:24:45Z",
                 "owner": "altcha-org",
                 "repo": "altcha",
-                "stars": 2685
+                "stars": 2688
               }
             },
             {
@@ -10239,7 +10239,7 @@
                 "archived": false,
                 "id": 342906148,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:50:54Z",
+                "last_commit": "2026-08-22T00:52:35Z",
                 "owner": "failed-successfully",
                 "repo": "ngx-darkbox-gallery-library",
                 "stars": 5
@@ -10414,7 +10414,7 @@
                 "last_commit": "2026-06-11T06:15:11Z",
                 "owner": "xieziyu",
                 "repo": "ngx-echarts",
-                "stars": 1186
+                "stars": 1184
               }
             },
             {
@@ -10459,7 +10459,7 @@
                 "last_commit": "2026-08-21T14:01:04Z",
                 "owner": "synergycodes",
                 "repo": "ng-diagram",
-                "stars": 566
+                "stars": 567
               }
             },
             {
@@ -10486,7 +10486,7 @@
                 "archived": false,
                 "id": 660273852,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:42:02Z",
+                "last_commit": "2026-08-21T19:02:28Z",
                 "owner": "ag-grid",
                 "repo": "ag-charts",
                 "stars": 477
@@ -10549,7 +10549,7 @@
                 "last_commit": "2026-08-20T08:17:31Z",
                 "owner": "beany-vu",
                 "repo": "michi-vz-mono",
-                "stars": 322
+                "stars": 324
               }
             },
             {
@@ -10811,7 +10811,7 @@
                 "last_commit": "2026-07-23T21:39:48Z",
                 "owner": "orestbida",
                 "repo": "cookieconsent",
-                "stars": 5633
+                "stars": 5636
               }
             },
             {
@@ -10975,7 +10975,7 @@
                 "last_commit": "2026-04-10T18:44:30Z",
                 "owner": "jspreadsheet",
                 "repo": "ce",
-                "stars": 7216
+                "stars": 7217
               }
             },
             {
@@ -11032,7 +11032,7 @@
                 "archived": false,
                 "id": 863835168,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T14:32:05Z",
+                "last_commit": "2026-08-22T13:10:10Z",
                 "owner": "petera2c",
                 "repo": "simple-table",
                 "stars": 216
@@ -11047,7 +11047,7 @@
                 "archived": false,
                 "id": 246931260,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T06:51:44Z",
+                "last_commit": "2026-08-22T05:53:04Z",
                 "owner": "ghiscoding",
                 "repo": "slickgrid-universal",
                 "stars": 172
@@ -12560,7 +12560,7 @@
                 "archived": false,
                 "id": 94193673,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T21:30:40Z",
+                "last_commit": "2026-08-21T23:11:01Z",
                 "owner": "ChristofFritz",
                 "repo": "ngx-drag-drop",
                 "stars": 332
@@ -12867,7 +12867,7 @@
                 "archived": false,
                 "id": 1136485156,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:49:38Z",
+                "last_commit": "2026-08-22T05:40:18Z",
                 "owner": "domternal",
                 "repo": "domternal",
                 "stars": 198
@@ -12942,7 +12942,7 @@
                 "archived": false,
                 "id": 1101836363,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T14:23:21Z",
+                "last_commit": "2026-08-22T16:31:06Z",
                 "owner": "JackUait",
                 "repo": "blok",
                 "stars": 32
@@ -13080,7 +13080,7 @@
                 "last_commit": "2026-08-01T15:24:12Z",
                 "owner": "bobbyquantum",
                 "repo": "ngx-editor",
-                "stars": 4
+                "stars": 5
               }
             },
             {
@@ -13387,7 +13387,7 @@
                 "last_commit": "2026-03-05T14:16:42Z",
                 "owner": "valor-software",
                 "repo": "ng2-file-upload",
-                "stars": 1900
+                "stars": 1899
               }
             },
             {
@@ -13489,7 +13489,7 @@
                 "archived": false,
                 "id": 635867455,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T02:16:09Z",
+                "last_commit": "2026-08-22T04:09:36Z",
                 "owner": "DevinoSolutions",
                 "repo": "upup",
                 "stars": 30
@@ -13589,7 +13589,7 @@
                 "last_commit": "2026-08-21T15:24:33Z",
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6665
+                "stars": 6666
               }
             },
             {
@@ -13661,7 +13661,7 @@
                 "archived": false,
                 "id": 1236489540,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:37:27Z",
+                "last_commit": "2026-08-22T16:45:18Z",
                 "owner": "golemui",
                 "repo": "golemui",
                 "stars": 109
@@ -13886,7 +13886,7 @@
                 "archived": false,
                 "id": 1004160110,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:51:43Z",
+                "last_commit": "2026-08-22T14:34:45Z",
                 "owner": "Cynthion",
                 "repo": "ngx-formidable",
                 "stars": 2
@@ -14111,7 +14111,7 @@
                 "archived": false,
                 "id": 1208504278,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T01:28:36Z",
+                "last_commit": "2026-08-21T21:05:33Z",
                 "owner": "ronbodnar",
                 "repo": "ng-modular-forms",
                 "stars": 1
@@ -14129,6 +14129,21 @@
                 "last_commit": "2026-07-21T12:26:58Z",
                 "owner": "xonaib",
                 "repo": "ngx-form-signals",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "formular.dev",
+              "description": "An advanced, high-performance, schema-first form management and validation engine for modern TypeScript and JavaScript applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 893918913,
+                "language": "TypeScript",
+                "last_commit": "2026-07-21T11:20:49Z",
+                "owner": "binaryjack",
+                "repo": "formular.dev",
                 "stars": 1
               }
             },
@@ -14211,7 +14226,7 @@
                 "last_commit": "2026-08-14T00:54:40Z",
                 "owner": "dayflow-js",
                 "repo": "BlossomColorPicker",
-                "stars": 389
+                "stars": 391
               }
             },
             {
@@ -14973,7 +14988,7 @@
                 "archived": false,
                 "id": 791289736,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T01:23:35Z",
+                "last_commit": "2026-08-22T00:48:54Z",
                 "owner": "alexandroit",
                 "repo": "angular-multiselect-dropdown",
                 "stars": 1
@@ -15272,7 +15287,7 @@
                 "archived": false,
                 "id": 135720882,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T23:04:24Z",
+                "last_commit": "2026-08-22T17:17:45Z",
                 "owner": "Ninja-Squad",
                 "repo": "ngx-valdemort",
                 "stars": 205
@@ -15552,7 +15567,7 @@
                 "last_commit": "2026-08-20T12:49:34Z",
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24072
+                "stars": 24086
               }
             },
             {
@@ -15567,7 +15582,7 @@
                 "last_commit": "2026-07-02T19:27:56Z",
                 "owner": "FortAwesome",
                 "repo": "angular-fontawesome",
-                "stars": 1533
+                "stars": 1532
               }
             },
             {
@@ -15639,7 +15654,7 @@
                 "archived": false,
                 "id": 894998481,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T03:29:17Z",
+                "last_commit": "2026-08-22T02:53:30Z",
                 "owner": "gridatek",
                 "repo": "semantic-icons",
                 "stars": 22
@@ -15699,7 +15714,7 @@
                 "archived": false,
                 "id": 1240797043,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T17:24:29Z",
+                "last_commit": "2026-08-22T03:49:48Z",
                 "owner": "praveenjuge",
                 "repo": "vadivam",
                 "stars": 9
@@ -15729,7 +15744,7 @@
                 "archived": false,
                 "id": 957213122,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T20:44:21Z",
+                "last_commit": "2026-08-22T06:43:37Z",
                 "owner": "adrian-ub",
                 "repo": "ngxi",
                 "stars": 5
@@ -16091,7 +16106,7 @@
                 "last_commit": "2026-08-15T17:20:31Z",
                 "owner": "TanStack",
                 "repo": "hotkeys",
-                "stars": 685
+                "stars": 686
               }
             },
             {
@@ -16233,7 +16248,7 @@
                 "last_commit": "2026-08-20T01:52:51Z",
                 "owner": "gridstack",
                 "repo": "gridstack.js",
-                "stars": 9070
+                "stars": 9072
               }
             },
             {
@@ -16590,7 +16605,7 @@
                 "archived": false,
                 "id": 64921759,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T13:44:10Z",
+                "last_commit": "2026-08-21T22:51:05Z",
                 "owner": "darekf77",
                 "repo": "static-columns",
                 "stars": 0
@@ -16615,7 +16630,7 @@
                 "last_commit": "2026-07-07T17:12:47Z",
                 "owner": "0xGF",
                 "repo": "boneyard",
-                "stars": 7157
+                "stars": 7170
               }
             },
             {
@@ -17263,10 +17278,10 @@
                 "archived": false,
                 "id": 988222683,
                 "language": "Vue",
-                "last_commit": "2026-08-21T12:20:18Z",
+                "last_commit": "2026-08-22T03:07:32Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 2914
+                "stars": 2946
               }
             },
             {
@@ -17465,7 +17480,7 @@
                 "archived": false,
                 "id": 332906349,
                 "language": "TypeScript",
-                "last_commit": "2026-06-10T17:39:31Z",
+                "last_commit": "2026-08-21T18:57:02Z",
                 "owner": "vidstack",
                 "repo": "player",
                 "stars": 3658
@@ -17667,10 +17682,10 @@
                 "archived": false,
                 "id": 49016322,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T09:49:39Z",
+                "last_commit": "2026-08-22T08:13:47Z",
                 "owner": "angular",
                 "repo": "components",
-                "stars": 25035
+                "stars": 25034
               }
             },
             {
@@ -17742,7 +17757,7 @@
                 "archived": false,
                 "id": 128830675,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:39:07Z",
+                "last_commit": "2026-08-21T19:09:10Z",
                 "owner": "graycoreio",
                 "repo": "daffodil",
                 "stars": 460
@@ -17802,7 +17817,7 @@
                 "archived": false,
                 "id": 1126746223,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T21:19:34Z",
+                "last_commit": "2026-08-21T19:57:41Z",
                 "owner": "signalityjs",
                 "repo": "signality",
                 "stars": 193
@@ -17850,7 +17865,7 @@
                 "last_commit": "2026-03-30T01:32:34Z",
                 "owner": "alihoseiny",
                 "repo": "ngx-persian",
-                "stars": 105
+                "stars": 104
               }
             },
             {
@@ -18162,7 +18177,7 @@
                 "archived": false,
                 "id": 1286263021,
                 "language": null,
-                "last_commit": "2026-08-21T10:29:41Z",
+                "last_commit": "2026-08-22T03:00:11Z",
                 "owner": "therightthings",
                 "repo": "trt-web",
                 "stars": 5
@@ -18192,7 +18207,7 @@
                 "archived": false,
                 "id": 537481089,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:10:11Z",
+                "last_commit": "2026-08-22T17:09:34Z",
                 "owner": "DaSchTour",
                 "repo": "dasch-ng",
                 "stars": 4
@@ -18462,7 +18477,7 @@
                 "archived": false,
                 "id": 814349295,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:21:41Z",
+                "last_commit": "2026-08-21T22:37:11Z",
                 "owner": "acontplus",
                 "repo": "acontplus-libs",
                 "stars": 1
@@ -19338,7 +19353,7 @@
                 "archived": false,
                 "id": 463538689,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:48:29Z",
+                "last_commit": "2026-08-22T16:44:21Z",
                 "owner": "blackbaud",
                 "repo": "skyux",
                 "stars": 55
@@ -19450,7 +19465,7 @@
                 "archived": false,
                 "id": 133083487,
                 "language": "Fluent",
-                "last_commit": "2026-08-20T20:44:51Z",
+                "last_commit": "2026-08-21T17:54:19Z",
                 "owner": "stephanrauh",
                 "repo": "ngx-extended-pdf-viewer",
                 "stars": 583
@@ -19804,7 +19819,7 @@
                 "last_commit": "2026-08-21T17:11:11Z",
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1259
+                "stars": 1258
               }
             },
             {
@@ -19876,7 +19891,7 @@
                 "archived": false,
                 "id": 1112360435,
                 "language": "TypeScript",
-                "last_commit": "2026-08-12T06:50:04Z",
+                "last_commit": "2026-08-22T09:00:25Z",
                 "owner": "shashi089",
                 "repo": "qr-code-label-designer",
                 "stars": 42
@@ -20208,7 +20223,7 @@
                 "last_commit": "2026-04-30T22:13:34Z",
                 "owner": "MurhafSousli",
                 "repo": "ngx-scrollbar",
-                "stars": 653
+                "stars": 652
               }
             },
             {
@@ -20590,7 +20605,7 @@
                 "last_commit": "2026-08-21T12:52:43Z",
                 "owner": "dexie",
                 "repo": "Dexie.js",
-                "stars": 14541
+                "stars": 14542
               }
             },
             {
@@ -20617,7 +20632,7 @@
                 "archived": false,
                 "id": 661663226,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T22:29:45Z",
+                "last_commit": "2026-08-21T22:02:00Z",
                 "owner": "maxnowack",
                 "repo": "signaldb",
                 "stars": 676
@@ -20790,6 +20805,21 @@
             },
             {
               "node_type": "item",
+              "title": "typed-storage-angular",
+              "description": "Angular wrapper for @jeanharo98/typed-storage with native Angular Signals integration and automatic localStorage sync.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1272982332,
+                "language": "TypeScript",
+                "last_commit": "2026-07-26T01:57:37Z",
+                "owner": "JeanHaro",
+                "repo": "typed-storage-angular",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
               "title": "secure-client-store",
               "description": "Universal TypeScript library for AES-256-GCM client-side encryption (works in browsers & Node.js).",
               "children": [],
@@ -20949,7 +20979,7 @@
                 "last_commit": "2026-08-20T02:58:33Z",
                 "owner": "NG-ZORRO",
                 "repo": "ng-zorro-antd",
-                "stars": 9167
+                "stars": 9166
               }
             },
             {
@@ -20964,7 +20994,7 @@
                 "last_commit": "2026-01-15T08:32:21Z",
                 "owner": "akveo",
                 "repo": "nebular",
-                "stars": 8122
+                "stars": 8121
               }
             },
             {
@@ -20991,10 +21021,10 @@
                 "archived": false,
                 "id": 943014751,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T22:51:35Z",
+                "last_commit": "2026-08-21T18:02:41Z",
                 "owner": "zard-ui",
                 "repo": "zardui",
-                "stars": 1129
+                "stars": 1130
               }
             },
             {
@@ -21006,7 +21036,7 @@
                 "archived": false,
                 "id": 193748094,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:48:02Z",
+                "last_commit": "2026-08-21T19:07:23Z",
                 "owner": "po-ui",
                 "repo": "po-angular",
                 "stars": 1013
@@ -21021,7 +21051,7 @@
                 "archived": false,
                 "id": 65904967,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:25:27Z",
+                "last_commit": "2026-08-21T19:08:42Z",
                 "owner": "swimlane",
                 "repo": "ngx-ui",
                 "stars": 735
@@ -21039,7 +21069,7 @@
                 "last_commit": "2026-08-21T01:57:05Z",
                 "owner": "openng-org",
                 "repo": "optimus-ui",
-                "stars": 570
+                "stars": 577
               }
             },
             {
@@ -21066,7 +21096,7 @@
                 "archived": false,
                 "id": 185655599,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T13:58:55Z",
+                "last_commit": "2026-08-21T19:21:18Z",
                 "owner": "jsuites",
                 "repo": "jsuites",
                 "stars": 510
@@ -21126,7 +21156,7 @@
                 "archived": false,
                 "id": 135006241,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:50:02Z",
+                "last_commit": "2026-08-22T00:32:51Z",
                 "owner": "SAP",
                 "repo": "fundamental-ngx",
                 "stars": 294
@@ -21501,7 +21531,7 @@
                 "archived": false,
                 "id": 219111340,
                 "language": "Less",
-                "last_commit": "2026-08-01T08:36:20Z",
+                "last_commit": "2026-08-22T16:32:44Z",
                 "owner": "KY-Programming",
                 "repo": "mantic-ui",
                 "stars": 4
@@ -21561,7 +21591,7 @@
                 "archived": false,
                 "id": 790318365,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:35:17Z",
+                "last_commit": "2026-08-22T11:12:32Z",
                 "owner": "kstepien3",
                 "repo": "ng-zen",
                 "stars": 3
@@ -21651,7 +21681,7 @@
                 "archived": false,
                 "id": 1288453898,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T18:55:58Z",
+                "last_commit": "2026-08-22T08:01:47Z",
                 "owner": "GuildOfGleks",
                 "repo": "gleks_web_ui",
                 "stars": 3
@@ -21771,7 +21801,7 @@
                 "archived": false,
                 "id": 1176433469,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T01:16:22Z",
+                "last_commit": "2026-08-21T22:43:11Z",
                 "owner": "mwiraszka",
                 "repo": "eagami",
                 "stars": 1
@@ -21801,7 +21831,7 @@
                 "archived": false,
                 "id": 1161641624,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:30:06Z",
+                "last_commit": "2026-08-22T10:04:42Z",
                 "owner": "openmfp",
                 "repo": "webcomponents",
                 "stars": 1
@@ -22230,7 +22260,7 @@
                 "last_commit": "2026-08-21T15:39:14Z",
                 "owner": "htmlstreamofficial",
                 "repo": "preline",
-                "stars": 6389
+                "stars": 6391
               }
             },
             {
@@ -22272,10 +22302,10 @@
                 "archived": false,
                 "id": 1118006457,
                 "language": "MDX",
-                "last_commit": "2026-08-16T11:44:39Z",
+                "last_commit": "2026-08-22T07:17:07Z",
                 "owner": "gufodotdev",
                 "repo": "starting-point-ui",
-                "stars": 91
+                "stars": 92
               }
             },
             {
@@ -22437,10 +22467,25 @@
                 "archived": false,
                 "id": 1177121191,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T08:14:34Z",
+                "last_commit": "2026-08-21T20:40:33Z",
                 "owner": "Andersseen",
                 "repo": "volt-ui",
                 "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arena by Dravensoft",
+              "description": "Token-driven Angular and React components sharing a Tailwind layer, governed by strict API and accessibility contract files, with no built-in palette or fonts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1302341031,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T00:53:36Z",
+                "owner": "dravensoft-dev",
+                "repo": "arena",
+                "stars": 1
               }
             },
             {
@@ -22519,7 +22564,7 @@
                 "archived": false,
                 "id": 12256376,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:28:48Z",
+                "last_commit": "2026-08-21T22:11:45Z",
                 "owner": "ionic-team",
                 "repo": "ionic-framework",
                 "stars": 52621
@@ -22564,7 +22609,7 @@
                 "archived": false,
                 "id": 726984610,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:44:24Z",
+                "last_commit": "2026-08-22T11:28:15Z",
                 "owner": "rdlabo-dev",
                 "repo": "ionic-angular-library",
                 "stars": 14
@@ -22594,7 +22639,7 @@
                 "archived": false,
                 "id": 732650978,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T11:40:25Z",
+                "last_commit": "2026-08-22T05:33:07Z",
                 "owner": "rdlabo-dev",
                 "repo": "ionic-angular-collect-icons",
                 "stars": 6
@@ -22706,10 +22751,10 @@
                 "archived": false,
                 "id": 533838976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T16:04:18Z",
+                "last_commit": "2026-08-22T08:49:32Z",
                 "owner": "ng-primitives",
                 "repo": "ng-primitives",
-                "stars": 591
+                "stars": 593
               }
             },
             {
@@ -23245,7 +23290,7 @@
                 "archived": false,
                 "id": 400847610,
                 "language": "TypeScript",
-                "last_commit": "2026-08-09T11:51:01Z",
+                "last_commit": "2026-08-22T04:32:58Z",
                 "owner": "ineam",
                 "repo": "ngx-fancy",
                 "stars": 1
@@ -23453,7 +23498,7 @@
                 "archived": false,
                 "id": 243833305,
                 "language": "JavaScript",
-                "last_commit": "2026-07-22T19:26:58Z",
+                "last_commit": "2026-08-22T09:52:00Z",
                 "owner": "chrisguttandin",
                 "repo": "subscribable-things",
                 "stars": 48
@@ -23543,7 +23588,7 @@
                 "archived": false,
                 "id": 967923349,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T12:26:19Z",
+                "last_commit": "2026-08-22T14:27:25Z",
                 "owner": "andreasnicolaou",
                 "repo": "reactive-event-source",
                 "stars": 2
@@ -23625,10 +23670,10 @@
                 "archived": false,
                 "id": 20929025,
                 "language": "Go",
-                "last_commit": "2026-08-21T16:16:58Z",
+                "last_commit": "2026-08-21T21:39:39Z",
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110355
+                "stars": 110489
               }
             },
             {
@@ -23640,10 +23685,10 @@
                 "archived": false,
                 "id": 6093316,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T08:58:48Z",
+                "last_commit": "2026-08-22T01:06:42Z",
                 "owner": "DefinitelyTyped",
                 "repo": "DefinitelyTyped",
-                "stars": 51381
+                "stars": 51383
               }
             },
             {
@@ -23688,7 +23733,7 @@
                 "last_commit": "2026-08-13T21:58:09Z",
                 "owner": "trpc",
                 "repo": "trpc",
-                "stars": 40532
+                "stars": 40533
               }
             },
             {
@@ -23703,7 +23748,7 @@
                 "last_commit": "2026-08-20T07:50:40Z",
                 "owner": "sindresorhus",
                 "repo": "type-fest",
-                "stars": 17370
+                "stars": 17374
               }
             },
             {
@@ -23733,7 +23778,7 @@
                 "last_commit": "2026-08-17T18:26:08Z",
                 "owner": "glideapps",
                 "repo": "quicktype",
-                "stars": 13842
+                "stars": 13840
               }
             },
             {
@@ -23760,10 +23805,10 @@
                 "archived": false,
                 "id": 663456281,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T15:25:02Z",
+                "last_commit": "2026-08-22T09:03:59Z",
                 "owner": "open-circle",
                 "repo": "valibot",
-                "stars": 8945
+                "stars": 8949
               }
             },
             {
@@ -23938,7 +23983,7 @@
                 "archived": false,
                 "id": 354901902,
                 "language": "Go",
-                "last_commit": "2026-08-21T14:21:51Z",
+                "last_commit": "2026-08-22T08:04:45Z",
                 "owner": "fullstack-lang",
                 "repo": "gong",
                 "stars": 16
@@ -24372,7 +24417,7 @@
                 "archived": false,
                 "id": 109109615,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:44:39Z",
+                "last_commit": "2026-08-21T19:41:27Z",
                 "owner": "visjs",
                 "repo": "ngx-vis",
                 "stars": 73
@@ -24642,7 +24687,7 @@
                 "archived": false,
                 "id": 901404444,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T14:44:46Z",
+                "last_commit": "2026-08-21T20:26:26Z",
                 "owner": "sbb-design-systems",
                 "repo": "lyne-angular",
                 "stars": 6
@@ -25118,7 +25163,7 @@
             "archived": false,
             "id": 850660777,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T08:37:20Z",
+            "last_commit": "2026-08-22T09:40:41Z",
             "owner": "lumirlumir",
             "repo": "npm-clang-format-node",
             "stars": 33
@@ -25435,10 +25480,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:45:03.163Z",
+    "last_updated": "2026-08-22T17:35:24.238Z",
     "original_repository": "PatrickJS/awesome-angular",
     "original_repository_id": 41718185,
-    "original_repository_sha": "f568e96c6a91872987977c6e45058a8d2bfb74e1",
+    "original_repository_sha": "42204fdd058263d130b0269d9d26fb85e3416b9b",
     "enhanced_repository": "enhansome/enhansome-angular",
     "enhanced_repository_description": null,
     "title": "Awesome Angular with stars"
