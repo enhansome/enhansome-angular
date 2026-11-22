@@ -141,7 +141,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/angular/angular) ⭐ 101,471 | 🐛 977 | 🌐 TypeScript | 📅 2026-11-20
+* [GitHub Repo](https://github.com/angular/angular) ⭐ 101,547 | 🐛 984 | 🌐 TypeScript | 📅 2026-11-20
 * [Site](https://angular.dev)
 * [Blog](https://blog.angular.dev/)
 * [Getting Started Tutorial](https://angular.dev/tutorials/learn-angular)
@@ -149,15 +149,15 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Builders
 
-* [angular-rspack](https://github.com/nrwl/nx/tree/HEAD/packages/angular-rspack) ⭐ 29,485 | 🐛 437 | 🌐 TypeScript | 📅 2026-11-21 - [Rspack](https://github.com/web-infra-dev/rspack) ⭐ 12,988 | 🐛 248 | 🌐 Rust | 📅 2026-11-21 plugin and tooling for Angular applications.
+* [angular-rspack](https://github.com/nrwl/nx/tree/HEAD/packages/angular-rspack) ⭐ 29,490 | 🐛 437 | 🌐 TypeScript | 📅 2026-11-21 - [Rspack](https://github.com/web-infra-dev/rspack) ⭐ 12,990 | 🐛 252 | 🌐 Rust | 📅 2026-11-22 plugin and tooling for Angular applications.
 * [ng-packagr](https://github.com/ng-packagr/ng-packagr) ⭐ 1,854 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-20 - Compile and package Angular libraries in Angular Package Format (APF).
 * [ngx-build-plus](https://github.com/manfredsteyer/ngx-build-plus) ⭐ 1,200 | 🐛 213 | 🌐 TypeScript | 📅 2025-10-07 - Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements.
-* [Angular Builders](https://github.com/just-jeb/angular-builders) ⭐ 1,165 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-21 - This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade.
-* [Jest Builder](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) ⭐ 1,165 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-21
-* [Custom Webpack](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) ⭐ 1,165 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-21
-* [Custom esbuild](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild) ⭐ 1,165 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-21
-* [Bazel](https://github.com/just-jeb/angular-builders/tree/master/packages/bazel) ⭐ 1,165 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-21 - Provides an Angular CLI Builder, which can execute Bazel when triggered by ng build, ng test, etc.
-* [Timestamp](https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp) ⭐ 1,165 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-21 - This is explained in this [article](https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811).
+* [Angular Builders](https://github.com/just-jeb/angular-builders) ⭐ 1,165 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-22 - This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade.
+* [Jest Builder](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) ⭐ 1,165 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-22
+* [Custom Webpack](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) ⭐ 1,165 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-22
+* [Custom esbuild](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild) ⭐ 1,165 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-22
+* [Bazel](https://github.com/just-jeb/angular-builders/tree/master/packages/bazel) ⭐ 1,165 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-22 - Provides an Angular CLI Builder, which can execute Bazel when triggered by ng build, ng test, etc.
+* [Timestamp](https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp) ⭐ 1,165 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-22 - This is explained in this [article](https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811).
 * [dotenv-run](https://github.com/chihab/dotenv-run) ⭐ 312 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-12 - Seamlessly load environment variables. Supports cli, esbuild, Rollup, Vite, Webpack, Angular, ESM and Monorepos.
 * [ngx-electronify](https://github.com/bampakoa/ngx-electron/tree/master/packages/builder) ⭐ 123 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-12 - Angular CLI builder that runs your application in the desktop using Electron.
 * [angular-static-assets-hash](https://github.com/sitelint/angular-static-assets-hash) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-17 - Create a list of Angular static assets and a hash for each file.
@@ -169,16 +169,16 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### CLI Tools
 
-* [Official GitHub repository](https://github.com/angular/angular-cli) ⭐ 27,023 | 🐛 221 | 🌐 TypeScript | 📅 2026-11-20
-* [Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) ⭐ 825 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-20 - Scaffold production-ready fullstack apps in seconds. Pick your stack from 425 options — the CLI wires everything together.
-* [Firebase App Hosting adapters](https://github.com/firebase/apphosting-adapters) ⭐ 490 | 🐛 266 | 🌐 TypeScript | 📅 2026-11-17 - Experimental addon to the [Firebase CLI](https://github.com/firebase/firebase-tools/) ⭐ 4,490 | 🐛 1,105 | 🌐 TypeScript | 📅 2026-11-21 to add web framework support.
+* [Official GitHub repository](https://github.com/angular/angular-cli) ⭐ 27,024 | 🐛 225 | 🌐 TypeScript | 📅 2026-11-20
+* [Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) ⭐ 826 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - Scaffold production-ready fullstack apps in seconds. Pick your stack from 425 options — the CLI wires everything together.
+* [Firebase App Hosting adapters](https://github.com/firebase/apphosting-adapters) ⭐ 490 | 🐛 266 | 🌐 TypeScript | 📅 2026-11-17 - Experimental addon to the [Firebase CLI](https://github.com/firebase/firebase-tools/) ⭐ 4,491 | 🐛 1,105 | 🌐 TypeScript | 📅 2026-11-21 to add web framework support.
 * [angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff) ⭐ 342 | 🐛 0 | 🌐 Shell | 📅 2026-11-19 - Easily upgrade your Angular CLI applications from one version to another 🚀.
 * [ng-chrome-extension](https://github.com/larscom/ng-chrome-extension) ⭐ 190 | 🐛 6 | 🌐 JavaScript | 📅 2026-05-07 - Easily create Angular Chrome Extensions (manifest v3).
 * [svger-cli](https://github.com/faezemohades/svger-cli) ⭐ 25 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-22 - A lightweight CLI that transforms SVGs into optimized Angular components with zero dependencies.
 * [tailwind-init-cli](https://github.com/ImLeoNova/tailwind-init-cli) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-01 - A one-command setup tool for Tailwind CSS in Angular, React, or Next.js projects!
 * [angular-cli-helper](https://github.com/bibangjoseph/ng-cli-helper) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-24 - A CLI tool that can initialize a full project structure with a built-in API service, authentication system, and HTTP interceptor.
 * [angular-cli-ssr-diff](https://github.com/cexbrayat/angular-cli-ssr-diff) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2026-11-19 - Easily upgrade your Angular CLI SSR applications from one version to another 🚀.
-* [Qodalis Web CLI](https://github.com/qodalis-solutions/web-cli) ⭐ 4 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-20 - A flexible CLI tool designed to streamline workflows, automate tasks, and provide customizable utilities for developers.
+* [Qodalis Web CLI](https://github.com/qodalis-solutions/web-cli) ⭐ 4 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-22 - A flexible CLI tool designed to streamline workflows, automate tasks, and provide customizable utilities for developers.
 * [fanstack](https://github.com/PrestomediaLLC/fanstack) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-02 - A lightweight CLI and architecture that automatically watches your Firebase functions and generates a strictly typed Angular service.
 * [@MohamedBouattour/angular-clean-architecture](https://github.com/MohamedBouattour/angular-clean-architecture) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 - A CLI tool that generates Clean Architecture–based, production‑ready Angular features with clear, maintainable layers.
 * [i18n-fixer](https://github.com/zfurkandurum/i18n-fixer) ⭐ 2 | 🐛 3 | 🌐 Go | 📅 2026-07-21 - Framework-agnostic CLI tool that finds hardcoded strings, missing i18n keys, and unused translations.
@@ -212,11 +212,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Desktop Applications
 
-* [electron](https://github.com/electron/electron) ⭐ 124,037 | 🐛 800 | 🌐 C++ | 📅 2026-11-21 - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-* [nw.js](https://github.com/nwjs/nw.js) ⭐ 41,144 | 🐛 914 | 🌐 JavaScript | 📅 2026-11-12 - Chromium + Node.js runtime for native apps using HTML, JavaScript, and direct Node integration.
-* [wails](https://github.com/wailsapp/wails) ⭐ 37,176 | 🐛 414 | 🌐 Go | 📅 2026-11-20 - Build desktop applications using Go & web technologies, including [Angular](https://wails.io/docs/guides/angular/).
-* [neutralinojs](https://github.com/neutralinojs/neutralinojs) ⭐ 8,696 | 🐛 143 | 🌐 C | 📅 2026-11-20 - A lightweight, portable framework for building cross‑platform desktop apps with JavaScript, HTML, and CSS, running on Linux, macOS, Windows, Web, and Chrome.
-* [angular-electron](https://github.com/belnadris/angular-electron) ⭐ 5,705 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-07 - Ultra-fast bootstrapping with Angular and Electron.
+* [electron](https://github.com/electron/electron) ⭐ 124,057 | 🐛 806 | 🌐 C++ | 📅 2026-11-22 - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+* [nw.js](https://github.com/nwjs/nw.js) ⭐ 41,142 | 🐛 914 | 🌐 JavaScript | 📅 2026-11-12 - Chromium + Node.js runtime for native apps using HTML, JavaScript, and direct Node integration.
+* [wails](https://github.com/wailsapp/wails) ⭐ 37,177 | 🐛 416 | 🌐 Go | 📅 2026-11-22 - Build desktop applications using Go & web technologies, including [Angular](https://wails.io/docs/guides/angular/).
+* [neutralinojs](https://github.com/neutralinojs/neutralinojs) ⭐ 8,695 | 🐛 143 | 🌐 C | 📅 2026-11-20 - A lightweight, portable framework for building cross‑platform desktop apps with JavaScript, HTML, and CSS, running on Linux, macOS, Windows, Web, and Chrome.
+* [angular-electron](https://github.com/belnadris/angular-electron) ⭐ 5,704 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-07 - Ultra-fast bootstrapping with Angular and Electron.
 * [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) ⭐ 1,656 | 🐛 30 | 🌐 Rust | 📅 2026-11-21 - Rapidly scaffold out a new Tauri app project.
 * [angular-tauri](https://github.com/belnadris/angular-tauri) ⭐ 217 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-07 - Ultra-fast bootstrapping with Angular and Tauri.
 * [nw-angular-example](https://github.com/nwutils/nw-angular-example) ⭐ 33 | 🐛 18 | 🌐 HTML | 📅 2026-09-01 - An example of integrating Angular with NW\.js.
@@ -225,13 +225,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Mobile Applications
 
-* [Official Ionic GitHub repository](https://github.com/ionic-team/ionic-framework) ⭐ 52,772 | 🐛 481 | 🌐 TypeScript | 📅 2026-11-20
-* [Capacitor](https://github.com/ionic-team/capacitor) ⭐ 17,134 | 🐛 153 | 🌐 TypeScript | 📅 2026-11-20 - The official cross-platform native runtime that powers modern Ionic applications.
+* [Official Ionic GitHub repository](https://github.com/ionic-team/ionic-framework) ⭐ 52,776 | 🐛 481 | 🌐 TypeScript | 📅 2026-11-20
+* [Capacitor](https://github.com/ionic-team/capacitor) ⭐ 17,140 | 🐛 155 | 🌐 TypeScript | 📅 2026-11-20 - The official cross-platform native runtime that powers modern Ionic applications.
 * [awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) ⭐ 2,450 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-20 - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
-* [ng-native](https://github.com/ng-native/ng-native) ⭐ 644 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-21 - Angular apps rendered as real native iOS and Android views.
+* [ng-native](https://github.com/ng-native/ng-native) ⭐ 644 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-22 - Angular apps rendered as real native iOS and Android views.
 * [symbiote-native](https://github.com/OneEyed1366/symbiote-native) ⭐ 75 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-19 - A stable native runtime utilizing React Native's core engine to drive real iOS/Android stacks directly from Angular.
 * [ionic-header-parallax](https://github.com/RaschidJFR/ionic-header-parallax) ⭐ 38 | 🐛 5 | 🌐 TypeScript | 📅 2026-01-16 - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
-* [AngularLynx](https://github.com/Blotch-Smart-Frames/AngularLynx) ⭐ 18 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-21 - Renders Angular components to native iOS, Android, and Web UI via the [Lynx](https://lynxjs.org/) runtime by ByteDance.
+* [AngularLynx](https://github.com/Blotch-Smart-Frames/AngularLynx) ⭐ 18 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-22 - Renders Angular components to native iOS, Android, and Web UI via the [Lynx](https://lynxjs.org/) runtime by ByteDance.
 * [ionic-angular-library](https://github.com/rdlabo-dev/ionic-angular-library) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - A collection of components and services that are useful for developing Ionic Angular applications.
 * [ionx-search-select](https://github.com/kisimediaDE/ionx-search-select) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-29 - Modern Angular/Ionic search & select with standalone components, signals, and full `ControlValueAccessor` support.
 * [ionic-angular-collect-icons](https://github.com/rdlabo-dev/ionic-angular-collect-icons) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-11 - Library to group ionIcons and auto‑generate export files, simplifying addIcons() management in small projects.
@@ -269,7 +269,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Made with Angular](https://github.com/madewithangular/madewithangular.github.io) ⭐ 103 | 🐛 0 | 🌐 HTML | 📅 2026-11-04 - A showcase of web apps built with Angular.
 * [angular-logos](https://github.com/maartentibau/angular-logos) ⭐ 77 | 🐛 8 | 📅 2024-06-11 - This repository collects all Angular badges and logos.
 * [Angular Hub](https://github.com/geromegrignon/angular-hub) ⭐ 59 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-28 - Curated list of Angular events and communities.
-* [Angularians](https://github.com/erkamyaman/angularians) ⭐ 43 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-21 - The ultimate leaderboard for everyone who has contributed to Angular.
+* [Angularians](https://github.com/erkamyaman/angularians) ⭐ 43 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-22 - The ultimate leaderboard for everyone who has contributed to Angular.
 * [Angular Popularity Analysis](https://github.com/ProjectBay/angular-popularity-analysis) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2026-06-24 - An AI-era normalized statistical analysis of Angular’s popularity.
 * [Angular Discord Channel](https://discord.com/invite/angular)
 * [Angular Stack Overflow](https://stackoverflow.com/questions/tagged/angular)
@@ -445,8 +445,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-feature-toggle](https://github.com/willmendesneto/ngx-feature-toggle) ⭐ 99 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-15 - Simplify managing feature toggles with this Angular directive.
 * [@configcat/js-sdk](https://github.com/configcat/js-sdk) ⚠️ Archived - ConfigCat SDK for JavaScript provides easy integration for your application to [ConfigCat](https://configcat.com/).
 * [ngx-feature-proxy](https://github.com/zenkiet/ngx-feature-proxy) ⭐ 33 | 🐛 6 | 🌐 SCSS | 📅 2026-11-20 - Angular feature flag library with Unleash; reactive and type-safe flag management with minimal setup.
-* [flagrm](https://github.com/dino-cosic/flagrm) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - Safely remove feature flags with your AI coding agent.
-* [Toggly](https://github.com/ops-ai/Toggly.FeatureManagement) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - Angular SDK for [Toggly](https://toggly.io/) feature flags.
+* [flagrm](https://github.com/dino-cosic/flagrm) ⭐ 7 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - Safely remove feature flags with your AI coding agent.
+* [Toggly](https://github.com/ops-ai/Toggly.FeatureManagement) ⭐ 5 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-22 - Angular SDK for [Toggly](https://toggly.io/) feature flags.
 * [featurit-sdk-angular](https://github.com/featurit/featurit-sdk-angular) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-02 - Angular wrapper of the JavaScript client for the [FeaturIT](https://featurit.com/) Feature Flag management platform.
 * [@rollgate/sdk-angular](https://github.com/rollgate/sdks/tree/main/packages/sdk-angular) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-04 - Angular SDK for [Rollgate](https://rollgate.io), a feature‑flag platform with scheduled releases and gradual rollouts.
 * [flagtide](https://github.com/adiyy2001/flagtide) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-11-10 - A self-hosted feature flag service built with a Quarkus backend that pushes real-time updates via WebSockets to an Angular SDK for server-consistent local evaluation.
@@ -461,8 +461,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### GraphQL
 
-* [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) ⭐ 11,268 | 🐛 469 | 🌐 TypeScript | 📅 2026-11-21 - Code generator for GraphQL schemas and operations, with flexible plugin support.
-* [apollo-angular](https://github.com/the-guild-org/apollo-angular) ⭐ 1,512 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-11 - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
+* [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) ⭐ 11,267 | 🐛 464 | 🌐 TypeScript | 📅 2026-11-22 - Code generator for GraphQL schemas and operations, with flexible plugin support.
+* [apollo-angular](https://github.com/the-guild-org/apollo-angular) ⭐ 1,511 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-11 - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
 * [apollo-orbit](https://github.com/wassim-k/apollo-orbit) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-14 - A fully-featured GraphQL client for Angular with modular state management.
 * [apollo-dynamic-angular](https://github.com/giuliano-marinelli/apollo-dynamic-angular) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-19 - Variant of Apollo Angular that allows dynamic selection sets for queries, mutations and subscriptions via a decorated schema.
 * [ngx-graphql-client](https://github.com/Alevettih/ngx-graphql-client) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-25 - A typed GraphQL client for Angular applications with full TypeScript support.
@@ -470,7 +470,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### HTTP
 
-* [@connectrpc/connect-web](https://github.com/connectrpc/connect-es/tree/main/packages/connect-web) ⭐ 1,833 | 🐛 64 | 🌐 TypeScript | 📅 2026-11-20 - [Connect](https://connectrpc.com/) provides cross-platform API libraries. [@connectrpc/connect](https://www.npmjs.com/package/@connectrpc/connect) offers type-safe Protobuf APIs in TypeScript, and [@connectrpc/connect-web](https://www.npmjs.com/package/@connectrpc/connect-web) adds browser support. See the [Angular example](https://github.com/connectrpc/examples-es/tree/main/angular) ⭐ 166 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-02.
+* [@connectrpc/connect-web](https://github.com/connectrpc/connect-es/tree/main/packages/connect-web) ⭐ 1,835 | 🐛 66 | 🌐 TypeScript | 📅 2026-11-20 - [Connect](https://connectrpc.com/) provides cross-platform API libraries. [@connectrpc/connect](https://www.npmjs.com/package/@connectrpc/connect) offers type-safe Protobuf APIs in TypeScript, and [@connectrpc/connect-web](https://www.npmjs.com/package/@connectrpc/connect-web) adds browser support. See the [Angular example](https://github.com/connectrpc/examples-es/tree/main/angular) ⭐ 166 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-02.
 * [ng-http-loader](https://github.com/mpalourdio/ng-http-loader) ⭐ 350 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-17 - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
 * [@ngify/http](https://github.com/ngify/ngify/tree/main/packages/http) ⭐ 141 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-21 - Reactive Angular HTTP client with typed responses, streamlined errors, and request/response interception.
 * [ng-http-caching](https://github.com/nigrosimone/ng-http-caching) ⭐ 54 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - Cache for HTTP requests in Angular application.
@@ -481,13 +481,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-api-client](https://github.com/ismailza/ngx-api-client) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-18 - This configurable `ApiService` extracts and standardizes ad-hoc `HttpClient` logic for handling base URLs, errors, retries, and loading states.
 * [ng-speed-test](https://github.com/jrquick17/ng-speed-test) ⭐ 13 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-16 - A lightweight Angular library for checking internet speed.
 * [luminara](https://github.com/miller-28/luminara) ⭐ 12 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-03 - A modern, universal HTTP client built on native fetch, designed for reliable, scalable, and clear architecture.
-* [ngx-signal-query](https://github.com/dhutaryan/ngx-signal-query) ⭐ 10 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-21 - Signal-first data fetching, caching, and mutations for Angular — inspired by TanStack Query.
+* [ngx-signal-query](https://github.com/dhutaryan/ngx-signal-query) ⭐ 10 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-22 - Signal-first data fetching, caching, and mutations for Angular — inspired by TanStack Query.
 * [ngx-hal](https://github.com/infinum/ngx-hal) ⭐ 9 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-09 - A datastore library with support for handling [HAL-formatted](http://stateless.co/hal_specification.html) HTTP requests.
 * [ng-signal-query](https://github.com/Ali7040/ng-signal-query) ⭐ 8 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-01 - A type‑safe Angular querying library built on signals that streamlines server state, infinite queries, mutations, and caching with high performance.
 * [ngx-cachr](https://github.com/nulzo/ngx-cachr) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-25 - A slim, signal-based caching library for Angular.
 * [ngx-suspense-of](https://github.com/Celtian/ngx-suspense-of) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-27 - Angular directive that adds suspense to your app.
 * [ng-httpclient-easy-network-stub](https://github.com/NGneers/ng-httpclient-easy-network-stub) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21 - An easy class to mock a lot of network requests from the Angular HttpClient.
-* [mutation](https://github.com/ngsignal/mutation) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-21 - An Angular low-level Signal-based primitive for mutations (POST/PUT/DELETE).
+* [mutation](https://github.com/ngsignal/mutation) ⭐ 6 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-22 - An Angular low-level Signal-based primitive for mutations (POST/PUT/DELETE).
 * [trpc-angular](https://github.com/heddendorp/trpc-angular) ⭐ 5 | 🐛 9 | 🌐 TypeScript | 📅 2026-02-14 - This repository offers two tRPC-based Angular packages: `@heddendorp/trpc-link-angular` for HttpClient, and `@heddendorp/tanstack-angular-query` for reactive data fetching.
 * [ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-16 - A lightweight Angular v20+ adapter for JSON API.
 * [fetchquack](https://github.com/adrian-bueno/fetchquack) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-12 - Angular‑ready HTTP client with an RxJS Observable wrapper and injection‑context support, offering lightweight Fetch‑based streaming, SSE, and upload/download progress handling.
@@ -508,7 +508,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-rest-client](https://github.com/gizm0bill/gzm/tree/master/libs/ng-rest-client) ⭐ 1 | 🐛 12 | 🌐 TypeScript | 📅 2026-01-28 - This library simplifies HTTP requests by letting developers define RESTful API clients with method decorators.
 * [ngx-data-polling](https://github.com/antonio-spinelli/ngx-data-polling) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-06 - Angular library with utilities to handle data polling in a declarative and type-safe way.
 * [ziflux](https://github.com/neogenz/ziflux) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-18 - A zero‑dependency, signal‑native caching layer for Angular 21+ with stale‑while‑revalidate for resource()—instant navigations, background refreshes, no spinners.
-* [ngx-trpc-client](https://github.com/BeGj/ngx-trpc-client) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-21 - Reworked fork of Analog's [TRPC package](https://github.com/analogjs/analog/tree/beta/packages/trpc) ⭐ 3,213 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-20.
+* [ngx-trpc-client](https://github.com/BeGj/ngx-trpc-client) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-21 - Reworked fork of Analog's [TRPC package](https://github.com/analogjs/analog/tree/beta/packages/trpc) ⭐ 3,213 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-22.
 * [zx-angular-lazy-resource](https://github.com/zxnc/zx-angular-lazy-resource) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-20 - Lazy helpers for Angular's signal-based `resource()` — defer loading until first access, and await the first settled value as a promise.
 * [@some-angular-utils/paginator](https://github.com/some-angular-utils/paginator) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-23 - Simple, reliable pagination with two inputs: sliding window, jump buttons, disabled edges, and CSS-variable theming.
 * [angular-query](https://github.com/klheb/angular-query) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-17 - An Angular-first data fetching library inspired by TanStack Query that uses Angular Signals for reactive queries, caching, and state management.
@@ -544,8 +544,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Monorepos
 
-* [Turborepo](https://github.com/vercel/turborepo) ⭐ 31,386 | 🐛 43 | 🌐 Rust | 📅 2026-11-21 - Build system optimized for JavaScript and TypeScript, written in Rust.
-* [Nx](https://github.com/nrwl/nx) ⭐ 29,485 | 🐛 437 | 🌐 TypeScript | 📅 2026-11-21 - A build system with integrated tools and advanced CI features for maintaining and scaling monorepos locally and in CI.
+* [Turborepo](https://github.com/vercel/turborepo) ⭐ 31,386 | 🐛 45 | 🌐 Rust | 📅 2026-11-22 - Build system optimized for JavaScript and TypeScript, written in Rust.
+* [Nx](https://github.com/nrwl/nx) ⭐ 29,490 | 🐛 437 | 🌐 TypeScript | 📅 2026-11-21 - A build system with integrated tools and advanced CI features for maintaining and scaling monorepos locally and in CI.
 * [Moon](https://moonrepo.dev/docs/guides/examples/angular) - A Rust-based build and monorepo management tool for the web.
 
 ### Server-Side Rendering
@@ -553,7 +553,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-prerender](https://github.com/chrisguttandin/angular-prerender) ⭐ 128 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-25 - A command line tool to prerender Angular Apps.
 * [analog-tools](https://github.com/MrBacony/analog-tools) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-25 - A collection of utilities and libraries designed to enhance and extend AnalogJS.
 * [bot-ssr](https://github.com/patrikx3/bot-ssr) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-06 - SSR for bots, instant CSR for users — fast loads and clean prerendered HTML for major crawlers, powered by [isbot](https://github.com/omrilotan/isbot) ⭐ 1,168 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-17.
-* [ngx-sitemaps](https://github.com/json-derulo/ngx-sitemaps) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-16 - Generate sitemaps from Angular prerendered routes.
+* [ngx-sitemaps](https://github.com/json-derulo/ngx-sitemaps) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - Generate sitemaps from Angular prerendered routes.
 * [ngx-bun](https://github.com/quinnjr/ngx-bun) ⭐ 2 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-05 - High-performance SSR/SSG adapter for Angular 19+ using Bun's built-in server.
 * [ng-ssr-caching](https://github.com/nigrosimone/ng-ssr-caching) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-12 - Cache for server-side rendered pages in Angular SSR.
 * [fastang](https://github.com/daclab-dev/fastang) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-26 - An experimental, all-in-one web framework that unifies Angular on the frontend, Fastify on the backend, and integrated SSR.
@@ -584,20 +584,20 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### AI
 
-* [context7](https://github.com/upstash/context7) ⭐ 65,240 | 🐛 56 | 🌐 TypeScript | 📅 2026-11-20 - MCP Server with up-to-date code documentation for LLMs and AI code editors.
-* [CopilotKit](https://github.com/CopilotKit/CopilotKit) ⭐ 38,865 | 🐛 480 | 🌐 TypeScript | 📅 2026-11-21 - Generative UI, shared state, and human-in-the-loop workflows for React, Angular, Vue, React Native, and in Slack and Microsoft Teams.
-* [repomix](https://github.com/yamadashy/repomix) ⭐ 29,369 | 🐛 174 | 🌐 TypeScript | 📅 2026-11-21 - A tool that packs your entire repository into a single, AI-friendly file.
-* [a2ui](https://github.com/a2ui-project/a2ui) ⭐ 17,729 | 🐛 489 | 🌐 TypeScript | 📅 2026-11-21 - Open-source generative UI framework that lets agents stream layout data rendered with native Angular components.
-* [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) ⭐ 3,749 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-24 - Fully customizable AI chatbot component for your website.
+* [context7](https://github.com/upstash/context7) ⭐ 65,288 | 🐛 57 | 🌐 TypeScript | 📅 2026-11-22 - MCP Server with up-to-date code documentation for LLMs and AI code editors.
+* [CopilotKit](https://github.com/CopilotKit/CopilotKit) ⭐ 38,888 | 🐛 479 | 🌐 TypeScript | 📅 2026-11-22 - Generative UI, shared state, and human-in-the-loop workflows for React, Angular, Vue, React Native, and in Slack and Microsoft Teams.
+* [repomix](https://github.com/yamadashy/repomix) ⭐ 29,385 | 🐛 177 | 🌐 TypeScript | 📅 2026-11-22 - A tool that packs your entire repository into a single, AI-friendly file.
+* [a2ui](https://github.com/a2ui-project/a2ui) ⭐ 18,121 | 🐛 496 | 🌐 TypeScript | 📅 2026-11-22 - Open-source generative UI framework that lets agents stream layout data rendered with native Angular components.
+* [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) ⭐ 3,751 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-22 - Fully customizable AI chatbot component for your website.
 * [hashbrown](https://github.com/liveloveapp/hashbrown) ⭐ 736 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-21 - Framework for building joyful, AI-powered user experiences.
-* [Official Angular Skills](https://github.com/angular/skills) ⭐ 731 | 🐛 0 | 📅 2026-11-20
+* [Official Angular Skills](https://github.com/angular/skills) ⭐ 732 | 🐛 0 | 📅 2026-11-20
 * [Official Angular Examples Repo](https://github.com/angular/examples) ⭐ 332 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-21 - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and AI.
-* [Threadplane](https://github.com/cacheplane/threadplane) ⭐ 165 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-21 - Angular-native agent UI framework: streaming chat, durable threads, interrupts, subagents, planning, memory, and generative UI for LangGraph and AG-UI backends.
+* [Threadplane](https://github.com/cacheplane/threadplane) ⭐ 164 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-22 - Angular-native agent UI framework: streaming chat, durable threads, interrupts, subagents, planning, memory, and generative UI for LangGraph and AG-UI backends.
 * [ngx-ai-devtools](https://github.com/ahmedkhan1/ngx-ai-devtools) ⭐ 156 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-19 -  See every prompt, response, token, and dollar your app spends without leaving the browser tab.
-* [agentskit](https://github.com/AgentsKit-io/agentskit) ⭐ 41 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-21 - Composable toolkit and headless chat components for building AI agents in Angular, with streaming, tools, memory and RAG.
+* [agentskit](https://github.com/AgentsKit-io/agentskit) ⭐ 42 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-22 - Composable toolkit and headless chat components for building AI agents in Angular, with streaming, tools, memory and RAG.
 * [agent-rules-kit](https://github.com/tecnomanu/agent-rules-kit) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-14 - A CLI tool for AI that installs and configures rules to guide agents in technology stack best practices.
 * [superconnect](https://github.com/bitovi/superconnect) ⭐ 24 | 🐛 1 | 🌐 JavaScript | 📅 2026-01-20 - An AI-powered tool that scans your Figma file, explores your React or Angular repo, generates `.figma.tsx` or `.figma.ts` mappings, and publishes them back via Figma’s CLI.
-* [ng-agentic-skills](https://github.com/L-X-T/ng-agentic-skills) ⭐ 14 | 🐛 0 | 🌐 Markdown | 📅 2026-10-04 - Agent skills for Angular development. The official companion repo for the [Agentic Engineering series](https://www.angulararchitects.io/blog/best-llms-for-angular/).
+* [ng-agentic-skills](https://github.com/L-X-T/ng-agentic-skills) ⭐ 15 | 🐛 0 | 🌐 Markdown | 📅 2026-10-04 - Agent skills for Angular development. The official companion repo for the [Agentic Engineering series](https://www.angulararchitects.io/blog/best-llms-for-angular/).
 * [context7-widget-angular](https://github.com/DeSource-Labs/context7-widget/tree/main/packages/angular) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-15 - Embed custom-styled Angular widgets to deliver real-time Context7 documentation answers directly inside your application.
 * [reangular](https://github.com/AleksanderBodurri/reangular) ⭐ 13 | 🐛 0 | 📅 2026-07-14 - A coding-agent skill that converts a React library into a modern Angular library with full feature parity, automated browser validation, and a side-by-side parity review.
 * [MacroQuest](https://github.com/Soverius-AI/angular-a2ui-macroquest) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-07 - An Angular demo application showcasing CopilotKit Angular A2UI, CopilotKit chat controls, NgRx Signal Store, and a local Gemma 4 model server.
@@ -605,14 +605,15 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [agentbridge](https://github.com/ayoubachak/agentbridge) ⭐ 6 | 🐛 1 | 🌐 HTML | 📅 2025-11-09 - A framework that standardizes how AI agents discover, interact with, and control application components.
 * [ngAutoPilot](https://github.com/janpereira-dev/ngAutoPilot) ⭐ 6 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-13 - Agent-agnostic catalog of micro-skills for Angular, TypeScript, JavaScript, RxJS, testing, code quality, architecture, versioning, and quality governance workflows.
 * [ngx-beautiful-ui](https://github.com/djordjejanjic/ngx-beautiful-ui) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28 - Signal-based Angular components for AI chat interfaces: prompt bar, streaming markdown, thinking states, tool calls and approval cards. Unofficial port of Beautiful UI, no Tailwind or UI framework required.
-* [ago-sdk](https://github.com/useago/ago-sdk) ⭐ 5 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-21 - By embedding AI agents directly into your frontend stack, AGO streams responses, triggers workflows, and interactively operates your UI.
+* [ago-sdk](https://github.com/useago/ago-sdk) ⭐ 5 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-22 - By embedding AI agents directly into your frontend stack, AGO streams responses, triggers workflows, and interactively operates your UI.
 * [Feature Search Agent - Angular PR Scout](https://github.com/dnlrbz/feature_search_agent) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2025-11-29 - An AI-powered agent built with Google's Agent Development Kit (ADK) that automatically searches and analyzes Angular's GitHub pull requests for new features.
+* [ng-point](https://github.com/abiramcodes/ng-point) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - Dev-mode Angular package for capturing LLM-ready element context via `Alt+Click`.
 * [rxjs-mcp-server](https://github.com/shuji-bonji/rxjs-mcp-server) ⭐ 5 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-28 - Execute, debug, and visualize RxJS streams directly from AI assistants like Claude.
 * [visual-ai-editor](https://github.com/bruno-gs-dev/visual-ai-editor) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-11 - Edit existing HTML with AI using natural language.
 * [aparté](https://github.com/apartejs/aparte) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-21 - AI chat UI as Web Components with an Angular wrapper: streaming Markdown, tool calls a user approves, AG-UI agents and any LLM backend.
 * [ngx-agents-md](https://github.com/suprasannaojha/ngx-agents-md) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-01 - Add Angular documentation to your project for AI coding agents (Claude Code, Cursor, etc).
 * [angular-nest-ai-kit](https://github.com/eusouwilson/angular-nest-ai-kit) ⭐ 3 | 🐛 0 | 📅 2026-10-11 - Skills and AI agents for standalone Angular + PrimeNG (frontend) and NestJS + Prisma (backend) monorepos, organized in Nx.
-* [mushi-mushi](https://github.com/kensaurus/mushi-mushi) ⭐ 3 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-21 - Plain-English AI app debugger delivering in-editor diagnoses and fixes.
+* [mushi-mushi](https://github.com/kensaurus/mushi-mushi) ⭐ 3 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-22 - Plain-English AI app debugger delivering in-editor diagnoses and fixes.
 * [ng-mocks-testing-skill](https://github.com/mintarasss/ng-mocks-testing-skill) ⭐ 3 | 🐛 1 | 📅 2026-04-21 - A collection of Claude Code skills for writing high-quality Angular unit tests with Jest and `ng-mocks`.
 * [senior-angular-architect](https://github.com/itsdishant/senior-angular-architect) ⭐ 3 | 🐛 0 | 📅 2026-07-23 - An expert AI skill for senior-level Angular architecture guidance.
 * [abbi-ng-ai-image-descriptor](https://github.com/slsfi/abbi-ng-ai-image-descriptor) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-20 - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
@@ -624,7 +625,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@full-stack-skills/angular-skills](https://github.com/full-stack-skills/angular-skills) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - Angular framework development skills for AI coding agents.
 * [ngx-json-render](https://github.com/shteynu/ngx-json-render) ⭐ 1 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-19 - Angular renderer for Vercel's json-render — an LLM streams a JSON spec constrained to your component catalog, rendered progressively as real Angular components with signals.
 * [ngx-quill-ink](https://github.com/AhsanAyaz/ngx-quill-ink) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-24 - TypeScript engine and Angular wrapper animating text streams as handwriting and capturing pen strokes for Vision LLMs.
-* [ngx-transformers](https://github.com/qwertymuzaffar/ngx-transformers) ⭐ 1 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-17 - Run Hugging Face [Transformers.js](https://github.com/huggingface/transformers.js) ⭐ 16,441 | 🐛 307 | 🌐 JavaScript | 📅 2026-11-18 models in Angular - on-device ML with a signals API.
+* [ngx-transformers](https://github.com/qwertymuzaffar/ngx-transformers) ⭐ 1 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-17 - Run Hugging Face [Transformers.js](https://github.com/huggingface/transformers.js) ⭐ 16,446 | 🐛 308 | 🌐 JavaScript | 📅 2026-11-18 models in Angular - on-device ML with a signals API.
 * [ngx-gen-ui](https://github.com/alessiopelliccione/ngx-gen-ui) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-05 - Lightweight Angular directive and service for streaming generative UI content via Firebase AI.
 * [Official AI docs](https://angular.dev/ai)
 * [Official Angular CLI MCP Server Setup](https://angular.dev/ai/mcp)
@@ -647,10 +648,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Analytics
 
-* [plausible](https://github.com/plausible/analytics) ⭐ 29,903 | 🐛 56 | 🌐 Elixir | 📅 2026-11-21 - Lightweight, open‑source, privacy‑friendly analytics with SPA support—see [SPA support](https://plausible.io/docs/spa-support).
-* [rybbit](https://github.com/rybbit-io/rybbit) ⭐ 13,349 | 🐛 210 | 🌐 TypeScript | 📅 2026-11-21 - A privacy-friendly alternative to Google Analytics; see this [guide](https://www.rybbit.io/docs/guides/angular) for Angular integration.
+* [plausible](https://github.com/plausible/analytics) ⭐ 29,913 | 🐛 56 | 🌐 Elixir | 📅 2026-11-21 - Lightweight, open‑source, privacy‑friendly analytics with SPA support—see [SPA support](https://plausible.io/docs/spa-support).
+* [rybbit](https://github.com/rybbit-io/rybbit) ⭐ 13,350 | 🐛 211 | 🌐 TypeScript | 📅 2026-11-21 - A privacy-friendly alternative to Google Analytics; see this [guide](https://www.rybbit.io/docs/guides/angular) for Angular integration.
 * [litlyx](https://github.com/Litlyx/litlyx) ⭐ 1,747 | 🐛 7 | 🌐 TypeScript | 📅 2025-12-03 - An open-source analytics tool — set up with one line of code.
-* [swetrix](https://github.com/Swetrix/swetrix) ⭐ 1,227 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-15 - [Integrate Swetrix with your Angular application](https://swetrix.com/docs/angular-integration) to track page views, monitor errors, and capture custom events — all while staying privacy-friendly and GDPR-compliant.
+* [swetrix](https://github.com/Swetrix/swetrix) ⭐ 1,227 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-15 - [Integrate Swetrix with your Angular application](https://swetrix.com/docs/angular-integration) to track page views, monitor errors, and capture custom events — all while staying privacy-friendly and GDPR-compliant.
 * [ngx-matomo-client](https://github.com/EmmanuelRoux/ngx-matomo-client) ⭐ 95 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-18 - Matomo analytics client for Angular applications.
 * [clickstream-analytics-on-aws-web-sdk](https://github.com/aws-solutions-library-samples/clickstream-analytics-on-aws-web-sdk) ⭐ 22 | 🐛 3 | 🌐 TypeScript | 📅 2025-07-30 - Enables collection of browser clickstream data to AWS via the provided data pipeline.
 * [inspect-ng-collector](https://github.com/oneteme/inspect-ng-collector) ⭐ 7 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-17 - A comprehensive front-end telemetry and monitoring library for Angular applications.
@@ -673,8 +674,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Code Analysis
 
-* [enola](https://github.com/enola-labs/enola) ⭐ 304 | 🐛 3 | 🌐 C | 📅 2026-11-21 - Architecture intelligence for developers, coding agents, and CI - understand codebases, analyze change impact, and catch architectural regressions.
-* [oxc-angular-compiler](https://github.com/voidzero-dev/oxc-angular-compiler) ⭐ 250 | 🐛 6 | 🌐 Rust | 📅 2026-11-21 - A high-performance Angular template compiler written in Rust, leveraging the [Oxc](https://github.com/oxc-project/oxc) ⭐ 23,528 | 🐛 1,278 | 🌐 Rust | 📅 2026-11-21 infrastructure for blazing-fast compilation.
+* [enola](https://github.com/enola-labs/enola) ⭐ 305 | 🐛 4 | 🌐 C | 📅 2026-11-22 - Architecture intelligence for developers, coding agents, and CI - understand codebases, analyze change impact, and catch architectural regressions.
+* [oxc-angular-compiler](https://github.com/voidzero-dev/oxc-angular-compiler) ⭐ 250 | 🐛 7 | 🌐 Rust | 📅 2026-11-22 - A high-performance Angular template compiler written in Rust, leveraging the [Oxc](https://github.com/oxc-project/oxc) ⭐ 23,552 | 🐛 1,279 | 🌐 Rust | 📅 2026-11-22 infrastructure for blazing-fast compilation.
 * [ide-byebye](https://github.com/bo-516/ide-byebye) ⭐ 31 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-19 - Click an element in the running app, describe the change, and send its template source location to AI coding agents such as Claude Code, Codex and Cursor.
 * [angular-compiler-output](https://github.com/JeanMeche/angular-compiler-output) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-10 - See the JS output of the Angular compiler for a given Angular template.
 * [angular-doctor](https://github.com/antonygiomarxdev/angular-doctor) ⭐ 25 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-28 - Scans your project for Angular-specific lint issues and dead code, then produces a 0–100 health score plus actionable diagnostics.
@@ -714,8 +715,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Documentation Tools
 
-* [Storybook](https://github.com/storybookjs/storybook) ⭐ 91,674 | 🐛 1,897 | 🌐 TypeScript | 📅 2026-11-20 - The UI development environment you'll love to use.
-* [Compodoc](https://github.com/compodoc/compodoc) ⭐ 4,116 | 🐛 51 | 🌐 TypeScript | 📅 2026-11-21 - The missing documentation tool for your Angular application.
+* [Storybook](https://github.com/storybookjs/storybook) ⭐ 91,682 | 🐛 1,903 | 🌐 TypeScript | 📅 2026-11-22 - The UI development environment you'll love to use.
+* [Compodoc](https://github.com/compodoc/compodoc) ⭐ 4,116 | 🐛 51 | 🌐 TypeScript | 📅 2026-11-22 - The missing documentation tool for your Angular application.
 * [ng-doc](https://github.com/ng-doc/ng-doc) ⭐ 330 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-18 - The documentation engine for Angular projects.
 * [story-ui](https://github.com/southleft/story-ui) ⭐ 242 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-13 - Automate component documentation by generating Storybook stories through AI-powered conversations, compatible with many LLM providers.
 * [docgeni](https://github.com/docgeni/docgeni) ⭐ 201 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-16 - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
@@ -725,7 +726,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### IDE Extensions
 
-* [Redux DevTools](https://github.com/reduxjs/redux-devtools/) ⭐ 14,375 | 🐛 149 | 🌐 TypeScript | 📅 2026-11-21 - Can be used in combination with `@ngrx/store-devtools` to inspect the state of your NgRx app.
+* [Redux DevTools](https://github.com/reduxjs/redux-devtools/) ⭐ 14,375 | 🐛 149 | 🌐 TypeScript | 📅 2026-11-22 - Can be used in combination with `@ngrx/store-devtools` to inspect the state of your NgRx app.
 * [zed-angular](https://github.com/nathansbradshaw/zed-angular) ⭐ 160 | 🐛 18 | 🌐 Rust | 📅 2026-09-13 - This extension integrates the Angular Language Service into [Zed](https://zed.dev/).
 * [GraphLens](https://github.com/GraphLens/graphlens) ⭐ 34 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-11 - Interactive architecture visualizer for Angular projects.
 * [vscode-angulartools](https://github.com/CoderAllan/vscode-angulartools) ⭐ 21 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-20 - You can explore an Angular project, enhance documentation, reverse engineer code, and do refactoring with [AngularTools](https://marketplace.visualstudio.com/items?itemName=coderAllan.vscode-angulartools).
@@ -747,12 +748,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Generators and Scaffolding
 
-* [abp](https://github.com/abpframework/abp) ⭐ 14,474 | 🐛 300 | 🌐 C# | 📅 2026-11-21 - Open‑source ASP.NET Core framework for enterprise apps with opinionated architecture.
-* [orval](https://github.com/orval-labs/orval) ⭐ 6,645 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-21 - Generate, validate, cache and mock in your frontend applications, based on your OpenAPI specification.
+* [abp](https://github.com/abpframework/abp) ⭐ 14,472 | 🐛 301 | 🌐 C# | 📅 2026-11-22 - Open‑source ASP.NET Core framework for enterprise apps with opinionated architecture.
+* [orval](https://github.com/orval-labs/orval) ⭐ 6,649 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-22 - Generate, validate, cache and mock in your frontend applications, based on your OpenAPI specification.
 * [teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) ⭐ 1,117 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-19 - A collection of code generators for modern JavaScript applications.
 * [generator-jhipster-ionic](https://github.com/jhipster/generator-jhipster-ionic) ⭐ 195 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-01 - You can use it to generate an Ionic app that talks to a JHipster backend.
-* [ng-openapi](https://github.com/ng-openapi/ng-openapi) ⭐ 76 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-21 - Angular OpenAPI Client Generator.
-* [spiderly](https://github.com/filiptrivan/spiderly) ⭐ 60 | 🐛 227 | 🌐 C# | 📅 2026-11-21 - A `.NET` (C#) generator that turns your EF Core model into a customizable `.NET` and Angular app.
+* [ng-openapi](https://github.com/ng-openapi/ng-openapi) ⭐ 76 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-22 - Angular OpenAPI Client Generator.
+* [spiderly](https://github.com/filiptrivan/spiderly) ⭐ 60 | 🐛 225 | 🌐 C# | 📅 2026-11-22 - A `.NET` (C#) generator that turns your EF Core model into a customizable `.NET` and Angular app.
 * [tmf](https://github.com/tripsnek/tmf) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-12 - A lightweight TypeScript port of Eclipse Modeling Framework (EMF) for model-driven, type-safe data models across Node.js, Java, and Angular/React.
 * [enterprise-java-saas-starter-kit](https://github.com/zukovlabs/enterprise-java-saas-starter-kit) ⭐ 14 | 🐛 0 | 🌐 Java | 📅 2026-10-12 - Production-ready SaaS starter with Java 21, Spring Boot 3.4, Angular 21 (Standalone + Signals), MSSQL, JWT auth, and Docker Compose.
 * [AutoFormsBuilderFilesGenerator](https://github.com/XHAlawa/AutoFormsBuilderFilesGenerator) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - Generate Angular forms from OpenAPI/Swagger with `ng-openapi-gen`, featuring strong typing, validation, and UI helpers.
@@ -760,9 +761,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-schematics-utilities](https://github.com/DSI-HUG/ngx-schematics-utilities) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23 - Useful utilities for Angular Schematics.
 * [momentum-cms](https://github.com/DonaldMurillo/momentum-cms) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-14 - An Angular-based headless CMS. Define collections in TypeScript, auto-generate an Admin UI, REST API, and database schema.
 * [openapi-ng](https://github.com/AVSystem/openapi-ng) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-20 - Generate TypeScript models and Angular services from OpenAPI 3.x specs — fast, deterministic, Rust-powered.
-* [angular-sitemap-generator](https://github.com/borisonekenobi/angular-sitemap-generator) ⭐ 4 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-08 - Generates a `sitemap.xml` file for an Angular project.
+* [angular-sitemap-generator](https://github.com/borisonekenobi/angular-sitemap-generator) ⭐ 4 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-22 - Generates a `sitemap.xml` file for an Angular project.
 * [angular-momentum](https://github.com/TheGameKnave/angular-momentum) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-09 - Spins up Angular projects in a monorepo quickly with minimal configuration.
-* [angular-openapi-gen](https://github.com/constantant/angular-openapi-gen) ⭐ 3 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-15 - Tree-shakeable, signal-native API clients generator.
+* [angular-openapi-gen](https://github.com/constantant/angular-openapi-gen) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - Tree-shakeable, signal-native API clients generator.
 * [SaaS Starter](https://github.com/sayahweb2-png/saas-starter-lite) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-18 - Production-ready NestJS + Angular 21 SaaS boilerplate with JWT/OAuth/2FA auth, Stripe payments, multi-tenancy, RBAC, BullMQ, Docker, Terraform, and 55+ tests.
 * [ngx-autogen](https://github.com/barcidev/ngx-autogen) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-22 - A set of schematics that streamline Angular workflows by generating best‑practice code and reducing repetitive setup tasks.
 * [swaggular](https://github.com/AlexMA2/swaggular) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-19 - A tool to generate Angular services and models from Swagger/OpenAPI specifications.
@@ -779,10 +780,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Internationalization
 
-* [ngx-translate](https://github.com/ngx-translate/core) ⭐ 4,663 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-16 - The internationalization (i18n) library for Angular.
+* [ngx-translate](https://github.com/ngx-translate/core) ⭐ 4,662 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-16 - The internationalization (i18n) library for Angular.
 * [transloco](https://github.com/jsverse/transloco) ⭐ 2,287 | 🐛 162 | 🌐 TypeScript | 📅 2026-11-08 - The internationalization (i18n) library for Angular.
 * [transloco-keys-manager](https://github.com/jsverse/transloco/tree/master/libs/transloco-keys-manager) ⭐ 2,287 | 🐛 162 | 🌐 TypeScript | 📅 2026-11-08 - Extract translatable keys from projects that use Transloco.
-* [angular-intlayer](https://www.npmjs.com/package/angular-intlayer) - This [intlayer](https://github.com/aymericzip/intlayer) ⭐ 866 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-21 package allows you to internationalize your Angular application. It provides context providers and hooks for Angular internationalization.
+* [angular-intlayer](https://www.npmjs.com/package/angular-intlayer) - This [intlayer](https://github.com/aymericzip/intlayer) ⭐ 866 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-22 package allows you to internationalize your Angular application. It provides context providers and hooks for Angular internationalization.
 * [ngx-tolgee](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) ⭐ 261 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-11 - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 * [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) ⭐ 224 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-20 - Extract and merge i18n xliff translation files for Angular projects.
 * [angular-i18next](https://github.com/Romanchuk/angular-i18next) ⭐ 135 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-14 - Angular integration for [i18next](https://www.i18next.com/).
@@ -792,7 +793,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Transifex](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) ⭐ 52 | 🐛 17 | 🌐 JavaScript | 📅 2026-11-11 - You can easily localize Angular components using the [Transifex library extension](https://www.npmjs.com/package/@transifex/angular). This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
 * [ngx-translate-lint](https://github.com/romanrostislavovich/ngx-translate-lint) ⭐ 34 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-03 - Simple CLI tools for check `ngx-translate` keys.
 * [ngx-translate-module-loader](https://github.com/larscom/ngx-translate-module-loader) ⭐ 34 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-21 - Highly configurable and flexible translations loader for `@ngx-translate/core`.
-* [angular-ecmascript-intl](https://github.com/json-derulo/angular-ecmascript-intl) ⭐ 19 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-17 - Contains pipes to transform internationalization data using Intl.\* browser APIs.
+* [angular-ecmascript-intl](https://github.com/json-derulo/angular-ecmascript-intl) ⭐ 19 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-22 - Contains pipes to transform internationalization data using Intl.\* browser APIs.
 * [intl-tel-input-ng](https://github.com/mpalourdio/intl-tel-input-ng) ⭐ 18 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-17 - An Angular component to easily integrate [intl-tel-input](https://github.com/jackocnr/intl-tel-input) ⭐ 8,264 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-06.
 * [ngx-translate-cut](https://github.com/bartholomej/ngx-translate-cut) ⭐ 12 | 🐛 15 | 🌐 TypeScript | 📅 2026-06-07 - Angular pipe for cutting translations ✂️ 🌍 (plugin for `@ngx-translate`).
 * [ngx-directo](https://github.com/ahmaed0hakam/ngx-directo) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-29 - Angular 18+ Signals-based library for RTL/LTR directionality, Arabic localization, and Google Font orchestration.
@@ -826,15 +827,16 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Linting
 
-* [angular-eslint](https://github.com/angular-eslint/angular-eslint) ⭐ 1,795 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-21 - Monorepo for all the tooling which enables ESLint to lint Angular projects.
+* [angular-eslint](https://github.com/angular-eslint/angular-eslint) ⭐ 1,795 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-22 - Monorepo for all the tooling which enables ESLint to lint Angular projects.
 * [eslint-config-neon](https://github.com/iCrawl/eslint-config-neon) ⭐ 61 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-23 - A comprehensive shareable ESLint configuration.
 * [angular-estree-parser](https://github.com/prettier/angular-estree-parser) ⭐ 18 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-22 - A parser that converts Angular template expressions and bindings into an ESTree-compatible AST.
 * [linters](https://github.com/developer239/linters) ⭐ 11 | 🐛 13 | 🌐 JavaScript | 📅 2026-07-05 - Collection of super strict configurations for ESLint / StyleLint and other code quality tools.
 * [@ni/javascript-styleguide](https://github.com/ni/javascript-styleguide) ⭐ 9 | 🐛 26 | 🌐 JavaScript | 📅 2026-11-18 -  NI's JavaScript and TypeScript linter rules for ESLint.
-* [eslint-plugin-angular-modern](https://github.com/cyrilletuzi/eslint-plugin-angular-modern) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21 - ESLint rules for modern and safe Angular.
+* [eslint-plugin-angular-modern](https://github.com/cyrilletuzi/eslint-plugin-angular-modern) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - ESLint rules for modern and safe Angular.
 * [eslint-config-angular-strict](https://github.com/Jbz797/eslint-config-angular-strict) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-19 - Modern ESLint configuration with strict rules for Angular development.
 * [eslint-plugin-ng-module-sort](https://github.com/ducktordanny/eslint-plugin-ng-module-sort) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-12 - Auto-sorts Angular and NestJS module arrays to keep your modules clean and organized.
-* [eslint-config-spartan](https://github.com/glitch452/eslint-config-spartan) ⭐ 4 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-21 - An opinionated ESLint configuration with separate configs (called mixins) for various eslint plugins.
+* [shadcn-lint-angular](https://github.com/ChernyshovA/shadcn-lint-angular) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 - Checks Tailwind design system rules in Angular templates and suggests fixes based on your theme and component variants.
+* [eslint-config-spartan](https://github.com/glitch452/eslint-config-spartan) ⭐ 4 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-22 - An opinionated ESLint configuration with separate configs (called mixins) for various eslint plugins.
 * [eslint-config-angular](https://github.com/noneforge/eslint-config-angular) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-07 - Comprehensive Angular ESLint configuration with TypeScript support, component/template rules, accessibility, and CSS linting.
 * [ngx-html-bridge-markuplint](https://github.com/nagashimam/ngx-html-bridge-markuplint) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-02 - This library links Markuplint to Angular templates by reverse‑compiling them into HTML, enabling accurate linting with proper source‑mapped reporting.
 * [lint-a-lot](https://github.com/JanKru/lint-a-lot) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-22 - An opinionated ESLint and Stylelint configuration for Angular projects using modern Flat Config.
@@ -847,7 +849,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Performance
 
 * [sonda](https://github.com/filipsobol/sonda) ⭐ 790 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-28 - Universal visualizer and analyzer for JavaScript and CSS.
-* [microwave](https://github.com/jscutlery/devkit/tree/main/packages/microwave) ⭐ 268 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-21 - Optimize Angular change detection effortlessly.
+* [microwave](https://github.com/jscutlery/devkit/tree/main/packages/microwave) ⭐ 268 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-22 - Optimize Angular change detection effortlessly.
 * [detective](https://github.com/angular-architects/detective) ⭐ 168 | 🐛 19 | 🌐 TypeScript | 📅 2026-06-06 - Uses forensic code analysis at the architectural level to reveal hidden patterns within your codebase.
 * [ng-event-plugins](https://github.com/taiga-family/ng-event-plugins) ⭐ 103 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-16 - A tiny library for optimizing change detection cycles for performance sensitive events.
 * [ngx-unused](https://github.com/wgrabowski/ngx-unused) ⭐ 42 | 🐛 6 | 🌐 TypeScript | 📅 2026-03-29 - Find declared but unused Angular classes in your codebase.
@@ -866,7 +868,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-compile](https://github.com/patrikx3/angular-compile) ⭐ 89 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-06 - Angular Dynamic Compile. Convert strings to Angular components.
 * [runtime-config-loader](https://github.com/pjlamb12/runtime-config-loader) ⭐ 36 | 🐛 22 | 🌐 TypeScript | 📅 2026-05-27 - Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
 * [ng-noop](https://github.com/joeskeen/ng-noop) ⭐ 13 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-14 - A minimal, DOM‑less Angular platform for custom runtimes, CLIs, servers, and experimental renderers.
-* [ng-eval](https://github.com/zvenigora/ng-eval) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - Expression parsing and evaluation for Angular applications.
+* [ng-eval](https://github.com/zvenigora/ng-eval) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - Expression parsing and evaluation for Angular applications.
 * [deepequalspure](https://github.com/puckowski/deepequalspure) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-20 - JavaScript object deep equals service for Angular projects.
 * [dx-bind-js](https://github.com/okzgn/dx-bind-js) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-31 - A lightweight, framework-agnostic, zero-dependency utility designed to simplify dynamic dependency injection and property binding.
 * [ngx-api-mimic](https://github.com/mateuszbilicz/ngx-api-mimic) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-08 - This library allows you to mock data and simulate a fake API using Angular’s HTTP Interceptor.
@@ -875,7 +877,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### SEO
 
-* [unhead](https://github.com/unjs/unhead) ⭐ 1,314 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-21 - Full-stack `<head>` management for Angular applications.
+* [unhead](https://github.com/unjs/unhead) ⭐ 1,313 | 🐛 34 | 🌐 TypeScript | 📅 2026-11-22 - Full-stack `<head>` management for Angular applications.
 * [Angular SEO](https://github.com/ganatan/angular-seo) ⭐ 77 | 🐛 11 | 🌐 HTML | 📅 2026-06-25 - Angular & React Examples SEO (Search engine optimization).
 * [ngx-seo-kit](https://github.com/CesurPolat/ngx-seo-kit) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 - A type-safe SEO toolkit that generates `sitemap.xml` and `robots.txt` files for Angular applications at build time.
 * [@davidlj95/ngx-meta](https://ngx-meta.dev) - Quickly set Angular site metadata (meta tags, Open Graph, X Cards, JSON-LD) with SSR support.
@@ -904,8 +906,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Authentication
 
-* [appwrite](https://github.com/appwrite/appwrite) ⭐ 58,493 | 🐛 739 | 🌐 TypeScript | 📅 2026-11-21 - Integrate your [Angular app](https://appwrite.io/docs/quick-starts/angular) with [Appwrite](https://appwrite.io/) for auth, database, storage, functions, and more.
-* [hanko](https://github.com/teamhanko/hanko) ⭐ 9,071 | 🐛 73 | 🌐 Go | 📅 2026-11-19 - Follow this [quickstart](https://docs.hanko.io/quickstarts/frontend/angular) to integrate [Hanko](https://www.hanko.io/), an open source authentication and user management solution, into your Angular app.
+* [appwrite](https://github.com/appwrite/appwrite) ⭐ 58,587 | 🐛 740 | 🌐 TypeScript | 📅 2026-11-22 - Integrate your [Angular app](https://appwrite.io/docs/quick-starts/angular) with [Appwrite](https://appwrite.io/) for auth, database, storage, functions, and more.
+* [hanko](https://github.com/teamhanko/hanko) ⭐ 9,075 | 🐛 73 | 🌐 Go | 📅 2026-11-19 - Follow this [quickstart](https://docs.hanko.io/quickstarts/frontend/angular) to integrate [Hanko](https://www.hanko.io/), an open source authentication and user management solution, into your Angular app.
 * [angularfire](https://github.com/angular/angularfire) ⭐ 7,794 | 🐛 167 | 🌐 TypeScript | 📅 2026-11-19 - Angular + Firebase.
 * [msal-angular](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/lib/msal-angular) ⭐ 4,154 | 🐛 212 | 🌐 TypeScript | 📅 2026-11-20 - Authenticates users via Microsoft or social accounts and acquires tokens for secure Microsoft services like [Graph](https://developer.microsoft.com/en-us/graph).
 * [angular2-jwt](https://github.com/auth0/angular2-jwt) ⭐ 2,620 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-26 - Helper library for handling JWTs in Angular apps.
@@ -917,9 +919,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@serhiisol/ngx-auth](https://github.com/serhiisol/ngx-auth) ⭐ 238 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-31 - Angular 20+ Authentication Module.
 * [auth0-angular](https://github.com/auth0/auth0-angular) ⭐ 202 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-20 - Auth0 SDK for Angular Single Page Applications.
 * [passlock](https://github.com/passlock-dev/passlock) ⭐ 191 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-10 - Frictionless passkey authentication for Angular and other frameworks.
-* [ngx-better-auth](https://github.com/thomasorgeval/ngx-better-auth) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-26 - An Angular 20+ wrapper for [Better Auth](https://github.com/better-auth/better-auth) ⭐ 30,814 | 🐛 980 | 🌐 TypeScript | 📅 2026-11-21. Provides reactive session handling with signals, clean DI provider setup with observables, and modern guards.
+* [ngx-better-auth](https://github.com/thomasorgeval/ngx-better-auth) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-26 - An Angular 20+ wrapper for [Better Auth](https://github.com/better-auth/better-auth) ⭐ 30,829 | 🐛 975 | 🌐 TypeScript | 📅 2026-11-22. Provides reactive session handling with signals, clean DI provider setup with observables, and modern guards.
 * [@badisi/ngx-auth](https://github.com/Badisi/auth-js/tree/main/libs/ngx-auth) ⭐ 16 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-15 - Authentication and authorization support for Angular based desktop and mobile applications.
-* [frontegg-angular](https://github.com/frontegg/frontegg-angular) ⭐ 5 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-16 - Hosted login SDK for Angular; see the [quickstart](https://developers.frontegg.com/ciam/sdks/frontend/angular/hosted-login).
+* [frontegg-angular](https://github.com/frontegg/frontegg-angular) ⭐ 5 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-22 - Hosted login SDK for Angular; see the [quickstart](https://developers.frontegg.com/ciam/sdks/frontend/angular/hosted-login).
 * [omni-auth](https://github.com/ngx-addons/omni-auth) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-17 - Angular authentication library providing core functionality for authentication flows, guards, and error handling.
 * [zenuxs-oauth](https://github.com/zenuxs-dev/zenuxs-oauth) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-19 - Universal OAuth 2.0 + PKCE client for modern applications.
 * [awesome-angular-auth](https://github.com/awesome-lang-auth/awesome-angular-auth) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-08 - Angular Interceptor and Guards for [awesome-node-auth](https://github.com/awesome-lang-auth/awesome-node-auth) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-12.
@@ -953,7 +955,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Role-Based Access Control
 
-* [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) ⭐ 7,121 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-21 - Module which integrates isomorphic permissions management library [CASL](https://github.com/stalniy/casl) ⭐ 7,121 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-21 with Angular.
+* [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) ⭐ 7,120 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-21 - Module which integrates isomorphic permissions management library [CASL](https://github.com/stalniy/casl) ⭐ 7,120 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-21 with Angular.
 * [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) ⭐ 947 | 🐛 29 | 🌐 TypeScript | 📅 2025-12-30 - Permission and roles based access control for your Angular applications(AOT, lazy modules compatible).
 * [urbac](https://github.com/kasoir/urbac) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - A complete, production-ready boilerplate designed to help you scaffold secure, multi-level access control systems in minutes.
 * [ngxsmk-gatekeeper](https://github.com/NGXSMK/ngxsmk-gatekeeper) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-05 - A lightweight, developer‑friendly middleware engine for Angular that secures routes and HTTP requests through one composable setup.
@@ -982,8 +984,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### NgRx
 
-* [Official GitHub repository](https://github.com/ngrx/platform) ⭐ 8,346 | 🐛 79 | 🌐 TypeScript | 📅 2026-11-19 - Reactive State for Angular.
-* [angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) ⭐ 1,044 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-05 - Real world application built with Angular 21, NgRx 21, and Nx 22.
+* [Official GitHub repository](https://github.com/ngrx/platform) ⭐ 8,345 | 🐛 79 | 🌐 TypeScript | 📅 2026-11-19 - Reactive State for Angular.
+* [angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) ⭐ 1,043 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-05 - Real world application built with Angular 21, NgRx 21, and Nx 22.
 * [ngrx-store-localstorage](https://github.com/btroncone/ngrx-store-localstorage) ⭐ 625 | 🐛 52 | 🌐 TypeScript | 📅 2026-01-02 - Simple syncing between `@ngrx/store` and local storage.
 * [ngrx-course](https://github.com/angular-university/ngrx-course) ⭐ 426 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-30 - Angular University Complete Guide.
 * [ngrx-toolkit](https://github.com/ngrx-toolkit/core) ⭐ 328 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-14 - Various Extensions for the NgRx Signal Store.
@@ -996,7 +998,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [SmartNgRX](https://github.com/DaveMBush/SmartNgRX) ⭐ 16 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-13 - A library that simplifies CRUD operations by abstracting NgRx, while still leveraging and supporting existing NgRx code.
 * [ngx-signal-store-query](https://github.com/k3nsei/ngx-signal-store-query) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-17 - Signal Store feature that bridges with [Angular Query](https://tanstack.com/query/latest/docs/framework/angular/overview).
 * [ngrx-http-tracking](https://github.com/campioneducation/ngrx-http-tracking) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-12 - This NgRx library integrates with existing stores to reduce boilerplate and simplify handling HTTP request states like loading, success, and error.
-* [ngrx-addons](https://github.com/Michsior14/ngrx-addons) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-21 - A collection of NgRx addons, including state persistence.
+* [ngrx-addons](https://github.com/Michsior14/ngrx-addons) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-22 - A collection of NgRx addons, including state persistence.
 * [ngrx-hateoas](https://github.com/angular-architects/ngrx-hateoas) ⭐ 5 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-08 - A library to bring hypermedia json into the NgRx Signal Store following the HATEOAS approach.
 * [ngrx-graph](https://github.com/ammarnajjar/ngrx-graph) ⭐ 5 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-08 - A CLI scanner to generate JSON and DOT/SVG dependency graphs.
 * [easy-ngrx-distinct-selector](https://github.com/NGneers/easy-ngrx-distinct-selector) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21 - Provides functions to easily create `@ngrx/store` selectors with equal functions for arguments and result values.
@@ -1008,7 +1010,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### NGXS
 
-* [Official GitHub repository](https://github.com/ngxs/store) ⭐ 3,541 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-21 - NGXS aims to simplify state management with minimal boilerplate and maintenance.
+* [Official GitHub repository](https://github.com/ngxs/store) ⭐ 3,540 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-21 - NGXS aims to simplify state management with minimal boilerplate and maintenance.
 * [emitter](https://github.com/ngxs-labs/emitter) ⭐ 109 | 🐛 11 | 🌐 TypeScript | 📅 2025-05-13 - New pattern that provides the opportunity to feel free from actions.
 * [actions-executing](https://github.com/ngxs-labs/actions-executing) ⭐ 28 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-12 - This plugin allows you to easily know if an action is being executed and control UI elements or control flow of your code to execute.
 * [firestore-plugin](https://github.com/ngxs-labs/firestore-plugin) ⭐ 20 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-03 - Firestore plugin for NGXS.
@@ -1019,25 +1021,25 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Other State Libraries
 
-* [TanStack Query](https://github.com/TanStack/query) ⭐ 50,605 | 🐛 135 | 🌐 TypeScript | 📅 2026-11-21 - Powerful asynchronous state management, server-state utilities and data fetching for the web.
-* [xstate](https://github.com/statelyai/xstate) ⭐ 30,530 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-21 - Actor-based state management & orchestration for complex app logic.
-* [@tanstack/angular-db](https://github.com/TanStack/db/tree/main/packages/angular-db) ⭐ 3,988 | 🐛 200 | 🌐 TypeScript | 📅 2026-11-19 - Angular hooks for TanStack DB, a reactive client store that lets you build fast, sync‑driven apps with a backend‑agnostic real‑time data layer.
+* [TanStack Query](https://github.com/TanStack/query) ⭐ 50,620 | 🐛 127 | 🌐 TypeScript | 📅 2026-11-22 - Powerful asynchronous state management, server-state utilities and data fetching for the web.
+* [xstate](https://github.com/statelyai/xstate) ⭐ 30,531 | 🐛 85 | 🌐 TypeScript | 📅 2026-11-22 - Actor-based state management & orchestration for complex app logic.
+* [@tanstack/angular-db](https://github.com/TanStack/db/tree/main/packages/angular-db) ⭐ 3,989 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-19 - Angular hooks for TanStack DB, a reactive client store that lets you build fast, sync‑driven apps with a backend‑agnostic real‑time data layer.
 * [state-adapt](https://github.com/state-adapt/state-adapt) ⭐ 307 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-17 - Declarative, incremental state management library.
 * [exome](https://github.com/Marcisbee/exome) ⭐ 282 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-16 - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 * [mini-rx](https://github.com/mini-rx/mini-rx) ⭐ 169 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-17 - Reactive state management platform.
-* [editate](https://github.com/inokawa/editate) ⭐ 135 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-21 - An experimental, type-safe, framework agnostic and small (5kB+) contenteditable state manager.
+* [editate](https://github.com/inokawa/editate) ⭐ 135 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-22 - An experimental, type-safe, framework agnostic and small (5kB+) contenteditable state manager.
 * [tansu](https://github.com/AmadeusITGroup/tansu) ⭐ 100 | 🐛 10 | 🌐 TypeScript | 📅 2025-11-02 - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
 * [coaction](https://github.com/coactionjs/coaction) ⭐ 88 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-11 - An efficient and flexible state management library for building high-performance, multithreading web applications.
 * [@tethys/store](https://github.com/worktile/store) ⭐ 61 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-20 - A mini, yet powerful state management library for Angular.
 * [signalstory](https://github.com/zuriscript/signalstory) ⭐ 51 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-21 - A state management library built on Angular signals, supporting simple repositories, decoupled commands, side effects, and inter-store communication via event-driven architecture.
 * [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29 - Simple state management in Angular with only services and RxJS.
-* [sp00ky](https://github.com/mono424/sp00ky) ⭐ 43 | 🐛 2 | 🌐 Rust | 📅 2026-11-21 - Local-first sync engine and reactive data layer for SurrealDB with optimistic updates, live queries, and offline support.
+* [sp00ky](https://github.com/mono424/sp00ky) ⭐ 44 | 🐛 2 | 🌐 Rust | 📅 2026-11-21 - Local-first sync engine and reactive data layer for SurrealDB with optimistic updates, live queries, and offline support.
 * [ngx-collection](https://github.com/e-oz/ngx-collection) ⭐ 33 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-12 - Collection State Management Service for Angular.
 * [signaltree](https://github.com/JBorgia/signaltree) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-24 - A powerful, type-safe, modular signal-based state management solution for Angular applications.
 * [@ng-state/store](https://github.com/ng-state/store) ⭐ 14 | 🐛 6 | 🌐 TypeScript | 📅 2026-04-23 - RxJS and Immer (or ImmutableJs) powered nested state management for Angular applications inspired by NgRx.
-* [ngx-stashr](https://github.com/nulzo/ngx-stashr) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-31 - A lightweight, signal-driven state management library for Angular 21, inspired by React’s [Zustand](https://github.com/pmndrs/zustand) ⭐ 58,971 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-21.
+* [ngx-stashr](https://github.com/nulzo/ngx-stashr) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-31 - A lightweight, signal-driven state management library for Angular 21, inspired by React’s [Zustand](https://github.com/pmndrs/zustand) ⭐ 58,982 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-21.
 * [ngx-sherlock](https://github.com/politie/ngx-sherlock) ⭐ 6 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-13 - An Angular tooling library to be used with the [@politie/sherlock](https://github.com/politie/sherlock) ⭐ 39 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-17 distributed reactive state management library.
-* [craft-ts](https://github.com/craft-ts/craft-ts) ⭐ 5 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-21 - A Signal-based Angular toolkit for modeling state, asynchronous work, services, forms, dependency injection, and routes with explicit dependencies and strong TypeScript inference.
+* [craft-ts](https://github.com/craft-ts/craft-ts) ⭐ 5 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-21 - A Signal-based Angular toolkit for modeling state, asynchronous work, services, forms, dependency injection, and routes with explicit dependencies and strong TypeScript inference.
 * [ng-simple-state-management](https://github.com/LionMarc/ng-simple-state-management) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - Simple state management implementation for Angular applications.
 * [flurryx](https://github.com/fmflurry/flurryx) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-04 - A signal-first reactive state toolkit for Angular that bridges RxJS streams into structured, cache-aware stores.
 * [ngStato](https://github.com/becher/ngStato) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-13 - State management for Angular that uses async/await instead of RxJS.
@@ -1065,12 +1067,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### E2E
 
-* [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics) - Adds [Puppeteer-based](https://github.com/puppeteer/puppeteer) ⭐ 95,880 | 🐛 211 | 🌐 TypeScript | 📅 2026-11-21 e2e tests to your Angular project.
-* [playwright-mcp](https://github.com/microsoft/playwright-mcp) ⭐ 39,978 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-18 - A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright.
-* [e2e](https://github.com/tester-army/e2e) ⭐ 14,108 | 🐛 127 | 🌐 TypeScript | 📅 2026-11-21 - End-to-end testing with natural-language agent steps and locator assertions, with an Angular example.
-* [webdriverio](https://github.com/webdriverio/webdriverio) ⭐ 9,884 | 🐛 276 | 🌐 TypeScript | 📅 2026-11-19 - Next-gen browser and mobile automation test framework for Node.js.
-* [serenity-js](https://github.com/serenity-js/serenity-js) ⭐ 623 | 🐛 110 | 🌐 TypeScript | 📅 2026-11-21 - A TypeScript-native acceptance testing framework that gives your Playwright Test, WebdriverIO, or Cucumber test suite the architecture it needs to scale.
-* [cypress-harness](https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness) ⭐ 268 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-21 - This library provides Cypress support to Component Test Harnesses.
+* [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics) - Adds [Puppeteer-based](https://github.com/puppeteer/puppeteer) ⭐ 95,886 | 🐛 212 | 🌐 TypeScript | 📅 2026-11-22 e2e tests to your Angular project.
+* [playwright-mcp](https://github.com/microsoft/playwright-mcp) ⭐ 40,011 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-18 - A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright.
+* [e2e](https://github.com/tester-army/e2e) ⭐ 14,118 | 🐛 144 | 🌐 TypeScript | 📅 2026-11-22 - End-to-end testing with natural-language agent steps and locator assertions, with an Angular example.
+* [webdriverio](https://github.com/webdriverio/webdriverio) ⭐ 9,884 | 🐛 278 | 🌐 TypeScript | 📅 2026-11-22 - Next-gen browser and mobile automation test framework for Node.js.
+* [serenity-js](https://github.com/serenity-js/serenity-js) ⭐ 623 | 🐛 94 | 🌐 TypeScript | 📅 2026-11-22 - A TypeScript-native acceptance testing framework that gives your Playwright Test, WebdriverIO, or Cucumber test suite the architecture it needs to scale.
+* [cypress-harness](https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness) ⭐ 268 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-22 - This library provides Cypress support to Component Test Harnesses.
 * [twd](https://github.com/BRIKEV/twd) ⭐ 70 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-20 - In‑browser test runner with instant feedback, Testing Library support, Vite discovery, and built‑in API mocking—framework‑agnostic and easy to use in Angular.
 * [playwright-coverage](https://github.com/bgotink/playwright-coverage) ⭐ 51 | 🐛 9 | 🌐 TypeScript | 📅 2025-03-10 - Report coverage on Playwright tests using v8 coverage, without requiring any instrumentation.
 * [ngx-playwright](https://github.com/bgotink/ngx-playwright) ⭐ 30 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-19 - Tools to run Playwright e2e tests in an Angular workspace.
@@ -1087,13 +1089,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [ts-jest](https://github.com/kulshekhar/ts-jest) ⭐ 7,073 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-19 - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 * [jest-preview](https://github.com/nvh95/jest-preview) ⭐ 2,387 | 🐛 50 | 🌐 TypeScript | 📅 2026-04-25 - Debug your Jest tests. Effortlessly.
-* [jest-preset-angular](https://github.com/thymikee/jest-preset-angular) ⭐ 917 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-20 - Jest configuration preset for Angular projects.
-* [jest-codemods](https://github.com/skovhus/jest-codemods) ⭐ 887 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-20 - Codemods for migrating to Jest.
-* [@jscutlery/playwright-ct-angular](https://github.com/jscutlery/devkit/tree/main/packages/playwright-ct-angular) ⭐ 268 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-21 - Playwright Angular component testing.
-* [swc-angular](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) ⭐ 268 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-21 - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
-* [swc-angular-plugin](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) ⭐ 268 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-21 - An SWC plugin that adds Angular support to the lightning-fast JavaScript/TypeScript compiler.
-* [jest-marbles](https://github.com/just-jeb/jest-marbles) ⭐ 115 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-21 - Helpers library for marbles testing with Jest.
-* [ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos) ⭐ 78 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-21 - Simpler, cleaner Angular unit tests.
+* [jest-preset-angular](https://github.com/thymikee/jest-preset-angular) ⭐ 916 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-20 - Jest configuration preset for Angular projects.
+* [jest-codemods](https://github.com/skovhus/jest-codemods) ⭐ 887 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-22 - Codemods for migrating to Jest.
+* [@jscutlery/playwright-ct-angular](https://github.com/jscutlery/devkit/tree/main/packages/playwright-ct-angular) ⭐ 268 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-22 - Playwright Angular component testing.
+* [swc-angular](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) ⭐ 268 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-22 - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
+* [swc-angular-plugin](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) ⭐ 268 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-22 - An SWC plugin that adds Angular support to the lightning-fast JavaScript/TypeScript compiler.
+* [jest-marbles](https://github.com/just-jeb/jest-marbles) ⭐ 115 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-22 - Helpers library for marbles testing with Jest.
+* [ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos) ⭐ 78 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-22 - Simpler, cleaner Angular unit tests.
 * [testronaut](https://github.com/testronaut/testronaut) ⭐ 74 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-20 - By removing mocks and guesswork, [Testronaut](https://testronaut.github.io/testronaut/) enables developers to visually inspect output and write precise tests with Playwright’s robust API.
 * [docker-ng-cli-karma](https://github.com/trion-development/docker-ng-cli-karma) ⭐ 61 | 🐛 0 | 🌐 Dockerfile | 📅 2026-11-19 - Angular Docker image capable of running Karma with Chrome.
 * [vitest-browser-angular](https://github.com/vitest-community/vitest-browser-angular) ⭐ 23 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-16 - This community package renders Angular components in [Vitest Browser Mode](https://vitest.dev/guide/browser).
@@ -1108,10 +1110,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Helpers
 
-* [msw](https://github.com/mswjs/msw) ⭐ 18,358 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-18 - Seamless REST/GraphQL API mocking library for browser and Node.js.
-* [stryker-js](https://github.com/stryker-mutator/stryker-js) ⭐ 3,407 | 🐛 154 | 🌐 TypeScript | 📅 2026-11-21 - Mutation testing for JavaScript and friends.
-* [ng-mocks](https://github.com/help-me-mom/ng-mocks) ⭐ 1,165 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-20 - Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup.
-* [ArchUnitTS](https://github.com/LukasNiessen/ArchUnitTS) ⭐ 518 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-17 - Enforce architecture rules, detect circular dependencies, and validate code standards in JS/TS projects with easy setup and seamless test framework integration.
+* [msw](https://github.com/mswjs/msw) ⭐ 18,359 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-18 - Seamless REST/GraphQL API mocking library for browser and Node.js.
+* [stryker-js](https://github.com/stryker-mutator/stryker-js) ⭐ 3,413 | 🐛 154 | 🌐 TypeScript | 📅 2026-11-21 - Mutation testing for JavaScript and friends.
+* [ng-mocks](https://github.com/help-me-mom/ng-mocks) ⭐ 1,165 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-22 - Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup.
+* [ArchUnitTS](https://github.com/LukasNiessen/ArchUnitTS) ⭐ 519 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-17 - Enforce architecture rules, detect circular dependencies, and validate code standards in JS/TS projects with easy setup and seamless test framework integration.
 * [shallow-render](https://github.com/getsaf/shallow-render) ⭐ 273 | 🐛 13 | 🌐 TypeScript | 📅 2026-02-14 - Angular testing made easy with shallow rendering and easy mocking.
 * [spectacular](https://github.com/ngworker/ngworker/tree/main/packages/spectacular) ⭐ 37 | 🐛 12 | 🌐 TypeScript | 📅 2025-11-19 - Offers test harnesses for Angular applications and libraries.
 * [ngx-page-object-model](https://github.com/FrancescoBorzi/ngx-page-object-model) ⭐ 36 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-20 - This library simplifies Angular UI component testing using the Page Object Model (POM), separating test logic from DOM manipulation for better abstraction.
@@ -1134,38 +1136,38 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Free Templates
 
-* [angular-realworld-example-app](https://github.com/realworld-apps/angular-realworld-example-app) ⭐ 5,655 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-20 - Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/realworld-apps/realworld) ⭐ 84,399 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-20 spec and API.
+* [angular-realworld-example-app](https://github.com/realworld-apps/angular-realworld-example-app) ⭐ 5,653 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-20 - Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/realworld-apps/realworld) ⭐ 84,405 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-20 spec and API.
 * [coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) ⭐ 1,827 | 🐛 0 | 🌐 HTML | 📅 2026-11-19 - Admin template based on Bootstrap 5.
 * [ng-matero](https://github.com/ng-matero/ng-matero) ⭐ 1,475 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-01 - Angular Material admin dashboard template.
 * [QuickApp](https://github.com/emonney/QuickApp) ⭐ 1,352 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-01 - ASP.NET Core / Angular startup project template with complete login, user and role management. Plus other useful services for Quick Application Development.
 * [angular-tailwind](https://github.com/lannodev/angular-tailwind) ⭐ 519 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-19 - Angular & Tailwind CSS Admin Dashboard Starter Kit.
 * [@wlucha/angular-starter](https://github.com/wlucha/angular-starter) ⭐ 429 | 🐛 0 | 🌐 HTML | 📅 2026-08-08 - Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material, & Prettier.
 * [free-tailwind-admin-dashboard-template](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) ⭐ 291 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-26 - A free, open-source Tailwind CSS admin dashboard template built for modern web developers.
-* [zen](https://github.com/ZenSoftware/zen) ⭐ 219 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 - Nest + Prisma + Apollo + Angular Full Stack GraphQL Starter Kit.
+* [zen](https://github.com/ZenSoftware/zen) ⭐ 218 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 - Nest + Prisma + Apollo + Angular Full Stack GraphQL Starter Kit.
 * [realworld-angular](https://github.com/realworld-angular/realworld-angular) ⭐ 196 | 🐛 21 | 🌐 TypeScript | 📅 2026-07-17 - Real world Angular example apps showcasing Angular libraries in action.
 * [extreme-angular](https://github.com/joematthews/extreme-angular) ⭐ 190 | 🐛 2 | 🌐 HTML | 📅 2026-09-12 - A starter template with pre-configured dev tools that enforce best practices for creating clean, maintainable, and accessible web apps.
 * [material-pro-angular-lite](https://github.com/wrappixel/material-pro-angular-lite) ⭐ 138 | 🐛 2 | 🌐 HTML | 📅 2026-05-20 - A high-quality Angular Material theme from WrapPixel, free for both personal and commercial projects.
 * [nx-ng-starter](https://github.com/rfprod/nx-ng-starter) ⭐ 135 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-11 - Monorepo starter with workflow automation: Nx, Angular, Angular Elements, Electron, Node, Nest, Firebase.
 * [free-angular-tailwind-dashboard](https://github.com/TailAdmin/free-angular-tailwind-dashboard) ⭐ 126 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-17 - Free, open-source Angular + Tailwind CSS admin dashboard with essential UI components and pre-built pages for a sleek, modern interface.
 * [devextreme-angular-template](https://github.com/DevExpress/devextreme-angular-template) ⭐ 120 | 🐛 16 | 🌐 CSS | 📅 2026-11-21 - Responsive Application Layout Templates​ based on DevExtreme Angular Components.
-* [spike-angular-pro-starter](https://github.com/juwairiyah09/spike-angular-pro-starter) ⭐ 115 | 🐛 0 | 🌐 HTML | 📅 2026-11-21 - Spike Angular 2026: Ultimate Free Material Admin Template for Modern Dashboards.
+* [spike-angular-pro-starter](https://github.com/juwairiyah09/spike-angular-pro-starter) ⭐ 115 | 🐛 0 | 🌐 HTML | 📅 2026-11-22 - Spike Angular 2026: Ultimate Free Material Admin Template for Modern Dashboards.
 * [jet](https://github.com/karmasakshi/jet) ⭐ 99 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-19 - Angular starter-kit for building quality web apps fast.
 * [LightNap](https://github.com/SharpLogic/LightNap) ⭐ 95 | 🐛 1 | 🌐 C# | 📅 2026-06-14 - A full-stack SPA starter kit with `ASP.NET` Core Identity, JWT management, and admin identity features.
 * [ngXpress](https://github.com/angularcafe/ngXpress) ⭐ 82 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-08 - The Full-Stack Angular Starter Kit (SSR, Zoneless, Express 5, Prisma, better-auth, Tailwind CSS 4).
 * [spartan-admin-dashboard](https://github.com/Oussemasahbeni/spartan-admin-dashboard) ⭐ 62 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21 - A production-ready, Angular admin dashboard template built with Spartan UI components and Tailwind CSS.
-* [angular-sample-app](https://github.com/descope-sample-apps/angular-sample-app) ⭐ 46 | 🐛 10 | 🌐 HTML | 📅 2026-11-18 - A sample Angular app integrating [Descope](https://www.descope.com) with login, user dashboard, and dynamic navigation.
+* [angular-sample-app](https://github.com/descope-sample-apps/angular-sample-app) ⭐ 46 | 🐛 10 | 🌐 HTML | 📅 2026-11-22 - A sample Angular app integrating [Descope](https://www.descope.com) with login, user dashboard, and dynamic navigation.
 * [mantis-free-angular-admin-template](https://github.com/codedthemes/mantis-free-angular-admin-template) ⭐ 41 | 🐛 0 | 🌐 SCSS | 📅 2026-06-09
 * [template-angular](https://github.com/phaserjs/template-angular) ⭐ 39 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-10 - Phaser 3 TypeScript project template that uses the Angular framework and Vite for bundling.
 * [datta-able-free-angular-admin-template](https://github.com/codedthemes/datta-able-free-angular-admin-template) ⭐ 34 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-13
 * [berry-free-angular-admin-template](https://github.com/codedthemes/berry-free-angular-admin-template) ⭐ 29 | 🐛 0 | 🌐 CSS | 📅 2026-09-29 - A free Angular + Bootstrap 5 admin dashboard with customizable, feature-rich pages for optimal UX.
 * [gradient-able-free-admin-template](https://github.com/codedthemes/gradient-able-free-admin-template) ⭐ 27 | 🐛 1 | 🌐 SCSS | 📅 2026-07-25 - Gradient able free Bootstrap, Angular, React admin template.
-* [angular-quickstart](https://github.com/netlify-templates/angular-quickstart) ⭐ 26 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-21 - A bare-bones Angular template to get you deployed to Netlify fast!
+* [angular-quickstart](https://github.com/netlify-templates/angular-quickstart) ⭐ 26 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-22 - A bare-bones Angular template to get you deployed to Netlify fast!
 * [spike-angular-free](https://github.com/wrappixel/spike-angular-free) ⭐ 23 | 🐛 0 | 🌐 HTML | 📅 2026-05-20 - The most powerful & comprehensive free Angular admin template based on Material Angular.
 * [angular-templates](https://github.com/hawkgs/angular-templates) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-21 - A set of Angular templates for common web apps.
 * [AngularTemplate](https://github.com/EmmanuelLefevre/AngularTemplate) ⭐ 19 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-04 - This Angular template delivers a production‑ready project setup with structured architecture, tooling, testing, CI/CD, styling, schematics, and clear rule documentation.
 * [keycloakify-starter-angular-vite](https://github.com/keycloakify/keycloakify-starter-angular-vite) ⭐ 15 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-13 - Angular and Vite Starter for [Keycloakify 11](https://www.keycloakify.dev/).
 * [base-angular-monorepo](https://github.com/myvictorlife/base-angular-monorepo) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-09 - A production-ready base project for developing scalable Angular applications (Nx, NgRx, Tailwind CSS, Jest, ESLint, Prettier).
-* [angular-ngrx-frontend](https://github.com/tarlepp/angular-ngrx-frontend) ⭐ 13 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-19 - Angular NgRx powered frontend template for Symfony (or similar) backend.
+* [angular-ngrx-frontend](https://github.com/tarlepp/angular-ngrx-frontend) ⭐ 13 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-22 - Angular NgRx powered frontend template for Symfony (or similar) backend.
 * [sanity-template-angular-clean](https://github.com/sanity-io/sanity-template-angular-clean) ⭐ 13 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-21 - A clean Angular SPA that gets content from [Sanity](https://www.sanity.io/).
 * [nestjs-angular-starter](https://github.com/tivanov/nestjs-angular-starter) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21 - A full‑stack starter template featuring a NestJS backend and Angular frontend, complete with authentication, user management, and common infrastructure patterns.
 * [angular.ng](https://github.com/desoga10/angular.ng) ⭐ 11 | 🐛 15 | 🌐 SCSS | 📅 2026-11-19 - An open-source productivity dashboard built with Angular and Supabase.
@@ -1208,7 +1210,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-digit-flow](https://github.com/ayangabryl/ngx-digit-flow) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-15 - Individual digit animations for Angular. Each digit has a vertical reel (0-9) that scrolls to the new value when the number changes - slot-machine / odometer style.
 * [ngx-typed-writer](https://github.com/SkyZeroZx/ngx-typed-writer) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-20 - A Native Angular 2+ Typing Animation Library (Angular SSR and Angular Universal Friendly).
 * [ng-auto-animate](https://github.com/ajitzero/ng-auto-animate) ⭐ 14 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-13 - Angular Directive (library) for FormKit's [Auto Animate](https://auto-animate.formkit.com).
-* [ng-motion](https://github.com/ScriptType/ng-motion) ⭐ 14 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-16 - Angular animation library built on [motion-dom](https://github.com/motiondivision/motion) ⭐ 35,426 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-21.
+* [ng-motion](https://github.com/ScriptType/ng-motion) ⭐ 14 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-16 - Angular animation library built on [motion-dom](https://github.com/motiondivision/motion) ⭐ 35,456 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-22.
 * [ngx-aurora](https://github.com/omnedia/ngx-aurora) ⭐ 10 | 🐛 0 | 🌐 SCSS | 📅 2025-11-29 - An Angular library for a customizable, animated aurora background with gradient effects and two animation styles.
 * [ngx-typewriter](https://github.com/omnedia/ngx-typewriter) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-29 - A lightweight and easy-to-use library for creating typewriter effects. It uses RxJS to manage the typewriting effect, ensuring smooth and customizable animations.
 * [ngx-easy-view-transitions](https://github.com/DerStimmler/ngx-easy-view-transitions) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-19 - Angular library for easier use of the View Transitions API.
@@ -1242,7 +1244,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Calendars
 
-* [angular-calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,809 | 🐛 99 | 🌐 TypeScript | 📅 2026-04-08 - A flexible calendar component for Angular 15+ that can display events on a month, week, or day view.
+* [angular-calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,809 | 🐛 100 | 🌐 TypeScript | 📅 2026-04-08 - A flexible calendar component for Angular 15+ that can display events on a month, week, or day view.
 * [schedule-x](https://github.com/schedule-x/schedule-x) ⭐ 2,612 | 🐛 66 | 🌐 TypeScript | 📅 2026-11-21 - Material design event calendar.
 * [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) ⭐ 1,166 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-15 - The official Angular component for FullCalendar.
 * [CalendarJS](https://github.com/componade/calendarjs) ⭐ 50 | 🐛 3 | 🌐 JavaScript | 📅 2025-12-23 - Open source JavaScript calendar and scheduling component that can be integrated into Angular projects.
@@ -1259,7 +1261,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Captcha
 
-* [altcha](https://github.com/altcha-org/altcha) ⭐ 2,915 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-20 - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
+* [altcha](https://github.com/altcha-org/altcha) ⭐ 2,917 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-20 - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
 * [ngx-turnstile](https://github.com/verto-health/ngx-turnstile) ⭐ 82 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-21 - Cloudflare Turnstile for Angular.
 * [ng-hcaptcha](https://github.com/leNicDev/ng-hcaptcha) ⭐ 72 | 🐛 30 | 🌐 TypeScript | 📅 2026-06-03 - Provides an easy to use component for [hCaptcha](https://hcaptcha.com/).
 * [ng-recaptcha-2](https://github.com/LakhveerChahal/ng-recaptcha-2) ⭐ 23 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-13 - Angular 18 fork of [ng-recaptcha](https://github.com/DethAriel/ng-recaptcha) ⭐ 474 | 🐛 25 | 🌐 TypeScript | 📅 2024-06-15. Alternatively, you create your own service that implements Google's reCAPTCHA with the help of this [article](https://ben-5.azurewebsites.net/2024/9/5/google-recaptcha-v3-with-angular/#google_vignette).
@@ -1280,8 +1282,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular2-image-gallery](https://github.com/BenjaminBrandmeier/angular2-image-gallery) ⭐ 307 | 🐛 18 | 🌐 TypeScript | 📅 2026-02-08 - Image Gallery built with Angular 17+, Node.js and GraphicsMagick.
 * [ngx-owl-carousel-o](https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o) ⭐ 195 | 🐛 117 | 🌐 TypeScript | 📅 2026-07-14 - `owl-carousel` for Angular >=6.
 * [ngx-slick-carousel](https://github.com/leo6104/ngx-slick-carousel) ⭐ 116 | 🐛 60 | 🌐 TypeScript | 📅 2025-10-01 - Angular 17+ wrapper for slick plugin.
-* [@reelkit/angular](https://github.com/KonstantinKai/reelkit/tree/main/packages/reelkit-angular) ⭐ 45 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - Virtualized full-screen Angular slider: 3 slides in the DOM for 10,000+ items, with ready-made reel, stories and lightbox players.
-* [embla-carousel-angular](https://github.com/donaldxdonald/embla-carousel-angular) ⭐ 40 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-03 - Angular wrapper for [Embla Carousel](https://github.com/davidjerleke/embla-carousel) ⭐ 8,484 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-01.
+* [@reelkit/angular](https://github.com/KonstantinKai/reelkit/tree/main/packages/reelkit-angular) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - Virtualized full-screen Angular slider: 3 slides in the DOM for 10,000+ items, with ready-made reel, stories and lightbox players.
+* [embla-carousel-angular](https://github.com/donaldxdonald/embla-carousel-angular) ⭐ 40 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-03 - Angular wrapper for [Embla Carousel](https://github.com/davidjerleke/embla-carousel) ⭐ 8,485 | 🐛 34 | 🌐 TypeScript | 📅 2026-11-01.
 * [ngx-stories](https://github.com/Gauravdarkslayer/ngx-stories) ⭐ 22 | 🐛 14 | 🌐 TypeScript | 📅 2026-01-14 - An Angular component to render Instagram like stories.
 * [@daelmaak/ngx-gallery](https://github.com/daelmaak/ngx-gallery) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-14 - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
 * [carousel-library](https://github.com/GreenFlag31/carousel-library) ⭐ 18 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-21 - A versatile Angular library providing a feature-rich, simple, and performant carousel component.
@@ -1289,7 +1291,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-darkbox-gallery-library](https://github.com/failed-successfully/ngx-darkbox-gallery-library) ⭐ 5 | 🐛 37 | 🌐 TypeScript | 📅 2026-11-20 - A highly configurable lightbox themed gallery library for Angular applications using the Ivy engine (Angular 15+).
 * [whirli-ng](https://github.com/babbage42/whirli-ng) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-11 - Angular carousel with drag, looping, virtual slides, projected content, thumbs, SSR‑friendly responsive layouts, external controls, and a rich event API.
 * [ngx-simple-gallery](https://github.com/zolcsi/ngx-simple-gallery) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29 - A lightweight gallery library for Angular 18 that presents all images as thumbnails, expanding them to full size upon clicking or tapping.
-* [ngx-cdk-lightbox](https://github.com/miskith/ngx-cdk-lightbox/tree/master/projects/ngx-cdk-lightbox) ⭐ 1 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-15 - Tailored CDK-based solution for rendering an image gallery with lightbox functionality in Angular.
+* [ngx-cdk-lightbox](https://github.com/miskith/ngx-cdk-lightbox/tree/master/projects/ngx-cdk-lightbox) ⭐ 1 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-22 - Tailored CDK-based solution for rendering an image gallery with lightbox functionality in Angular.
 * [ngx-carousel-modern](https://github.com/Aizaz-ul-haq/ngx-carousel-modern) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-15 - A modern, customizable carousel component for Angular 16+ with support for both standalone and NgModule-based applications.
 * [@vinlos/ngx-gallery](https://github.com/vinlos/ngx-gallery) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-21 - A simple native gallery component for Angular.
 * [fslightbox-angular](https://github.com/banthagroup/fslightbox-angular) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 - Angular version of [Fullscreen Lightbox](https://fslightbox.com/).
@@ -1299,17 +1301,17 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [ngx-charts](https://github.com/swimlane/ngx-charts) ⭐ 4,356 | 🐛 894 | 🌐 TypeScript | 📅 2026-10-29 - Declarative Charting Framework for Angular2 and beyond!
 * [unovis](https://github.com/f5/unovis) ⭐ 2,873 | 🐛 108 | 🌐 TypeScript | 📅 2026-11-17 - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
-* [sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) ⭐ 1,486 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-24 - Customizable no-code component for building flow-based programming applications or workflow automation. Zero external dependencies.
+* [sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) ⭐ 1,487 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-24 - Customizable no-code component for building flow-based programming applications or workflow automation. Zero external dependencies.
 * [org-chart](https://github.com/bumbeishvili/org-chart) ⭐ 1,224 | 🐛 137 | 🌐 HTML | 📅 2026-07-08 - Highly customizable org chart. Integrations available for Angular, React, and Vue.
-* [ngx-echarts](https://github.com/xieziyu/ngx-echarts) ⭐ 1,190 | 🐛 148 | 🌐 TypeScript | 📅 2026-06-11 - Angular directive for [Apache ECharts](https://github.com/apache/echarts) ⭐ 67,766 | 🐛 1,463 | 🌐 TypeScript | 📅 2026-10-13.
+* [ngx-echarts](https://github.com/xieziyu/ngx-echarts) ⭐ 1,190 | 🐛 148 | 🌐 TypeScript | 📅 2026-06-11 - Angular directive for [Apache ECharts](https://github.com/apache/echarts) ⭐ 67,777 | 🐛 1,468 | 🌐 TypeScript | 📅 2026-10-13.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) ⭐ 1,053 | 🐛 276 | 🌐 HTML | 📅 2026-11-05 - A thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 * [ngx-graph](https://github.com/swimlane/ngx-graph) ⭐ 997 | 🐛 114 | 🌐 TypeScript | 📅 2026-07-29 - Graph visualization library for Angular.
 * [ng-diagram](https://github.com/synergycodes/ng-diagram) ⭐ 589 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-12 - Angular library for building interactive, customizable diagrams, node-based editors, and visual workflows.
 * [Foblex Flow](https://github.com/Foblex/f-flow) ⭐ 541 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-25 - Angular-native library for node editors, workflow builders and interactive diagrams: drag-and-drop nodes and connections, minimap, auto-layout, virtualization, and a keyboard accessibility layer.
-* [ag-charts](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) ⭐ 490 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-21 - Fully-featured and highly customizable JavaScript charting library.
+* [ag-charts](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) ⭐ 490 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-22 - Fully-featured and highly customizable JavaScript charting library.
 * [amcharts5](https://github.com/amcharts/amcharts5) ⭐ 450 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-19 - Charting library for JavaScript and TypeScript apps. Check out the [Angular integration guide](https://www.amcharts.com/docs/v5/getting-started/integrations/angular/).
 * [highcharts-angular](https://github.com/highcharts/highcharts-angular) ⭐ 444 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-12 - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
-* [ng-apexcharts](https://github.com/apexcharts/ng-apexcharts) ⭐ 358 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-15 - Angular wrapper for ApexCharts to build interactive visualizations.
+* [ng-apexcharts](https://github.com/apexcharts/ng-apexcharts) ⭐ 358 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-15 - Angular wrapper for ApexCharts to build interactive visualizations.
 * [ngx-gantt](https://github.com/worktile/ngx-gantt) ⭐ 303 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-10 - A modern and powerful gantt chart component for Angular.
 * [angular-google-charts](https://github.com/FERNman/angular-google-charts) ⭐ 277 | 🐛 17 | 🌐 TypeScript | 📅 2026-07-10 - A wrapper for the Google Charts library written in Angular.
 * [ng-flowchart](https://github.com/joel-wenzel/ng-flowchart) ⭐ 151 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-10 - A lightweight Angular library for building drag and drop flow charts.
@@ -1322,14 +1324,14 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-charts](https://github.com/AleksanderBodurri/ng-charts) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - Reangular port of `recharts`.
 * [ngx-recharts](https://github.com/wook95/ngx-recharts) ⭐ 5 | 🐛 11 | 🌐 TypeScript | 📅 2026-03-13 - Build composable charts with Angular components using the same API as [Recharts](https://recharts.github.io/).
 * [pioneer-charts](https://github.com/PioneerCode/pioneer-charts) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-21 - An Angular library for creating responsive, customizable charts using D3.js—supports bar, line, pie, and more.
-* [moguchart-core](https://github.com/hiro-murakami/moguchart-core) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - A lightweight yet feature-rich Gantt chart Web Component built with Lit.
+* [moguchart-core](https://github.com/hiro-murakami/moguchart-core) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - A lightweight yet feature-rich Gantt chart Web Component built with Lit.
 * [mayacharts](https://github.com/BbekShr/mayacharts) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-18 - A framework-agnostic, zero-dependency web component that renders beautiful, accessible charts in just a few lines of code, powered entirely by the browser.
 * [gantryjs](https://github.com/ErlonRr/gantryjs) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-29 - A free, full-featured, open-source Gantt chart for every framework — Angular, React, Vue, Svelte, or plain JavaScript.
 * [ngx-circle-chart](https://github.com/angx-libs/ngx-circle-chart) ⭐ 2 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-03 - Beautiful, auto-scaling circle (doughnut) progress chart for Angular.
-* [silverpoint](https://github.com/ecrespo/silverpoint) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-21 - React and Angular charting components featuring a historical drafting aesthetic.
+* [silverpoint](https://github.com/ecrespo/silverpoint) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - React and Angular charting components featuring a historical drafting aesthetic.
 * [RevoGrid Charts](https://github.com/revolist/charts) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 - Interactive charts with zoom, annotations, and export. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/charts/).
 * [apexstock](https://github.com/apexcharts/apexstock) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-12 - A comprehensive, feature-rich stock chart library built on top of ApexCharts.
-* [mochart-angular](https://github.com/mocharts/mochart/blob/main/packages/mochart-angular/README.md) ⭐ 1 | 🐛 4 | 🌐 HTML | 📅 2026-11-20 - Angular components for the [@mochart/core](https://github.com/mocharts/mochart) ⭐ 1 | 🐛 4 | 🌐 HTML | 📅 2026-11-20 charting library.
+* [mochart-angular](https://github.com/mocharts/mochart/blob/main/packages/mochart-angular/README.md) ⭐ 1 | 🐛 4 | 🌐 HTML | 📅 2026-11-22 - Angular components for the [@mochart/core](https://github.com/mocharts/mochart) ⭐ 1 | 🐛 4 | 🌐 HTML | 📅 2026-11-22 charting library.
 * [ngx-flexmonster](https://github.com/flexmonster/ngx-flexmonster) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-16 - A powerful and fully customizable JavaScript component for web reporting and data visualization.
 * [schedula-core-angular](https://github.com/RGabGH/schedula-core/tree/main/integrations/packages/angular) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 - Official Angular wrapper for [SchedulaCore](https://www.npmjs.com/package/schedula-core) — a fast, lightweight Gantt chart & resource scheduler component.
 * [ngx-linear-pie](https://github.com/feature23/ngx-linear-pie) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 - A linear "pie" chart component for Angular Material.
@@ -1338,7 +1340,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Cookies
 
-* [cookieconsent](https://github.com/orestbida/cookieconsent) ⭐ 5,780 | 🐛 39 | 🌐 JavaScript | 📅 2026-11-03 - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
+* [cookieconsent](https://github.com/orestbida/cookieconsent) ⭐ 5,779 | 🐛 39 | 🌐 JavaScript | 📅 2026-11-22 - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
 * [ngx-cookie-service](https://github.com/stevermeister/ngx-cookie-service) ⭐ 561 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-19 - Angular service for cookies. Originally based on the [ng2-cookies](https://github.com/BCJTI/ng2-cookies) ⭐ 64 | 🐛 9 | 🌐 TypeScript | 📅 2021-06-10 library.
 * [smallest-cookie-banner](https://github.com/DreadfulCode/smallest-cookie-banner) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-09 - Minimal framework-agnostic cookie consent banner.
 * [ngrithms-cookie-consent](https://github.com/aboudbadra/ngrithms-cookie-consent) ⭐ 2 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-09 - Modern Angular cookie consent — standalone components, signal-based state, `provideCookieConsent()` functional setup, SSR-safe, and zero runtime dependencies.
@@ -1356,7 +1358,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [virtua](https://github.com/inokawa/virtua) ⭐ 3,770 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-20 - A zero-config, fast and small virtual list, grid and masonry component for React, Vue, Solid, Svelte and Angular.
 * [active-table](https://github.com/OvidijusParsiunas/active-table) ⭐ 327 | 🐛 29 | 🌐 TypeScript | 📅 2026-02-26 - Framework agnostic table component for editable data experience.
 * [simple-table](https://github.com/petera2c/simple-table) ⭐ 235 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-19 - Framework-agnostic data grid and table component for building modern, scalable applications.
-* [slickgrid-universal](https://github.com/ghiscoding/slickgrid-universal) ⭐ 180 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-21 - A monorepo which includes all editors, filters, extensions, and services related to framework agnostic [SlickGrid](https://github.com/6pac/SlickGrid) ⭐ 2,087 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-19 usage.
+* [slickgrid-universal](https://github.com/ghiscoding/slickgrid-universal) ⭐ 180 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-21 - A monorepo which includes all editors, filters, extensions, and services related to framework agnostic [SlickGrid](https://github.com/6pac/SlickGrid) ⭐ 2,087 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-22 usage.
 * [uiGrid](https://github.com/orneryd/uiGrid) ⭐ 142 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-02 - Open‑source, multi‑platform data grid with modern Angular signals, Web Components, React, and Rust.
 * [gp-grid](https://github.com/GioPat/gp-grid) ⭐ 139 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-07 - Data grid library built with a modular architecture that cleanly separates core logic from framework integrations to efficiently handle massive datasets with millions of rows.
 * [ZingGrid](https://github.com/ZingGrid/zinggrid) ⭐ 104 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-02 - A JavaScript Web Component that integrates seamlessly with [Angular](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) and many other frameworks.
@@ -1366,7 +1368,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [toolbox](https://github.com/OysteinAmundsen/toolbox) ⭐ 56 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-21 - High-performance, framework-agnostic web components for data-intensive applications.
 * [ngx-multi-sort-table](https://github.com/ngx-multi-sort/ngx-multi-sort-table) ⭐ 41 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 - This library features a multiple sortable table based on Angular Material Design, with a focus on server-side loaded and sorted data.
 * [cerious-grid](https://github.com/ryoucerious/cerious-widgets) ⭐ 33 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-14 - A seriously powerful Angular grid for developers who demand control, flexibility, and performance.
-* [angular-datagrid](https://github.com/revolist/angular-datagrid) ⭐ 32 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-19 - Powerful Angular Data Grid component built on top of [RevoGrid](https://github.com/revolist/revogrid) ⭐ 3,465 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-21.
+* [angular-datagrid](https://github.com/revolist/angular-datagrid) ⭐ 32 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - Powerful Angular Data Grid component built on top of [RevoGrid](https://github.com/revolist/revogrid) ⭐ 3,463 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-22.
 * [PivotHead](https://github.com/mindfiredigital/PivotHead) ⭐ 30 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-23 - A powerful and flexible library for creating interactive pivot tables in JavaScript/TypeScript applications.
 * [ngx-datatables-net](https://github.com/ascentspark/ngx-datatables-net) ⭐ 20 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-17 - Angular wrapper for `DataTables.net` supporting Angular 20+.
 * [@witqq/spreadsheet](https://github.com/witqq/spreadsheet) ⭐ 13 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-01 - Canvas‑based spreadsheet/datagrid engine with zero dependencies, 100K+ rows at 60fps, full editing, and real‑time collaboration. Check their [website](https://spreadsheet.witqq.dev/).
@@ -1375,14 +1377,14 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [TabularJS](https://github.com/jspreadsheet/tabularjs) ⭐ 8 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-29 - Lightweight JavaScript table and data grid library for advanced table features in Angular.
 * [uni-table](https://github.com/Unify-India/uni-table) ⭐ 7 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-22 - Angular data grid built on signals for zero‑lag performance, combining advanced server‑side features with a streamlined configuration API.
 * [ngx-mat-simple-table](https://github.com/xonaib/ng-simple-table) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-15 - A declarative Angular Material table — JSON columns, sorting, filters, pagination, and custom cell templates out of the box.
-* [Lattice Grid](https://github.com/toclocoinc/latticegrid) ⭐ 6 | 🐛 0 | 📅 2026-11-21 - A high-performance JavaScript data grid with a data router that keeps grids, charts, boards, Gantts, and KPI tiles instantly synchronized.
+* [Lattice Grid](https://github.com/toclocoinc/latticegrid) ⭐ 6 | 🐛 0 | 📅 2026-11-22 - A high-performance JavaScript data grid with a data router that keeps grids, charts, boards, Gantts, and KPI tiles instantly synchronized.
 * [ngx-tabulator-tables](https://github.com/knackstedt/ngx-tabulator-tables) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-07 - Angular wrapper for the [Tabulator](https://tabulator.info/) table library.
 * [ngx-datawindow](https://github.com/sugitter/ngx-datawindow) ⭐ 4 | 🐛 0 | 🌐 HTML | 📅 2026-05-17 - Table component modernizing the classic DataWindow with zero‑config CRUD, computed columns, multi‑buffer state, offline sync, and granular change tracking.
 * [angular-tree](https://github.com/h-k-dev/angular-tree) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-10 - A high-performance, headless tree component that is zoneless, signal-powered, and fully virtualized, with `@angular/cdk` as its sole runtime dependency.
 * [ogrid](https://github.com/alaarab/ogrid) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-31 - The lightweight, multi-framework data grid with enterprise features and zero enterprise cost.
 * [@some-angular-utils/table](https://github.com/some-angular-utils/table) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-06 - Remote or local data, pagination, filters, responsive layouts and full template control — wired into one declarative `<sau-table>` element.
 * [ngx-bs-grid](https://github.com/BlockSurvey/bs-grid) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-12 - A zero-dependency MIT-licensed Angular data grid.
-* [argus-table](https://github.com/Joessst-Dev/argus-table) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-21 - A framework-agnostic, virtualized data table web component built with Lit and TanStack.
+* [argus-table](https://github.com/Joessst-Dev/argus-table) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - A framework-agnostic, virtualized data table web component built with Lit and TanStack.
 * [GuiExpert Table](https://github.com/guiexperttable/mono/tree/main/packages/angular-table) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2026-11-20 - Framework-agnostic table library featuring seamless, built-in [Angular integration](https://gui.expert/getstarted/angular/) alongside support for other major frameworks.
 * [mat-datatable](https://github.com/BePo65/mat-datatable) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-15 - A simple data table with virtual scrolling using Angular Material.
 * [@Trixwell/data-grid](https://github.com/Trixwell/data-grid) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-05 - An Angular data table component with filtering, sorting, pagination, CSV export, sub-grids, and Material integration.
@@ -1403,7 +1405,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Dates
 
-* [ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) ⭐ 253 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-20 - Date range picker with predefined ranges, a time picker and a Material look, for Angular 16+ with SSR and zoneless support.
+* [ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) ⭐ 253 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-22 - Date range picker with predefined ranges, a time picker and a Material look, for Angular 16+ with SSR and zoneless support.
 * [ngx-date-fns](https://github.com/joanllenas/ngx-date-fns) ⭐ 166 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-17 - [Date-fns](https://date-fns.org/) pipes for Angular.
 * [mat-datetimepicker](https://github.com/kuhnroyal/mat-datetimepicker) ⭐ 153 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-17 - Material datetimepicker for `@angular/material`.
 * [date-time-picker](https://github.com/danielmoncada/date-time-picker) ⭐ 152 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-05 - Angular date time picker.
@@ -1473,7 +1475,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Drag and Drop
 
-* [ngx-drag-drop](https://github.com/ChristofFritz/ngx-drag-drop) ⭐ 333 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-21 - Angular directives using the native HTML Drag And Drop API.
+* [ngx-drag-drop](https://github.com/ChristofFritz/ngx-drag-drop) ⭐ 333 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-22 - Angular directives using the native HTML Drag And Drop API.
 * [ngx-puzzle](https://github.com/zhongmiao-org/ngx-puzzle) ⭐ 191 | 🐛 7 | 🌐 TypeScript | 📅 2026-04-23 - Drag-and-drop dashboard builder for Angular applications.
 * [ng-dnd](https://github.com/ng-dnd/ng-dnd) ⭐ 130 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-14 - Drag and Drop for Angular.
 * [@hackingharold/ngx-dropzone](https://github.com/hackingharold/ngx-dropzone) ⭐ 56 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-20 - The missing file input component for Angular Material.
@@ -1498,19 +1500,19 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [domternal](https://github.com/domternal/domternal) ⭐ 234 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-19 - Lightweight, extensible rich text editor toolkit with native Angular components (Signals, OnPush, standalone), built-in toolbar and theme, and full table support.
 * [notectl](https://github.com/Samyssmile/notectl) ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-17 - Modern accessible WYSIWYG rich text editor built as a framework-agnostic web component that works everywhere.
 * [ngx-tiptap](https://github.com/sibiraj-s/ngx-tiptap) ⭐ 203 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-03 - Angular bindings for [tiptap v2](https://tiptap.dev/).
-* [slate-angular](https://github.com/worktile/slate-angular) ⭐ 188 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-13 - Angular view layer for [Slate](https://github.com/ianstormtaylor/slate) ⭐ 31,749 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-21.
+* [slate-angular](https://github.com/worktile/slate-angular) ⭐ 188 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-13 - Angular view layer for [Slate](https://github.com/ianstormtaylor/slate) ⭐ 31,749 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-21.
 * [ngx-tinymce](https://github.com/cipchk/ngx-tinymce) ⭐ 78 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-16 - `TinyMCE` components built with Angular.
-* [@bloklabs/angular](https://github.com/JackUait/blok) ⭐ 56 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-21 - Angular adapter for [Blok](https://blokeditor.com), a headless block-based rich text editor that outputs JSON instead of HTML.
+* [@bloklabs/angular](https://github.com/JackUait/blok) ⭐ 56 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-22 - Angular adapter for [Blok](https://blokeditor.com), a headless block-based rich text editor that outputs JSON instead of HTML.
 * [@acrodata/code-editor](https://github.com/acrodata/code-editor) ⭐ 54 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-17 - CodeMirror 6 wrapper for Angular.
 * [angular-tiptap-editor](https://github.com/FloGeez/angular-tiptap-editor) ⭐ 35 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-12 - A modern, customizable Angular rich-text editor, built with Tiptap.
-* [ngx-jodit](https://github.com/julianpoemp/ngx-jodit/) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-07 - Angular wrapper for [Jodit](https://github.com/xdan/jodit) ⭐ 1,973 | 🐛 10 | 🌐 JavaScript | 📅 2026-11-21 WYSIWYG editor.
+* [ngx-jodit](https://github.com/julianpoemp/ngx-jodit/) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-07 - Angular wrapper for [Jodit](https://github.com/xdan/jodit) ⭐ 1,972 | 🐛 10 | 🌐 JavaScript | 📅 2026-11-21 WYSIWYG editor.
 * [qalma](https://github.com/cdskill/qalma) ⭐ 11 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-19 - Angular-first, headless rich text editor toolkit built on ProseMirror.
 * [ngx-simple-text-editor](https://github.com/Raiper34/ngx-simple-text-editor) ⭐ 9 | 🐛 3 | 🌐 TypeScript | 📅 2026-01-11 - A simple native text editor component for Angular 9+.
 * [MagnetarQuill](https://github.com/scherenhaenden/MagnetarQuill) ⭐ 8 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-06 - Extensible Angular WYSIWYG editor for rich text, media, and tables with a plugin architecture.
 * [ngx-editorjs2](https://github.com/Ba5ik7/ngx-editorjs2) ⭐ 8 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-15 - Extensible block editor inspired by [Editor.js](https://editorjs.io/), with customizable blocks and Angular reactive features. [ngx-editor-js2-blocks](https://github.com/Ba5ik7/ngx-editor-js2-blocks) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-15 adds support for custom content types.
 * [kritzel](https://github.com/kasual1/kritzel) ⭐ 8 | 🐛 50 | 🌐 TypeScript | 📅 2026-11-19 - Infinite canvas editor with first-class support for Angular.
 * [nge-ide](https://github.com/cisstech/nge-ide) ⭐ 7 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-01 - Via a single `<ide-root />` component, NGE IDE embeds a full desktop editor shell into Angular apps.
-* [trevixal-editor](https://github.com/adityabhalsod/trevixal-editor) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24 - An independent, custom-engineered WYSIWYG rich-text engine with an Angular integration.
+* [trevixal-editor](https://github.com/adityabhalsod/trevixal-editor) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - An independent, custom-engineered WYSIWYG rich-text engine with an Angular integration.
 * [@bobbyquantum/ngx-editor](https://github.com/bobbyquantum/ngx-editor) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-01 - Angular 21+ fork of `sibiraj-s/ngx-editor`.
 * [contentful-rich-text-angular-renderer](https://github.com/flowup/contentful-rich-text-angular-renderer) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-15 - Angular renderer for Contentful Rich Text, offering customizable node and mark rendering using Angular templates.
 * [ngx-rwriter](https://github.com/ReiAg/ngx-rwriter) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-13 - A modern Rich Text Editor component for Angular 21+ with native support for images, alignment, lists, color pickers, and translations.
@@ -1543,7 +1545,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### File Upload
 
-* [Uppy](https://github.com/transloadit/uppy) ⭐ 31,086 | 🐛 209 | 🌐 TypeScript | 📅 2026-11-21 - A sleek, modular JavaScript file uploader that [integrates seamlessly with Angular](https://uppy.io/docs/angular/).
+* [Uppy](https://github.com/transloadit/uppy) ⭐ 31,086 | 🐛 189 | 🌐 TypeScript | 📅 2026-11-22 - A sleek, modular JavaScript file uploader that [integrates seamlessly with Angular](https://uppy.io/docs/angular/).
 * [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) ⭐ 1,892 | 🐛 415 | 🌐 TypeScript | 📅 2026-10-07 - Easy to use file upload directives.
 * [@georgipeltekov/ngx-file-drop](https://github.com/georgipeltekov/ngx-file-drop) ⭐ 303 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-13 - Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat.
 * [file-uploader](https://github.com/uploadcare/file-uploader) ⭐ 113 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-20 - A Web Components–based file upload widget compatible with any JavaScript framework — React, Next.js, Vue, Angular, and Svelte — without adapters.
@@ -1559,18 +1561,19 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-bulk-uploader](https://github.com/suraj-26/ngx-bulk-uploader) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 - A schema-driven bulk Excel upload grid for Angular, built on `Handsontable`.
 * [ngx-photo-uploader](https://github.com/pablomillaquen/ngx-photo-uploader) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-17 - Standalone Angular component for uploading images via click, drag-and-drop, or camera, with built-in preview and full Reactive Forms support.
 * [filestack](https://www.filestack.com/sdks/angular/) - Integrate powerful file uploads into Angular with a single command using the Filestack SDK to seamlessly ingest, process, and deliver files behind a unified provider call.
+* [PageSignal](https://www.pagesignal.studio/) - Native Angular 21 document workspace with multi-file upload, editable extracted fields, document previews, and JSON export through an application-provided backend adapter.
 
 ### Forms
 
-* [@TanStack/form](https://github.com/TanStack/form) ⭐ 6,772 | 🐛 235 | 🌐 TypeScript | 📅 2026-11-21 - With TypeScript support, headless UI, and framework-agnostic design, it streamlines cross-framework form handling.
+* [@TanStack/form](https://github.com/TanStack/form) ⭐ 6,772 | 🐛 234 | 🌐 TypeScript | 📅 2026-11-22 - With TypeScript support, headless UI, and framework-agnostic design, it streamlines cross-framework form handling.
 * [maskito](https://github.com/taiga-family/maskito) ⭐ 1,672 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-16 - Collection of libraries to create an input mask which ensures that user types value according to predefined format.
-* [ngx-mask](https://github.com/NepipenkoIgor/ngx-mask) ⭐ 1,244 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-19 - Angular Plugin to make masks on form fields and html elements.
+* [ngx-mask](https://github.com/NepipenkoIgor/ngx-mask) ⭐ 1,244 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-22 - Angular Plugin to make masks on form fields and html elements.
 * [formisch](https://github.com/open-circle/formisch) ⭐ 1,230 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-21 - A schema-based, headless JS form library that delivers fast, type-safe state management and validation within a lightweight, modular bundle.
 * [ngx-sub-form](https://github.com/cloudnc/ngx-sub-form) ⭐ 316 | 🐛 38 | 🌐 TypeScript | 📅 2026-07-13 - Utility library for breaking down an Angular form into multiple components.
-* [GolemUI](https://github.com/golemui/golemui) ⭐ 138 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-21 - Declarative Form Engine.
+* [GolemUI](https://github.com/golemui/golemui) ⭐ 139 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-22 - Declarative Form Engine.
 * [ng-forge](https://github.com/ng-forge/ng-forge) ⭐ 101 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-15 - A type‑safe, dynamic forms library built for Angular’s signal‑based forms.
 * [ngx-vest-forms](https://github.com/ngx-vest-forms/ngx-vest-forms) ⭐ 59 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-21 - A lightweight, type-safe adapter linking Angular template-driven forms with [Vest.js](https://vestjs.dev/) for complex, async validation.
-* [formancy.ai](https://github.com/sharkysan/formancy.ai) ⭐ 56 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-16 - An open-source visual form builder for Angular and React.
+* [formancy.ai](https://github.com/sharkysan/formancy.ai) ⭐ 56 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-22 - An open-source visual form builder for Angular and React.
 * [piying-view](https://github.com/piying-org/piying-view) ⭐ 11 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-03 - A strongly typed frontend form solution; an alternative to `ngx-formly` and Angular's official form framework.
 * [ngx-reactive-forms-utils](https://github.com/pjlamb12/ngx-reactive-forms-utils) ⭐ 7 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-10 - Utilities to assist in the use of reactive Angular forms.
 * [ngx-form-object](https://github.com/infinum/ngx-form-object) ⭐ 6 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-09 - An abstraction over Angular reactive forms that generates forms from models and manages nested relationships.
@@ -1583,7 +1586,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@ngx-signal-forms/toolkit](https://github.com/ngx-signal-forms/ngx-signal-forms) ⭐ 3 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-20 - An Angular signal form wrapper that manages error timing, automatic ARIA accessibility wiring, warnings, focus management, hints, and custom CSS theming.
 * [ngx-focus-entities](https://github.com/klee-contrib/ngx-focus-entities) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-19 - Library for generating reactive Angular forms from a Focus4 representation generated with [TopModel](https://github.com/klee-contrib/topmodel) ⭐ 22 | 🐛 15 | 🌐 C# | 📅 2026-11-20.
 * [pro-form](https://github.com/ProAngular/pro-form) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-19 - A predefined set of reactive and reusable form input components based on Angular Material.
-* [ngx-formidable](https://github.com/Cynthion/ngx-formidable) ⭐ 2 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-21 - A powerful Angular component library for building rich, validated forms.
+* [ngx-formidable](https://github.com/Cynthion/ngx-formidable) ⭐ 2 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-22 - A powerful Angular component library for building rich, validated forms.
 * [ngx-form-m3](https://github.com/webilix/ngx-form-m3) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-31 - Persian form library for Angular and Material 3.
 * [lite-form](https://github.com/liangk/lite-form) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-23 - A lightweight Angular library offering customizable form components with validation, styling, and animations.
 * [ngx-mat-form](https://github.com/Salromag/ngx-mat-form) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09 - Angular library that uses Reactive Forms and Angular Material to dynamically generate configurable forms from a schema.
@@ -1631,7 +1634,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [color-picker](https://github.com/acrodata/color-picker) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-16 - Another beautiful color picker.
 * [ngx-bootstrap-icons-picker](https://github.com/gdgvda/ngx-bootstrap-icons-picker) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-30 - This icon picker manages the free, high quality, open source [Bootstrap Icons](https://icons.getbootstrap.com/) library.
 * [ngx-morse](https://github.com/monkeyscript/ngx-morse) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-15 - A simple morse code encoder and decoder for Angular.
-* [nicematic-emoji-picker](https://github.com/myposty/nicematic-emoji-picker) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 - High‑performance, zero‑dependency emoji picker for Angular 17+ with 929 emojis, auto‑theming, i18n, and responsive design.
+* [nicematic-emoji-picker](https://github.com/myposty/nicematic-emoji-picker) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 - High‑performance, zero‑dependency emoji picker for Angular 17+ with 929 emojis, auto‑theming, i18n, and responsive design.
 * [@nsnayp1/angular-datepicker2](https://github.com/nsnayp13/angular-datepicker2) ⭐ 5 | 🐛 11 | 🌐 TypeScript | 📅 2025-10-08 - Lightweight Angular 16+ datepicker with standalone support, range and multi-date selection, and customizable templates—no external dependencies.
 * [ngx-mat-split-button](https://github.com/feature23/ngx-mat-split-button) ⭐ 4 | 🐛 0 | 🌐 HTML | 📅 2026-11-06 - Angular Material split button with a primary action and dropdown for secondary options.
 * [ngx-mat-table-multi-sort](https://github.com/lion-and-bear/ngx-mat-table-multi-sort) ⭐ 4 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-14 - Add multi-sort capability to an Angular Material table.
@@ -1645,7 +1648,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxsmk-datepicker](https://github.com/toozuuu/ngxsmk-datepicker) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29 - A modern, highly customizable Angular date range picker component.
 * [ngx-pattern-lock](https://github.com/nicotole/ngx-pattern-lock) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-06 - A lightweight, fully responsive, and customizable Android-style pattern lock component for Angular.
 * [smt-select](https://github.com/sametacar/smt-select) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-10 - A high-performance, lightweight, and customizable Angular select component with built-in virtual scroll and search capabilities.
-* [mat-password-meter](https://github.com/ngx-zen/mat-password-meter) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-17 - Angular Password Strength Meter ([zxcvbn](https://github.com/dropbox/zxcvbn) ⭐ 16,094 | 🐛 145 | 🌐 CoffeeScript | 📅 2024-08-19, NIST-aligned, customizable).
+* [mat-password-meter](https://github.com/ngx-zen/mat-password-meter) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-17 - Angular Password Strength Meter ([zxcvbn](https://github.com/dropbox/zxcvbn) ⭐ 16,093 | 🐛 146 | 🌐 CoffeeScript | 📅 2024-08-19, NIST-aligned, customizable).
 * [ngx-phone-field](https://github.com/alex-mirankov/ngx-phone-field) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-15 - Angular directive for international phone input with flag dropdowns, supporting Reactive and Template-Driven Forms.
 * [ngx-super-select](https://github.com/HesamKashefi/ngx-super-select) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-12 - A multi-select input component for Angular.
 * [ngx-mat-period-picker](https://github.com/felixdulfer/ngx-mat-period-picker) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-19 - A modern Angular Material period picker component built with standalone components.
@@ -1683,10 +1686,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Form Validation
 
-* [ngx-valdemort](https://github.com/Ninja-Squad/ngx-valdemort) ⭐ 205 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-21 - Simpler, cleaner Angular validation error messages.
+* [ngx-valdemort](https://github.com/Ninja-Squad/ngx-valdemort) ⭐ 205 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-22 - Simpler, cleaner Angular validation error messages.
 * [angular-reactive-validation](https://github.com/davidwalschots/angular-reactive-validation) ⭐ 32 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-24 - This library simplifies Reactive Forms validation by eliminating the need for extensive HTML.
 * [validointi](https://github.com/validointi/validointi) ⭐ 25 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-28 - A library to help you validate your template driven forms.
-* [ngx-reactive-form-class-validator](https://github.com/abarghoud/ngx-reactive-form-class-validator) ⭐ 24 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-30 - A lightweight library for dynamically validate Angular reactive forms using [class-validator](https://github.com/typestack/class-validator) ⭐ 11,855 | 🐛 329 | 🌐 TypeScript | 📅 2026-03-25 library.
+* [ngx-reactive-form-class-validator](https://github.com/abarghoud/ngx-reactive-form-class-validator) ⭐ 24 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-30 - A lightweight library for dynamically validate Angular reactive forms using [class-validator](https://github.com/typestack/class-validator) ⭐ 11,857 | 🐛 329 | 🌐 TypeScript | 📅 2026-03-25 library.
 * [ngx-validator-pack](https://github.com/omnidyon/ngx-validator-pack) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-04 - A collection of validators designed to simplify usage and allow quick customization.
 * [ngx-mat-errors](https://github.com/Totati/ngx-mat-errors) ⭐ 13 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-13 - Offers a simple and adaptable approach to presenting error messages within a `MatFormField`.
 * [angular-password-checker](https://github.com/akehir/angular-password-checker) ⭐ 9 | 🐛 12 | 🌐 TypeScript | 📅 2026-02-04 - Protect your users from re-using a password known to be hacked with this simple Angular directive.
@@ -1703,9 +1706,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Icons
 
-* [lucide](https://github.com/lucide-icons/lucide) ⭐ 25,918 | 🐛 316 | 🌐 TypeScript | 📅 2026-11-20 - Open-source icon library with 1000+ SVGs, featuring an [official Angular package](https://lucide.dev/guide/packages/lucide-angular) for easy integration.
+* [lucide](https://github.com/lucide-icons/lucide) ⭐ 25,940 | 🐛 313 | 🌐 TypeScript | 📅 2026-11-22 - Open-source icon library with 1000+ SVGs, featuring an [official Angular package](https://lucide.dev/guide/packages/lucide-angular) for easy integration.
 * [angular-fontawesome](https://github.com/FortAwesome/angular-fontawesome) ⭐ 1,531 | 🐛 15 | 🌐 TypeScript | 📅 2026-07-02 - Official Angular component for Font Awesome 5+.
-* [@hugeicons/angular](https://github.com/hugeicons/hugeicons/tree/main/packages/angular) ⭐ 1,236 | 🐛 2 | 🌐 Dart | 📅 2026-11-16 - 5,400+ free MIT-licensed stroke-rounded icons for Angular.
+* [@hugeicons/angular](https://github.com/hugeicons/hugeicons/tree/main/packages/angular) ⭐ 1,238 | 🐛 2 | 🌐 Dart | 📅 2026-11-16 - 5,400+ free MIT-licensed stroke-rounded icons for Angular.
 * [ng-icons](https://github.com/ng-icons/ng-icons) ⭐ 607 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-11 - The ultimate icon library for Angular.
 * [angular-svg-icon](https://github.com/czeckd/angular-svg-icon) ⭐ 264 | 🐛 18 | 🌐 TypeScript | 📅 2026-01-18 - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
 * [ngx-fluent-ui](https://github.com/bennymeg/ngx-fluent-ui) ⭐ 25 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-01 - Angular & online library for Microsoft Fluent UI icons.
@@ -1740,10 +1743,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-advanced-img](https://github.com/bmartinson/ngx-advanced-img) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - Angular attribute directives suite that provides various HTML img feature extensions.
 * [ngx-broken-img](https://github.com/andreagrossetti/ngx-broken-img) ⭐ 1 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-15 - Angular directive to fix broken url in img. If image url returns 404, a placeholder is used to fill img's src.
 * [ngx-image-magnifier](https://github.com/SeriousSez/ngx-image-magnifier) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-30 - Angular image magnifier directive with keyboard modifier support, smart positioning, mobile optimization, and smooth GPU-accelerated animations.
-* [@jjmhalew/ngx-lightbox](https://github.com/jjmhalew/ngx-lightbox) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-14 - A [lightbox2](https://github.com/lokesh/lightbox2) ⭐ 6,369 | 🐛 51 | 🌐 JavaScript | 📅 2026-04-13 implementation port to use with Angular >= 18 (zoneless).
+* [@jjmhalew/ngx-lightbox](https://github.com/jjmhalew/ngx-lightbox) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-14 - A [lightbox2](https://github.com/lokesh/lightbox2) ⭐ 6,368 | 🐛 51 | 🌐 JavaScript | 📅 2026-04-13 implementation port to use with Angular >= 18 (zoneless).
 * [ngx-image-fallback](https://github.com/joyblanks/ngx-image-fallback) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-07 - Image Fallback Directive for Angular.
 * [ngx-ratio-image](https://github.com/gerd-siebert/ngx-ratio-image) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2026-10-05 - Angular library for displaying an image with a variable aspect ratio inside a container with a fixed aspect ratio.
-* [ng-smart-images](https://github.com/yadimon/ng-smart-images) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-18 - CLI-first image optimization with hashed assets, runtime manifests, and optional Angular helpers.
+* [ng-smart-images](https://github.com/yadimon/ng-smart-images) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - CLI-first image optimization with hashed assets, runtime manifests, and optional Angular helpers.
 * [@necraidan/ngx-lightbox](https://github.com/necraidan/ngx-lightbox) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-03 - A lightweight, accessible Angular 21+ lightbox with zoom, pan, pinch‑to‑zoom, and keyboard navigation, all with zero dependencies.
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
 * [unpic](https://unpic.pics/img/angular/) - Angular directive for responsive, high-performance images with automatic srcset, sizing, and CDN/CMS URL detection.
@@ -1763,11 +1766,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Layout
 
-* [gridstack](https://github.com/gridstack/gridstack.js/tree/master/angular/) ⭐ 9,259 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-17 - Mobile-friendly TypeScript library for drag-and-drop, multi-column responsive dashboards with Angular support.
+* [gridstack](https://github.com/gridstack/gridstack.js/tree/master/angular/) ⭐ 9,260 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-17 - Mobile-friendly TypeScript library for drag-and-drop, multi-column responsive dashboards with Angular support.
 * [angular-gridster2](https://github.com/tiberiuzuld/angular-gridster2) ⭐ 1,347 | 🐛 367 | 🌐 TypeScript | 📅 2026-10-12 - Angular gridster 2.
 * [angular-split](https://github.com/angular-split/angular-split) ⭐ 934 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-06 - Angular split component.
 * [polymorpheus](https://github.com/taiga-family/polymorpheus) ⭐ 430 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-16 - A tiny library for polymorphic templates in Angular.
-* [ngx-layout](https://github.com/ngbracket/ngx-layout) ⭐ 236 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-15 - Clone of Angular FlexLayout.
+* [ngx-layout](https://github.com/ngbracket/ngx-layout) ⭐ 236 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-22 - Clone of Angular FlexLayout.
 * [ng-sortgrid](https://github.com/nivekcode/ng-sortgrid) ⭐ 149 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-15 - A grid that allows you to sort all items via drag & drop.
 * [gui](https://github.com/acrodata/gui) ⭐ 132 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23 - JSON powered GUI for configurable panels.
 * [berg-layout](https://github.com/blidblid/berg-layout) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28 - This monorepo contains versions of the [Berg Layout for Angular](https://www.npmjs.com/package/@berg-layout/angular), React, and Web Components.
@@ -1777,7 +1780,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [RevoGrid Kanban](https://github.com/revolist/kanban) ⭐ 11 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-19 - Kanban boards for organizing work into columns and moving cards between them. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/kanban/).
 * [ngx-material-drawer](https://github.com/ansarisufiyan777/ngx-material-drawer) ⭐ 9 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-07 - Configurable Angular Material Drawer and Toolbar.
 * [masonry-angular](https://github.com/MeAkib/masonry-angular) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-03 - Zero-dependency masonry for Angular — signal-based, zoneless and SSR-safe.
-* [ng-cmdk](https://github.com/wadie/ng-cmdk) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-30 - Fast, composable, unstyled command menu for Angular — a port of [cmdk](https://github.com/dip/cmdk) ⭐ 13,170 | 🐛 87 | 🌐 TypeScript | 📅 2025-10-29.
+* [ng-cmdk](https://github.com/wadie/ng-cmdk) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-30 - Fast, composable, unstyled command menu for Angular — a port of [cmdk](https://github.com/dip/cmdk) ⭐ 13,172 | 🐛 87 | 🌐 TypeScript | 📅 2025-10-29.
 * [ngx-gridpattern](https://github.com/omnedia/ngx-gridpattern) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-29 - A simple component library to create a container with an pattern background.
 * [layout-virtual](https://github.com/itihon/layout-virtual) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-06 - Framework agnostic virtualization engine for responsive list and grid layout.
 * [ngx-flickering-grid](https://github.com/omnedia/ngx-flickering-grid) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-29 - A simple component library to create a container with an animated grid pattern background.
@@ -1788,12 +1791,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dock-layout](https://github.com/mickael-pezzoni/ngx-dock-layout) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - An Angular library for creating IDE-style, resizable panel layouts.
 * [ngx-magazine](https://github.com/JoseM97/ngx-magazine) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-21 - Angular components for a 3D magazine collection gallery with a modal-based, 3D page-flipping HTML reader.
 * [ngx-retro-grid](https://github.com/omnedia/ngx-retro-grid) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-29 - 3D perspective grid component with customizable colors, rotation, and smooth animations for nostalgic or futuristic effects.
-* [static-columns](https://github.com/darekf77/static-columns) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-17 - Define columns with static width with Angular and FlexBox.
+* [static-columns](https://github.com/darekf77/static-columns) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - Define columns with static width with Angular and FlexBox.
 * [dockview-angular](https://www.npmjs.com/package/dockview-angular) - Zero dependency layout manager supporting tabs, groups, grids, and splitviews.
 
 ### Loaders
 
-* [boneyard](https://github.com/0xGF/boneyard) ⭐ 7,618 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-31 - Auto-generated skeleton-loading framework that works with React, Preact, Vue, Svelte, Angular, and React Native.
+* [boneyard](https://github.com/0xGF/boneyard) ⭐ 7,619 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-31 - Auto-generated skeleton-loading framework that works with React, Preact, Vue, Svelte, Angular, and React Native.
 * [shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) ⭐ 1,136 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-04 - A React, Vue, Svelte, & Angular shimmer/skeleton library that automatically adapts to your component's runtime structure.
 * [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) ⭐ 1,051 | 🐛 14 | 🌐 TypeScript | 📅 2026-02-07 - Nanoscopic progress bar, featuring realistic trickle animations.
 * [ngx-spinner](https://github.com/napster2210/ngx-spinner) ⭐ 871 | 🐛 16 | 🌐 CSS | 📅 2026-11-13 - A library for loading spinner for Angular.
@@ -1830,12 +1833,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [ngx-leaflet](https://github.com/bluehalo/ngx-leaflet) ⭐ 815 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-11 - Core Leaflet package for Angular.
 * [ngx-mapbox-gl](https://github.com/Wykks/ngx-mapbox-gl) ⭐ 358 | 🐛 71 | 🌐 TypeScript | 📅 2026-02-14 - Angular binding of `mapbox-gl-js`.
-* [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) ⭐ 119 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-13 - Angular binding of maplibre-gl.
+* [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) ⭐ 121 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-13 - Angular binding of maplibre-gl.
 * [angular-yandex-maps](https://github.com/ddubrava/angular-yandex-maps) ⭐ 66 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-07 - Yandex.Maps Angular components that implement the Yandex.Maps JavaScript API.
-* [ngx-leaflet-markercluster](https://github.com/bluehalo/ngx-leaflet-markercluster) ⭐ 61 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-16 - Provides [leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) ⭐ 4,173 | 🐛 41 | 🌐 JavaScript | 📅 2026-11-19 integration into Angular projects.
+* [ngx-leaflet-markercluster](https://github.com/bluehalo/ngx-leaflet-markercluster) ⭐ 61 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-16 - Provides [leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) ⭐ 4,173 | 🐛 41 | 🌐 JavaScript | 📅 2026-11-22 integration into Angular projects.
 * [cesium-angular-example](https://github.com/Developer-Plexscape/cesium-angular-example) ⭐ 53 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-20 - A simple web application that demonstrates integration of [Cesium](https://cesium.com) with the LATEST version of Angular.
 * [ng-azure-maps](https://github.com/arnaudleclerc/ng-azure-maps) ⭐ 19 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-10 - Angular HTML-driven wrapper for azure-maps-controls, enabling easy integration into Angular applications.
-* [ng-mapcn](https://github.com/juanvieiraprado99/ng-mapcn) ⭐ 16 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-15 - A set of composable MapLibre GL map components for Angular.
+* [ng-mapcn](https://github.com/juanvieiraprado99/ng-mapcn) ⭐ 16 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-22 - A set of composable MapLibre GL map components for Angular.
 * [workletjs](https://github.com/workletjs/workletjs) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23 - An Angular map component library that provides seamless integration with OpenLayers, enabling developers to create interactive and customizable maps.
 * [ngx-google-maps-places](https://github.com/lekhmanrus/ngx-google-maps-places) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-18 - Angular wrapper for Google Maps Places API, simplifying Google Places integration.
 * [ng-simple-maps](https://github.com/hanafnafs/ng-simple-maps) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-18 - Beautiful, lightweight SVG world maps for Angular applications.
@@ -1843,10 +1846,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Markdown
 
-* [markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 3,058 | 🐛 1 | 🌐 Vue | 📅 2026-11-21 - Render Markdown while it is still streaming.
+* [markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 3,058 | 🐛 1 | 🌐 Vue | 📅 2026-11-22 - Render Markdown while it is still streaming.
 * [ngx-markdown](https://github.com/jfcere/ngx-markdown) ⭐ 1,194 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-13 - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
 * [angular-markdown-editor](https://github.com/ghiscoding/angular-markdown-editor) ⭐ 177 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-15 - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
-* [slide.ng](https://github.com/slide-ng/slide.ng) ⭐ 87 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-21 - Presentations written in markdown, with real Angular template syntax inside.
+* [slide.ng](https://github.com/slide-ng/slide.ng) ⭐ 88 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-21 - Presentations written in markdown, with real Angular template syntax inside.
 * [ngx-remark](https://github.com/ericleib/ngx-remark) ⭐ 23 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-15 - Render markdown with custom Angular templates.
 * [m-render](https://github.com/Foblex/m-render) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-06 - A library for rendering Markdown with extended support for Angular components and code snippets.
 * [markular](https://github.com/larswaechter/markular) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-11 - A lightweight Markdown editor for Angular.
@@ -1856,7 +1859,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-md-slides](https://github.com/ngx-md-slides/ngx-md-slides) ⭐ 2 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-24 - Create multi-language presentations, using Markdown, HTML, and Angular components for live examples.
 * [@render-policy/angular](https://github.com/shteynu/render-policy/tree/main/packages/angular) ⭐ 2 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-04 - Renders streaming agent/LLM Markdown and HTML without `[innerHTML]` or `bypassSecurityTrustHtml`: sanitized to a fragment, image hosts allowlisted, Trusted Types-compatible.
 * [ngx-markdown-pages](https://github.com/jamesmandrews/ngx-markdown-pages) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-08 - An Angular library for rendering markdown files as routable pages.
-* [streamdown-angular](https://github.com/XurshidJurayev1/streamdown-angular) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-30 - Stream‑safe Markdown rendering for Angular, built for AI chat UIs. Angular port of [Vercel Streamdown](https://github.com/vercel/streamdown) ⭐ 5,780 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-21.
+* [streamdown-angular](https://github.com/XurshidJurayev1/streamdown-angular) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-30 - Stream‑safe Markdown rendering for Angular, built for AI chat UIs. Angular port of [Vercel Streamdown](https://github.com/vercel/streamdown) ⭐ 5,781 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-21.
 * [mark-down](https://github.com/mzebley/mark-down) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - A framework‑agnostic snippet engine with an Angular adapter that indexes Markdown at build time and renders HTML at runtime with optional sanitization.
 * [ngx-md-editable](https://codeberg.org/tomaszatoo/ngx-md-editable) - A lightweight Angular component that edits Markdown and renders expressive HTML content.
 
@@ -1880,15 +1883,15 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Mixed Utilities
 
-* [Official Angular Components repository](https://github.com/angular/components) ⭐ 25,049 | 🐛 1,419 | 🌐 TypeScript | 📅 2026-11-20 - Component infrastructure and Material Design components for Angular.
-* [spartan](https://github.com/spartan-ng/spartan) ⭐ 3,007 | 🐛 93 | 🌐 TypeScript | 📅 2026-11-20 - Cutting-edge tools powering Angular full-stack development.
+* [Official Angular Components repository](https://github.com/angular/components) ⭐ 25,049 | 🐛 1,420 | 🌐 TypeScript | 📅 2026-11-20 - Component infrastructure and Material Design components for Angular.
+* [spartan](https://github.com/spartan-ng/spartan) ⭐ 3,008 | 🐛 92 | 🌐 TypeScript | 📅 2026-11-20 - Cutting-edge tools powering Angular full-stack development.
 * [rx-angular](https://github.com/rx-angular/rx-angular) ⭐ 1,964 | 🐛 170 | 🌐 TypeScript | 📅 2026-11-09 - RxAngular toolkit for fully reactive apps focused on performance, template rendering, and developer experience.
 * [ng-web-apis](https://github.com/taiga-family/ng-web-apis) ⭐ 828 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-17 - A set of common utils for consuming Web APIs with Angular.
 * [ngxtension-platform](https://github.com/ngxtension/ngxtension-platform) ⭐ 810 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-19 - Utilities for Angular.
 * [ngx-device-detector](https://github.com/AhsanAyaz/ngx-device-detector) ⭐ 560 | 🐛 33 | 🌐 TypeScript | 📅 2026-06-08 - An Angular library to detect the device, OS, and browser details.
 * [daffodil](https://github.com/graycoreio/daffodil) ⭐ 465 | 🐛 216 | 🌐 TypeScript | 📅 2026-11-20 - Angular Ecommerce PWA Framework.
 * [ts-cacheable](https://github.com/angelnikolov/ts-cacheable) ⭐ 353 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-25 - A popular platform-agnostic caching library.
-* [jscutlery devkit](https://github.com/jscutlery/devkit) ⭐ 268 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-21 - Tools that make Angular developer's life easier.
+* [jscutlery devkit](https://github.com/jscutlery/devkit) ⭐ 268 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-22 - Tools that make Angular developer's life easier.
 * [signality](https://github.com/signalityjs/signality) ⭐ 215 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-10 - A collection of atomic utilities for building reactive compositions in Angular.
 * [ngx-oneforall](https://github.com/love1024/ngx-oneforall) ⭐ 189 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-05 - An Angular library with reusable pipes, directives, services, decorators, constants, enums, and more.
 * [ngify](https://github.com/ngify/ngify) ⭐ 141 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-21 - Use Angular features outside of Angular.
@@ -1903,17 +1906,17 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-signal-generators](https://github.com/DDtMM/angular-signal-generators) ⭐ 28 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-01 - Angular Signal Generators streamline development with signals and utilities for faster, cleaner code.
 * [nxt-components](https://github.com/Liquid-JS/nxt-components) ⭐ 26 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-18 - A collection of various Angular components.
 * [ngx-signal-operators](https://github.com/wassim-k/ngx-signal-operators) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-13 - Transform Angular signals with functional operators.
-* [grafloria](https://github.com/grafloria/grafloria) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 - An MIT diagram and dashboard engine for JavaScript: one headless core, native Angular, React and Vue bindings, one document format and one undo stack.
+* [grafloria](https://github.com/grafloria/grafloria) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 - An MIT diagram and dashboard engine for JavaScript: one headless core, native Angular, React and Vue bindings, one document format and one undo stack.
 * [lithium-angular](https://github.com/lVlyke/lithium-angular) ⭐ 13 | 🐛 6 | 🌐 TypeScript | 📅 2026-05-08 - Lithium simplifies Angular with utilities for seamless reactive state and event interactions.
 * [@studiohyperdrive/ngx-tools](https://github.com/studiohyperdrive/hyperdrive-opensource) ⭐ 12 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-17 - A mono-repo providing several of the Angular based packages created and maintained by the [Studio Hyperdrive](https://studiohyperdrive.be/) team.
 * [angular-cool](https://github.com/Hacklone/angular-cool) ⭐ 10 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-16 - A monorepo packed with developer‑friendly Angular utilities that supercharge apps with effortless UI, storage, networking, and performance features.
 * [ng-as](https://github.com/nigrosimone/ng-as) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-26 - Angular pipe and directive for type casting template variables.
-* [ngx-lift](https://github.com/wghglory/ngx-lift-workspace) ⭐ 7 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-21 - `clr-lift` and `ngx-lift` enhance Angular with utilities, operators, and components for simplified development.
+* [ngx-lift](https://github.com/wghglory/ngx-lift-workspace) ⭐ 7 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-22 - `clr-lift` and `ngx-lift` enhance Angular with utilities, operators, and components for simplified development.
 * [Indice.Angular](https://github.com/indice-co/Indice.Angular) ⭐ 7 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-09 - A collection of Angular libraries providing authentication, configuration, and reusable components for Angular v20+ applications.
 * [dfts-common](https://github.com/Dafnik/dfts-common) ⭐ 5 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-17 - Collection of TypeScript libraries (icons and other utilities).
 * [ng-kit](https://github.com/js-smart/ng-kit) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-29 - Reusable Angular components built with Angular Material and Bootstrap 5.x, Utility classes/functions for Date, Form and String operations.
 * [ngx-nuts-and-bolts](https://github.com/infinum/ngx-nuts-and-bolts) ⭐ 5 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-06 - A collection of commonly used pieces of Angular-related code that are used by [Infinum](https://infinum.com/).
-* [dasch-ng](https://github.com/DaSchTour/dasch-ng) ⭐ 5 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-21 - A collection of reusable Angular libraries and TypeScript utilities for modern web development.
+* [dasch-ng](https://github.com/DaSchTour/dasch-ng) ⭐ 5 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-22 - A collection of reusable Angular libraries and TypeScript utilities for modern web development.
 * [angular-3d](https://github.com/Hive-Academy/angular-3d) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-21 - Modern Angular libraries for building stunning 3D graphics and scroll animations.
 * [npm-ntk-cms-angular](https://github.com/akaravi/npm-ntk-cms-angular) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-17 - This monorepo contains a collection of 9 reusable Angular libraries designed for building modern CMS applications.
 * [ssv.ngx](https://github.com/sketch7/ssv.ngx) ⭐ 4 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-19 - Mono-repo of libraries from [sketch7](https://github.com/sketch7) including [ngx.command](https://github.com/sketch7/ssv.ngx/tree/master/libs/ngx.command#readme) ⭐ 4 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-19 and [ngx.ux](https://github.com/sketch7/ssv.ngx/blob/master/libs/ngx.ux/README.md) ⭐ 4 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-19.
@@ -1924,7 +1927,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@everllence/ngx-tools](https://github.com/everllence/ngx-tools) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-12 - A collection of libraries designed to elevate your Angular development experience.
 * [xprng](https://github.com/ziv/xprng) ⭐ 2 | 🐛 2 | 🌐 TypeScript | 📅 2025-12-24 - Micro packages of simple and smart components for Angular.
 * [@ibenvandeveire opensource](https://github.com/IbenTesara/opensource) ⭐ 2 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-21 - A monorepo hosting multiple packages—both Angular and non-Angular—developed and maintained by [Iben Van de Veire](https://github.com/IbenTesara).
-* [telperion](https://github.com/telperiontech/telperion) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21 - A collection of high-quality, framework-independent utilities and tools for modern web development, including [ng-pack](https://github.com/telperiontech/telperion/tree/main/libs/ng-pack) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21.
+* [telperion](https://github.com/telperiontech/telperion) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - A collection of high-quality, framework-independent utilities and tools for modern web development, including [ng-pack](https://github.com/telperiontech/telperion/tree/main/libs/ng-pack) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22.
 * [angular-helpers](https://github.com/Gaspar1992/angular-helpers) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-02 - A suite of Angular libraries that help you build secure, browser-integrated applications with a clean developer experience.
 * [dgkit](https://github.com/grynyk/dgkit) ⭐ 2 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-02 - A growing collection of open-source frontend agnostic and Angular libraries, developer tools, and frontend utilities.
 * [ngx-utility](https://github.com/OPI-PIB/ngx-utility) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-27 - Various helpers for forms, zones, DOM manipulation, HTTP requests, and more.
@@ -2000,9 +2003,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Onboarding and Product Tours
 
-* [angular-shepherd](https://github.com/shipshapecode/angular-shepherd) ⭐ 237 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-19 - An Angular wrapper for the site tour library [Shepherd](https://github.com/shipshapecode/shepherd) ⭐ 13,838 | 🐛 19 | 🌐 JavaScript | 📅 2026-11-20.
+* [angular-shepherd](https://github.com/shipshapecode/angular-shepherd) ⭐ 237 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-19 - An Angular wrapper for the site tour library [Shepherd](https://github.com/shipshapecode/shepherd) ⭐ 13,838 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-22.
 * [ngx-ui-tour](https://github.com/hakimio/ngx-ui-tour) ⭐ 226 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-15 - A UI tour library inspired by [angular-ui-tour](https://github.com/benmarch/angular-ui-tour) ⭐ 161 | 🐛 22 | 🌐 JavaScript | 📅 2019-03-14.
-* [skyux](https://github.com/blackbaud/skyux) ⭐ 56 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-21 - SKY UX components for Angular.
+* [skyux](https://github.com/blackbaud/skyux) ⭐ 56 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-22 - SKY UX components for Angular.
 * [ngx-onboarding](https://github.com/rosen-group/ngx-onboarding) ⭐ 52 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-22 - Onboarding library for seamless Angular tutorials, helping users quickly learn and navigate your app.
 * [ngx-custom-tour](https://github.com/miraxes/ngx-custom-tour) ⭐ 10 | 🐛 0 | 🌐 HTML | 📅 2026-03-07 - Easy to customize step-by-step tour / onboarding for Angular 15+.
 * [ngx-web-tour](https://github.com/abbas-mgz/ngx-web-tour) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-18 - A customizable product tour library for Angular applications that supports user onboarding with animations and professional UI.
@@ -2013,12 +2016,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### PDF
 
-* [embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) ⭐ 4,675 | 🐛 295 | 🌐 TypeScript | 📅 2026-11-19 - Embeddable PDF viewer for plain HTML, React, Vue, Svelte, and Angular.
-* [ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) ⭐ 582 | 🐛 2 | 🌐 Fluent | 📅 2026-11-20 - A full-blown PDF viewer for Angular 16+.
+* [embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) ⭐ 4,677 | 🐛 296 | 🌐 TypeScript | 📅 2026-11-22 - Embeddable PDF viewer for plain HTML, React, Vue, Svelte, and Angular.
+* [ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) ⭐ 582 | 🐛 0 | 🌐 Fluent | 📅 2026-11-22 - A full-blown PDF viewer for Angular 16+.
 * [ng2-pdfjs-viewer](https://github.com/intbot/ng2-pdfjs-viewer) ⭐ 253 | 🐛 40 | 🌐 JavaScript | 📅 2026-11-18 - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
 * [rm-ng-pdf-export](https://github.com/malikrajat/rm-ng-pdf-export) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-12 - Angular library for generating and exporting ultra-high-quality PDFs from HTML content with smart page breaking and crystal-clear rendering.
 * [pdf-viewer-kit](https://github.com/AmanKrr/pdf-viewer-kit) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-08 - A modern, high-performance, framework-agnostic, lightweight PDF viewer and annotation library built on top of `pdf.js`.
-* [Angular Image & PDF Viewer](https://github.com/NiranjanKushwaha/imgPdfViewer_library_Angular) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-13 - A customizable library for viewing PDFs and images using Mozilla’s [pdf.js](https://github.com/mozilla/pdf.js) ⭐ 54,169 | 🐛 463 | 🌐 JavaScript | 📅 2026-11-21 engine for smooth previews.
+* [Angular Image & PDF Viewer](https://github.com/NiranjanKushwaha/imgPdfViewer_library_Angular) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-13 - A customizable library for viewing PDFs and images using Mozilla’s [pdf.js](https://github.com/mozilla/pdf.js) ⭐ 54,174 | 🐛 458 | 🌐 JavaScript | 📅 2026-11-22 engine for smooth previews.
 * [ngpdf](https://github.com/ngpdf/ngpdf) ⭐ 4 | 🐛 101 | 🌐 TypeScript | 📅 2026-11-20 - Write PDFs as Angular components: pdf-\* elements laid out with flexbox, paginated tables with repeating headers, page numbers and selectable text, rendered in the browser.
 * [ngx-pdf-viewer](https://github.com/subedigaurav/ngx-pdf-viewer) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-05 - A lightweight PDF viewer library for Angular applications.
 * [ngx-document-signer](https://github.com/YaseenAlMufti/ngx-document-signer) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-15 - A reusable package that provides a PDF form creator and PDF signer.
@@ -2028,7 +2031,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-26 - Generic pipe for Angular application.
 * [ngx-transforms](https://github.com/mofirojean/ngx-transforms) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-20 - 90+ standalone, tree-shakable pipes for strings, numbers, dates, arrays, objects, and more.
-* [ng-dompurify](https://github.com/taiga-family/ng-dompurify) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-17 - Angular Sanitizer/Pipe using [DOMPurify](https://github.com/cure53/DOMPurify) ⭐ 17,540 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-21 with full configuration support.
+* [ng-dompurify](https://github.com/taiga-family/ng-dompurify) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-17 - Angular Sanitizer/Pipe using [DOMPurify](https://github.com/cure53/DOMPurify) ⭐ 17,540 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-22 with full configuration support.
 * [memoize-pipe](https://github.com/ngx-rock/memoize-pipe) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-02 - A universal pipe for memoizing computations in Angular templates.
 * [ngx-smart-pipes](https://github.com/Kavshree/-bjkavyashree-ngx-smart-pipes) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-07 - A lightweight, tree-shakeable collection of standalone Angular pipes designed for real-world use cases.
 * [ngx-dynamic-search](https://github.com/mustafaer/ngx-dynamic-search) ⭐ 1 | 🐛 13 | 🌐 TypeScript | 📅 2026-06-26 - Angular pipe designed for dynamic, deep search filtering across complex nested objects and arrays.
@@ -2058,11 +2061,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Router
 
 * [ssgoi](https://github.com/meursyphus/ssgoi) ⭐ 1,017 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-16 - Animates the change between routes without taking over navigation.
-* [ngx-quicklink](https://github.com/mgechev/ngx-quicklink) ⭐ 756 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-06 - Quicklink prefetching strategy for the Angular router.
+* [ngx-quicklink](https://github.com/mgechev/ngx-quicklink) ⭐ 755 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-06 - Quicklink prefetching strategy for the Angular router.
 * [ui-router](https://github.com/ui-router/angular) ⭐ 367 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-13 - State-based routing in Angular is enabled through [UI-Router for Angular](https://ui-router.github.io).
 * [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) ⭐ 246 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-09 - Zero‑config, lightweight, configurable, reactive breadcrumbs for Angular 6+.
 * [angular-typed-router](https://github.com/dominicbachmann/angular-typed-router) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-03 - Type‑safe Angular navigation from a single Routes array, yielding inferred path unions and typed navigate tuples with zero codegen or runtime cost.
-* [real-router](https://github.com/greydragon888/real-router) ⭐ 14 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-21 - Data-first router for JavaScript — the most declarative router for client applications.
+* [real-router](https://github.com/greydragon888/real-router) ⭐ 14 | 🐛 94 | 🌐 TypeScript | 📅 2026-11-22 - Data-first router for JavaScript — the most declarative router for client applications.
 * [ngx-back-button](https://github.com/rbalet/ngx-back-button) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 - A library for handling proper Angular back button capability.
 * [ngx-multi-level-push-menu](https://github.com/ramiz4/ngx-multi-level-push-menu) ⭐ 6 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-04 - A modern, accessible Angular component for responsive multi-level push menus with extensive customization options.
 * [ngx-href](https://github.com/rbalet/ngx-href) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-16 - A directive that allows href to understand Angular's router while retaining its default functionality.
@@ -2077,7 +2080,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Scroll
 
 * [simplebar](https://github.com/Grsmto/simplebar) ⭐ 6,410 | 🐛 112 | 🌐 TypeScript | 📅 2025-11-09 - Custom scrollbars vanilla JavaScript library with native scroll, done simple, lightweight, easy to use and cross-browser.
-* [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) ⭐ 5,245 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-17 - JavaScript plugin for custom styleable overlay scrollbars that hide natives while preserving functionality.
+* [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) ⭐ 5,245 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-17 - JavaScript plugin for custom styleable overlay scrollbars that hide natives while preserving functionality.
 * [ngx-scrollbar](https://github.com/MurhafSousli/ngx-scrollbar) ⭐ 653 | 🐛 7 | 🌐 TypeScript | 📅 2026-04-30 - Custom overlay-scrollbars with native scrolling mechanism.
 * [ngx-page-scroll](https://github.com/Nolanus/ngx-page-scroll) ⭐ 469 | 🐛 30 | 🌐 TypeScript | 📅 2026-07-16 - Animated scrolling functionality for Angular written in pure TypeScript.
 * [ngx-ui-scroll](https://github.com/dhilt/ngx-ui-scroll) ⭐ 231 | 🐛 9 | 🌐 TypeScript | 📅 2026-02-16 - Virtual/infinite scroll for Angular.
@@ -2104,15 +2107,15 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Storage
 
-* [dexie](https://github.com/dexie/Dexie.js) ⭐ 14,690 | 🐛 592 | 🌐 TypeScript | 📅 2026-11-16 - A Minimalistic Wrapper for IndexedDB.
-* [signaldb](https://github.com/maxnowack/signaldb) ⭐ 687 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-21 - Local JavaScript DB with MongoDB‑like interface, TypeScript, signal‑based reactivity, schema‑less design, and fast queries.
+* [dexie](https://github.com/dexie/Dexie.js) ⭐ 14,690 | 🐛 593 | 🌐 TypeScript | 📅 2026-11-16 - A Minimalistic Wrapper for IndexedDB.
+* [signaldb](https://github.com/maxnowack/signaldb) ⭐ 687 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-22 - Local JavaScript DB with MongoDB‑like interface, TypeScript, signal‑based reactivity, schema‑less design, and fast queries.
 * [angular-async-local-storage](https://github.com/cyrilletuzi/angular-async-local-storage) ⭐ 676 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-21 - Efficient client-side storage for Angular: simple API + performance + Observables + validation.
 * [ng2-webstorage](https://github.com/PillowPillow/ng2-webstorage) ⭐ 425 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-13 - LocalStorage and SessionStorage manager.
 * [ngx-indexed-db](https://github.com/assuncaocharles/ngx-indexed-db) ⭐ 189 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-11 - Wraps IndexedDB in an Angular service.
 * [ngx-reactive-storage](https://github.com/e-oz/ngx-reactive-storage) ⭐ 53 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-20 - Wrapper for IndexedDB/localStorage with promise‑based API, supporting Angular Signals and RxJS Observables.
 * [angular-web-storage](https://github.com/cipchk/angular-web-storage) ⭐ 37 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-15 - Angular decorator to save and restore of HTML5 Local & Session Storage.
 * [convex-angular](https://github.com/azhukaudev/convex-angular) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-17 - The Angular client for Convex.
-* [@moltendb-web/angular](https://github.com/maximilian27/moltendb-web) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19 - Rust/WebAssembly local‑first DB for Angular with Signals, OPFS, GraphQL‑style queries, and Web Workers.
+* [@moltendb-web/angular](https://github.com/maximilian27/moltendb-web) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19 - Rust/WebAssembly local‑first DB for Angular with Signals, OPFS, GraphQL‑style queries, and Web Workers.
 * [ngx-persist](https://github.com/khvedela/ngx-persist) ⭐ 3 | 🐛 11 | 🌐 TypeScript | 📅 2025-11-26 - A type‑safe, signal‑based persistent state utility for Angular, syncing with localStorage, sessionStorage, IndexedDB, or custom backends.
 * [ngx-secure-storage](https://github.com/MadeByRaymond/ngx-secure-storage) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - SSR-compatible Angular service to securely store, retrieve, and manage encrypted data in localStorage and sessionStorage using AES encryption.
 * [ng-storage](https://github.com/edisonaugusthy/ng-storage) ⭐ 1 | 🐛 6 | 🌐 TypeScript | 📅 2026-01-21 - A modern, reactive Angular service for browser storage management with AES-GCM encryption, TTL, change notifications, and Apollo-style providers.
@@ -2131,25 +2134,25 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### UI Libraries
 
-* [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,195 | 🐛 783 | 🌐 TypeScript | 📅 2026-11-20 - An enterprise-class UI components based on Ant Design and Angular.
+* [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,194 | 🐛 780 | 🌐 TypeScript | 📅 2026-11-22 - An enterprise-class UI components based on Ant Design and Angular.
 * [Nebular](https://github.com/akveo/nebular) ⭐ 8,122 | 🐛 940 | 🌐 TypeScript | 📅 2026-01-15 - Customizable Angular UI Library based on Eva Design System.
 * [NG-ALAIN](https://github.com/ng-alain/ng-alain/) ⭐ 4,531 | 🐛 37 | 🌐 TypeScript | 📅 2026-10-29 - NG-ZORRO admin panel front-end framework.
-* [zardui](https://github.com/zard-ui/zardui) ⭐ 1,212 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-20 - Collection of beautiful, accessible Angular components based on [shadcn-ui](https://github.com/shadcn-ui/ui) ⭐ 128,700 | 🐛 1,753 | 🌐 TypeScript | 📅 2026-11-21 and NG‑ZORRO, fully open source and free.
+* [zardui](https://github.com/zard-ui/zardui) ⭐ 1,212 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - Collection of beautiful, accessible Angular components based on [shadcn-ui](https://github.com/shadcn-ui/ui) ⭐ 128,765 | 🐛 1,761 | 🌐 TypeScript | 📅 2026-11-21 and NG‑ZORRO, fully open source and free.
 * [po-angular](https://github.com/po-ui/po-angular) ⭐ 1,017 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-20 - Component library based on Angular. Documentation in Portuguese.
-* [optimus-ui](https://github.com/openng-org/optimus-ui) ⭐ 817 | 🐛 1,097 | 🌐 TypeScript | 📅 2026-11-21 - A fork of [PrimeNG](https://github.com/primefaces/primeng) ⭐ 12,485 | 🐛 1,240 | 🌐 TypeScript | 📅 2026-09-24.
+* [optimus-ui](https://github.com/openng-org/optimus-ui) ⭐ 820 | 🐛 1,097 | 🌐 TypeScript | 📅 2026-11-21 - A fork of [PrimeNG](https://github.com/primefaces/primeng) ⭐ 12,485 | 🐛 1,240 | 🌐 TypeScript | 📅 2026-09-24.
 * [ngx-ui](https://github.com/swimlane/ngx-ui) ⭐ 735 | 🐛 64 | 🌐 TypeScript | 📅 2026-11-21 - Style and Component Library for Angular2 and beyond!
 * [carbon-components-angular](https://github.com/carbon-design-system/carbon-components-angular) ⭐ 572 | 🐛 207 | 🌐 TypeScript | 📅 2026-11-13 - An Angular implementation of the Carbon Design System for IBM.
 * [JSuites](https://github.com/jsuites/jsuites) ⭐ 513 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-21 - Collection of UI components and utilities (forms, modals, inputs) that can be integrated into Angular with custom wrappers or directives.
-* [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) ⭐ 485 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-21 - An open source library to build node-based UI with Angular.
+* [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) ⭐ 485 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-22 - An open source library to build node-based UI with Angular.
 * [ng-clarity](https://github.com/vmware-clarity/ng-clarity) ⭐ 435 | 🐛 118 | 🌐 TypeScript | 📅 2026-11-20 - A scalable, accessible, customizable, open-source design system built for Angular.
 * [fundamental-ngx](https://github.com/SAP/fundamental-ngx) ⭐ 297 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-21 - SAP design system Angular component library.
 * [ej2-angular-ui-components](https://github.com/syncfusion/ej2-angular-ui-components) ⭐ 294 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-19 - Syncfusion Angular UI library with 70+ lightweight, responsive, modular, touch‑friendly components.
 * [ng-aquila](https://github.com/allianz/ng-aquila) ⭐ 250 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-06 - Aquila, an open‑source Allianz GDF component library, offered here as a white‑label variant.
 * [sbb-angular](https://github.com/sbb-design-systems/sbb-angular) ⭐ 125 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-19 - Angular Library for SBB.
-* [Revo UI](https://github.com/revolist/revo-ui) ⭐ 117 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21 - MIT-licensed UI components for building reports and dashboards in Angular, including form controls, pickers, and dialogs. [Docs](https://ui.rv-grid.com/frameworks/angular/).
+* [Revo UI](https://github.com/revolist/revo-ui) ⭐ 123 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - MIT-licensed UI components for building reports and dashboards in Angular, including form controls, pickers, and dialogs. [Docs](https://ui.rv-grid.com/frameworks/angular/).
 * [ngx-tethys](https://github.com/atinc/ngx-tethys) ⭐ 111 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-20 - Fast and reliable Tethys Design components for Angular.
-* [gcds-components](https://github.com/cds-snc/gcds-components/tree/main/packages/angular) ⭐ 95 | 🐛 140 | 🌐 TypeScript | 📅 2026-11-21 - The `gcds-components-angular` package enables easy integration of [GC Design System](https://design-system.alpha.canada.ca/) web components into Angular.
-* [designsystem](https://github.com/kirbydesign/designsystem) ⭐ 92 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-20 - UX Component library implementing the Kirby Design Philosophy.
+* [gcds-components](https://github.com/cds-snc/gcds-components/tree/main/packages/angular) ⭐ 95 | 🐛 140 | 🌐 TypeScript | 📅 2026-11-22 - The `gcds-components-angular` package enables easy integration of [GC Design System](https://design-system.alpha.canada.ca/) web components into Angular.
+* [designsystem](https://github.com/kirbydesign/designsystem) ⭐ 92 | 🐛 83 | 🌐 TypeScript | 📅 2026-11-22 - UX Component library implementing the Kirby Design Philosophy.
 * [atomic-angular](https://github.com/coveo/ui-kit/tree/main/packages/atomic-angular) ⭐ 71 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-20 - A component library that wraps core [Atomic](https://docs.coveo.com/en/atomic/latest/) web components to build modern Angular UIs interfacing with the Coveo platform.
 * [flexi-ui](https://github.com/FlexiUI-labs/flexi-ui) ⭐ 49 | 🐛 2 | 🌐 JavaScript | 📅 2026-06-08 - A comprehensive and powerful UI library designed for Angular.
 * [ship-ui](https://github.com/shipuicom/core) ⭐ 48 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-09 - A modern, signal-based, zoneless-compatible UI library for Angular. Explore its features and documentation on their [official website](https://www.shipui.com).
@@ -2168,13 +2171,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [jig](https://github.com/awdlab/jig) ⭐ 12 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-08 - A signal-based component library for Angular 22+.
 * [ndop-ui](https://github.com/ndop-ui/ui) ⭐ 11 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-28 - An agent-native, signals-first Angular component ecosystem.
 * [ngx-semantic](https://github.com/ngx-semantic/ngx-semantic) ⭐ 7 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-13 - A modern Angular-native idiomatic port of Semantic UI for the Angular ecosystem.
-* [lyra-ui](https://github.com/aceshooting/lyra-ui) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21 - A free, MIT-licensed, framework-agnostic web component library for building accessible production interfaces and chat UIs.
+* [lyra-ui](https://github.com/aceshooting/lyra-ui) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - A free, MIT-licensed, framework-agnostic web component library for building accessible production interfaces and chat UIs.
 * [Blocks](https://github.com/filipmazev/Blocks) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - A modular Angular UI library for responsive, accessible applications.
 * [luma-ui](https://github.com/lumaui/luma-ui) ⭐ 6 | 🐛 6 | 🌐 JavaScript | 📅 2026-02-19 - Neo-Minimal design system for Angular applications.
 * [kage-ui](https://github.com/sanjib-kumar-mandal/kage-ui) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-05 - Lightweight, flexible Angular library with reusable components inspired by border‑first design systems for scalable, consistent UIs.
 * [kanso-protocol](https://github.com/GregNBlack/kanso-protocol) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - Open‑source, cross‑framework design system with W3C DTCG tokens, Web Components, and an AI‑ready MCP server — built around kanso (簡素), the discipline of removing the unnecessary.
 * [mk-kit](https://github.com/mk-kit/mk-kit) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-09 - MIT component library for admin panels: 180 signals-based, zoneless-ready components themed with CSS variables, WCAG 2.1 AA, with a PrimeNG migration schematic. [Documentation](https://mk-kit.dev), [npm](https://www.npmjs.com/package/@mk-kit/ui).
-* [angulux](https://github.com/anguless-com/angulux) ⭐ 4 | 🐛 56 | 🌐 TypeScript | 📅 2026-11-21 - Angular 22 UI component library — a curated community fork of the last MIT release of PrimeNG.
+* [angulux](https://github.com/anguless-com/angulux) ⭐ 4 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-22 - Angular 22 UI component library — a curated community fork of the last MIT release of PrimeNG.
 * [mantic-ui](https://github.com/KY-Programming/mantic-ui) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2026-11-21 - Angular components for [Semantic UI](https://semantic-ui.com/) and [Fomantic UI](https://fomantic-ui.com/).
 * [ngx-kit-ui](https://github.com/OpenKit-Labs/ngx-kit-ui) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-23 - Modern Angular UI library for mobile and web.
 * [mozek](https://github.com/thecodemeor/mozek-package) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-30 - A lightweight SCSS toolkit and UI library designed for clean, simple, non‑over‑engineered styling with consistent spacing, colors, and typography.
@@ -2184,24 +2187,24 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngwr](https://github.com/thekhegay/ngwr) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - Angular UI kit to make stylish Angular applications.
 * [quix-quang](https://github.com/quix-it/quix-quang) ⭐ 3 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-18 - Angular component and utility library developed by [Quix Srl](https://www.quixconsulting.com/).
 * [Gleks Web UI](https://github.com/GuildOfGleks/gleks_web_ui) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08 - Accessible, standalone Angular components using Signals, OnPush, and CSS variables, with zero Material or CDK dependencies.
-* [OGE UI](https://github.com/oge-ui/oge-ui) ⭐ 3 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-14 - Angular components (with a React version) for data-heavy apps: data grid, inputs and forms under MIT, plus paid pivot, charts, scheduler and Gantt. [Docs and demos](https://www.ogeui.com).
+* [OGE UI](https://github.com/oge-ui/oge-ui) ⭐ 3 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-22 - Angular components (with a React version) for data-heavy apps: data grid, inputs and forms under MIT, plus paid pivot, charts, scheduler and Gantt. [Docs and demos](https://www.ogeui.com).
 * [magary](https://github.com/JhoanGon/magary) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-20 - A modern, standalone-first Angular UI library monorepo.
 * [ngx-cupertino](https://github.com/gacc94/ngx-cupertino) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-18 - Angular components implementing Apple's iOS 26 / macOS Tahoe 26 design system.
 * [OpenMFP Web Components Library](https://github.com/openmfp/webcomponents) ⭐ 2 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-21 - A modern Angular 21 web components library featuring declarative UI components built with the latest signal-based APIs.
-* [@tooark/web-components](https://github.com/Tooark/web-components) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - A framework-agnostic component library built on native Web Components with first-class wrappers for React, Vue, and Angular.
+* [@tooark/web-components](https://github.com/Tooark/web-components) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - A framework-agnostic component library built on native Web Components with first-class wrappers for React, Vue, and Angular.
 * [kiln-ui](https://github.com/arafatomer66/kiln-ui) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-07 - An Angular component library inspired by Bangladeshi visual heritage.
-* [helix](https://github.com/GravionLabs/helix) ⭐ 2 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-21 - A signal-based, token-driven Angular UI ecosystem featuring plain CSS components, an application shell, Zod-powered dynamic forms, and AG Grid helpers.
-* [slotted](https://github.com/andrelopes-code/slotted) ⭐ 2 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-17 - A UI kit engineered for information-dense, product-focused web applications, offering native React and Angular integrations.
+* [helix](https://github.com/GravionLabs/helix) ⭐ 2 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-22 - A signal-based, token-driven Angular UI ecosystem featuring plain CSS components, an application shell, Zod-powered dynamic forms, and AG Grid helpers.
+* [slotted](https://github.com/andrelopes-code/slotted) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - A UI kit engineered for information-dense, product-focused web applications, offering native React and Angular integrations.
 * [tectra-ng](https://github.com/kulakovskyi/tectra-ng) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-19 - Open-source Angular UI kit for consoles and admin apps.
 * [@nexcraft/forge](https://github.com/dev-ignis/forge) ⭐ 1 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-27 - Framework-agnostic Web Components UI library. Works in Angular via custom elements.
 * [TecnualNG](https://github.com/tecnual/tecnualng) ⭐ 1 | 🐛 17 | 🌐 TypeScript | 📅 2026-01-04 - A modern Angular UI library offering reusable, customizable, and accessible components for building professional web applications.
 * [ngx-aespartal-ui](https://github.com/Aespartal/ngx-aespartal-ui) ⭐ 1 | 🐛 3 | 📅 2026-01-14 - A professional, lightweight, and customizable Angular component library built with Atomic Design principles.
 * [ngx-support-chat](https://github.com/avs2001/ngx-support-chat) ⭐ 1 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-29 - A pure presentational Angular component library for customer support chat interfaces.
-* [eagami](https://github.com/mwiraszka/eagami) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-21 - Lightweight, accessible Angular UI component library built on CSS custom properties.
+* [eagami](https://github.com/mwiraszka/eagami) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-22 - Lightweight, accessible Angular UI component library built on CSS custom properties.
 * [coss-ui-angular](https://github.com/lordsarcastic/coss-ui-angular) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-27 - Accessible Angular components inspired by the public [COSS UI catalogue](https://www.coss.com/ui/docs).
 * [fold-ng](https://github.com/hugoheynard/fold-ng) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21 - A dark-first, accessible Angular UI library and design system. Built with modern standards: signals-first, standalone, zoneless, and SSR-ready.
 * [xiri-ng](https://github.com/xiriframework/xiri-ng) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - A configuration-driven Angular component library where a [Go backend](https://github.com/xiriframework/xiri-go) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-10-28 controls the UI via JSON structures.
-* [sushi-angular](https://github.com/RAMEN-Suite/sushi-angular) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-21 - An open-source, accessible, and themeable Angular component library built on the CDK and native HTML semantics with typed signal APIs.
+* [sushi-angular](https://github.com/RAMEN-Suite/sushi-angular) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - An open-source, accessible, and themeable Angular component library built on the CDK and native HTML semantics with typed signal APIs.
 * [tableau-ui-angular](https://github.com/serionist/tableau-ui-angular) ⭐ 1 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-16 - Tableau-style components for Angular 22: form controls, selects, a virtual table with sorting and selection, dialogs and menus, signal-based and SSR-safe.
 * [LiberaUI](https://github.com/gioelevalori/liberaui) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-03 - Accessible, zoneless-ready Angular components with a live Theme Studio that exports theme CSS and Angular code. [Documentation](https://liberaui.js.org).
 * [Kometa UI](https://github.com/InomjonIsmaylov/kometa-ui-kit) ⭐ 1 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-21 - Angular 22 UI kit of standalone, OnPush, signal-input components themed by CSS custom properties, light and dark, with no third-party UI dependency.
@@ -2238,8 +2241,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Covalent](https://github.com/Teradata/covalent/) ⭐ 2,221 | 🐛 133 | 🌐 TypeScript | 📅 2026-10-02 - Teradata UI Platform built on Angular Material.
 * [MDBootstrap](https://github.com/mdbootstrap/mdb-angular-ui-kit) ⭐ 1,145 | 🐛 0 | 🌐 SCSS | 📅 2026-08-31 - Bootstrap 5 & Angular 17 UI KIT - 700+ components, MIT license, simple installation.
-* [IgniteUI Angular](https://github.com/IgniteUI/igniteui-angular) ⭐ 599 | 🐛 150 | 🌐 TypeScript | 📅 2026-11-21 - A complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
-* [@ng-matero/extensions](https://github.com/ng-matero/extensions) ⭐ 501 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-21 - Angular Material Extensions Library.
+* [IgniteUI Angular](https://github.com/IgniteUI/igniteui-angular) ⭐ 599 | 🐛 151 | 🌐 TypeScript | 📅 2026-11-22 - A complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
+* [@ng-matero/extensions](https://github.com/ng-matero/extensions) ⭐ 501 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-22 - Angular Material Extensions Library.
 * [angular-material-css-vars](https://github.com/johannesjo/angular-material-css-vars) ⭐ 200 | 🐛 6 | 🌐 SCSS | 📅 2026-07-14 - Little library to use CSS variables with Angular Material.
 * [angular-ui-plusify](https://github.com/RockyCott/angular-ui-plusify) ⭐ 10 | 🐛 5 | 🌐 TypeScript | 📅 2025-11-11 - Includes Datetime Picker and Markdown Editor, with plans to expand into a full Angular UI toolkit.
 * [simplematcomponents](https://github.com/wobkenh/simplematcomponents) ⭐ 8 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-10 - Set of Angular components that fit into or use Angular Material Design.
@@ -2248,7 +2251,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-material-auth](https://github.com/Service-Soft/ngx-material-auth) ⭐ 3 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-06 - A library for Angular which provides functionality around the frontend part of authentication and authorization.
 * [ngx-material-navigation](https://github.com/Service-Soft/ngx-material-navigation) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-06 - Creates material navigation elements like combined navbar and sidenav or footers, automatically shifting items based on breakpoints.
 * [ngx-material-entity](https://github.com/Service-Soft/ngx-material-entity) ⭐ 3 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-06 - With `NgxMaterialEntity` you can create entities and define how to display them directly on their properties. It can even generate complete and highly customizable CRUD-Tables.
-* [sdcorejs-angular](https://github.com/sdcorejs/sdcorejs-angular) ⭐ 3 | 🐛 1 | 🌐 HTML | 📅 2026-11-20 - Reusable Angular UI for data-heavy business applications.
+* [sdcorejs-angular](https://github.com/sdcorejs/sdcorejs-angular) ⭐ 3 | 🐛 0 | 🌐 HTML | 📅 2026-11-22 - Reusable Angular UI for data-heavy business applications.
 * [nmce](https://github.com/zijianhuang/nmce) ⭐ 2 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 - Suite of Angular Material extensions with reusable code and UI enhancements for complex, data‑rich business apps.
 * [ngx-dynamic-stepper](https://github.com/yingyu-projects/ngx-dynamic-stepper) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-06 - A powerful, flexible Angular library for creating dynamic wizard-style steppers built on top of Angular Material Stepper.
 * [angular-material-components](https://github.com/fbf-prog64/angular-material-components) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-17 - Provides extra components for Angular Material projects: Datetime picker, Time picker, Color picker, etc.
@@ -2263,25 +2266,25 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### UI Libraries built on Tailwind CSS
 
-* [Preline UI](https://github.com/htmlstreamofficial/preline) ⭐ 6,532 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-11 - An open-source set of prebuilt UI components based on the Tailwind CSS framework.
+* [Preline UI](https://github.com/htmlstreamofficial/preline) ⭐ 6,533 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-11 - An open-source set of prebuilt UI components based on the Tailwind CSS framework.
 * [FlyonUI](https://github.com/themeselection/flyonui) ⭐ 2,543 | 🐛 17 | 🌐 TypeScript | 📅 2026-03-20 - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
 * [ng-brutalism](https://github.com/khangtrannn/ng-brutalism) ⭐ 115 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-26 - Neo-brutalist Angular UI library with signals, zoneless, and Tailwind CSS v4. Bold borders, offset shadows, opinionated aesthetic end-to-end.
-* [starting-point-ui](https://github.com/gufodotdev/starting-point-ui) ⭐ 101 | 🐛 0 | 🌐 MDX | 📅 2026-11-21 - Framework‑agnostic Tailwind CSS components inspired by shadcn/ui, fully compatible with Angular.
+* [starting-point-ui](https://github.com/gufodotdev/starting-point-ui) ⭐ 102 | 🐛 0 | 🌐 MDX | 📅 2026-11-22 - Framework‑agnostic Tailwind CSS components inspired by shadcn/ui, fully compatible with Angular.
 * [simui](https://github.com/dofu-lab/simui) ⭐ 71 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-01 - Beautiful Angular UI components built with Tailwind CSS and Spartan.
-* [semantic-components](https://github.com/gridatek/semantic-components) ⭐ 23 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-21 - Modular Angular CDK + Tailwind UI elements with semantic HTML, full accessibility, and lightweight flexibility.
+* [semantic-components](https://github.com/gridatek/semantic-components) ⭐ 23 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-22 - Modular Angular CDK + Tailwind UI elements with semantic HTML, full accessibility, and lightweight flexibility.
 * [zapui](https://github.com/zapuilib/zapui) ⭐ 18 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-28 - Build scalable Angular apps with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
 * [TailNG](https://github.com/tailng/tailng-ui) ⭐ 15 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-17 - Angular components styled with Tailwind to achieve a Material‑like look.
 * [elbe-ui](https://github.com/marcjulian/elbe-ui) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-02 - Angular UI components built with Tailwind CSS and Spartan UI.
-* [Ply](https://github.com/ply-ui-ng/ply) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-18 - CLI-first Angular + Tailwind copy-in component library (formerly Base UI (Angular)): `npx ply-ui-cli add` copies source into your repo. 127 free MIT components; Pro stays paid. Docs at [ply-ui.com](https://ply-ui.com). Not MUI Base UI (React).
+* [Ply](https://github.com/ply-ui-ng/ply) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - CLI-first Angular + Tailwind copy-in component library (formerly Base UI (Angular)): `npx ply-ui-cli add` copies source into your repo. 127 free MIT components; Pro stays paid. Docs at [ply-ui.com](https://ply-ui.com). Not MUI Base UI (React).
 * [ngx-tailwind-ui](https://github.com/quedicesebas/ngx-tailwind-ui) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-29 - A collection of easy-to-use Angular components, directives, and services built with Angular and Tailwind CSS.
 * [bpdm/ng](https://github.com/bpdm-hq/bpdm-ui) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-19 - Accessible, themeable Angular component library on the Angular CDK and Tailwind CSS, driven by a shared design-token set with a native React version.
 * [koala-ui](https://github.com/igordrangel/koala-ui) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-26 - A modern and accessible component library designed to speed up interface development.
 * [ngx-tailwindcss](https://github.com/quinnjr/ngx-tailwindcss) ⭐ 3 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-18 - A customizable Angular UI library for Tailwind CSS 4+, offering accessible, beautifully designed components with full styling control.
 * [Arena by Dravensoft](https://github.com/dravensoft-dev/arena) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-20 - Token-driven Angular and React components sharing a Tailwind layer, governed by strict API and accessibility contract files, with no built-in palette or fonts.
 * [seacotools](https://github.com/Seacotec/seacotools) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-25 - A library designed for modern Angular applications, offering a suite of reusable UI components and services compatible with Tailwind CSS.
-* [shadcn-angular](https://github.com/gilav21/shadcn-angular) ⭐ 2 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-21 - Beautifully designed components built with Angular and Tailwind CSS.
+* [shadcn-angular](https://github.com/gilav21/shadcn-angular) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - Beautifully designed components built with Angular and Tailwind CSS.
 * [volt-ui](https://github.com/Andersseen/volt-ui) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-18 - Fully accessible, themeable Angular components built with signals, Tailwind CSS v4, CVA, and `ng-primitives`.
-* [ngnova-ui](https://github.com/chiragpatel273/ngnova-ui) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-17 - Angular 22 component library built with standalone components, focused package entry points, accessible interaction contracts, and Tailwind CSS theming.
+* [ngnova-ui](https://github.com/chiragpatel273/ngnova-ui) ⭐ 2 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-22 - Angular 22 component library built with standalone components, focused package entry points, accessible interaction contracts, and Tailwind CSS theming.
 * [ivorie](https://github.com/Inlaylab/ivorie) ⭐ 2 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-17 - Angular UI components with the `shadcn/ui` look and behavior.
 * [Galaxy UI](https://github.com/galaxy-nebula/galaxy-design) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 - Beautiful, accessible components for Vue 3, React 18, Angular 20+, React Native, and Flutter — built on Radix primitives with Tailwind CSS v3/v4 support, from web to mobile.
 * [ngx-lite-suite](https://github.com/michaelsch72/ngx-lite-suite) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-01 - Angular UI library with a "Lite Suite" design system of glassmorphism, gradients, and fluid animations.
@@ -2294,12 +2297,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### UI Primitives
 
-* [ng-primitives](https://github.com/ng-primitives/ng-primitives) ⭐ 616 | 🐛 63 | 🌐 TypeScript | 📅 2026-11-19 - A low-level UI component library with a focus on accessibility, customization, and developer experience.
-* [primitives](https://github.com/radix-ng/primitives) ⭐ 278 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-20 - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+* [ng-primitives](https://github.com/ng-primitives/ng-primitives) ⭐ 617 | 🐛 63 | 🌐 TypeScript | 📅 2026-11-19 - A low-level UI component library with a focus on accessibility, customization, and developer experience.
+* [primitives](https://github.com/radix-ng/primitives) ⭐ 278 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-22 - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 * [NeuralTech](https://github.com/hasanaydin7/NeuralTech) ⭐ 11 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-01 - AI-first, headless and Signal-native Angular UI components with machine-readable contracts.
 * [Clean Architecture Frontend](https://github.com/ialiaslani/caf) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-25 - Domain-agnostic primitives for building frontend applications with Clean Architecture. Works with React, Vue, Angular, or any future framework.
 * [Bloc UI](https://github.com/debasish1996/BLOC-UI) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-17 - Lightweight, accessible Angular components with zero design opinions. Use your own styles or the optional theme package.
-* [lily-design-system](https://github.com/LilyDesignSystem/lily-design-system) ⭐ 4 | 🐛 10 | 🌐 CSS | 📅 2026-11-21 - A free, headless design system with hundreds of accessible components across seven frameworks, complete with themes and example apps.
+* [lily-design-system](https://github.com/LilyDesignSystem/lily-design-system) ⭐ 4 | 🐛 10 | 🌐 CSS | 📅 2026-11-22 - A free, headless design system with hundreds of accessible components across seven frameworks, complete with themes and example apps.
 * [@luminacn/ui](https://github.com/luminacn/ui) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-16 - Signal-first, headless UI primitives for Angular.
 * [aria-ng-ui](https://github.com/phalla-doll/aria-ng-ui) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-29 - A modern, accessible Angular component library inspired by `shadcn/ui` — built with Angular-native patterns, Tailwind CSS, and accessibility-first primitives.
 * [Kirana UI](https://github.com/kirana-style/primitives) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - Framework-agnostic headless components with an idiomatic Angular adapter, backed by a single core that also targets React, Vue, Svelte, Solid, and Custom Elements.
@@ -2307,7 +2310,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Viewers
 
-* [ooxml](https://github.com/ChristopherVR/ooxml) ⭐ 42 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21 - A client-side TypeScript library and Angular editors to open, edit, validate, and save Office and limited Visio documents entirely in the browser.
+* [ooxml](https://github.com/ChristopherVR/ooxml) ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - A client-side TypeScript library and Angular editors to open, edit, validate, and save Office and limited Visio documents entirely in the browser.
 * [ngx-diff](https://github.com/rars/ngx-diff) ⭐ 39 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-31 - Angular component library for displaying diffs of text.
 * [ngx-json-treeview](https://github.com/MichaelDoyle/ngx-json-treeview) ⭐ 10 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-20 - A collapsible JSON tree view for Angular.
 * [ngx-omniview](https://github.com/binapani-edu/ngx-omniview) ⭐ 10 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-17 - An all-in-one content viewer for Angular that seamlessly displays raw string inputs as Plain Text, HTML, Markdown, LaTeX, MathJax, JSON, and more—using just a single component.
@@ -2349,35 +2352,35 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [learn-rxjs](https://github.com/btroncone/learn-rxjs) ⭐ 3,663 | 🐛 21 | 🌐 TypeScript | 📅 2025-10-17 - Clear examples, explanations, and resources for RxJS.
 * [rxjs-challenge](https://github.com/AngularWave/rxjs-challenge) ⭐ 631 | 🐛 0 | 📅 2021-10-19 - A set of little RxJS puzzles to practice your Observable skills.
 * [rxjs-course](https://github.com/angular-university/rxjs-course) ⭐ 389 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-30 - RxJS course from Angular University.
-* [operators](https://github.com/jscutlery/devkit/tree/main/packages/operators) ⭐ 268 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-21 - This package regroups a couple of RxJS operators meant to simplify some common patterns.
-* [rx-computed](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) ⭐ 268 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-21 - The async RxJS-based version of signals' `computed()`.
+* [operators](https://github.com/jscutlery/devkit/tree/main/packages/operators) ⭐ 268 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-22 - This package regroups a couple of RxJS operators meant to simplify some common patterns.
+* [rx-computed](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) ⭐ 268 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-22 - The async RxJS-based version of signals' `computed()`.
 * [ngx-operators](https://github.com/nilsmehlhorn/ngx-operators) ⭐ 139 | 🐛 6 | 🌐 TypeScript | 📅 2025-04-20 - RxJS operators for Angular.
 * [ng-event-bus](https://github.com/cristiammercado/ng-event-bus) ⭐ 54 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-26 - RxJS-based message bus service for Angular.
 * [subscribable-things](https://github.com/chrisguttandin/subscribable-things) ⭐ 48 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-01 - A collection of reactive wrappers for various browser APIs.
 * [eslint-plugin-rxjs-x](https://github.com/JasonWeinzierl/eslint-plugin-rxjs-x) ⭐ 41 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-19 - Fork of [eslint-plugin-rxjs](https://github.com/cartant/eslint-plugin-rxjs) ⭐ 315 | 🐛 38 | 🌐 TypeScript | 📅 2024-08-20 adding ESLint flat config support with breaking changes and improvements.
 * [rxjs-common](https://github.com/paddls/rxjs-common) ⭐ 31 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-21 - A collection of useful RxJS operators.
 * [rxjs-broker](https://github.com/chrisguttandin/rxjs-broker) ⭐ 28 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-01 - An RxJS message broker for WebRTC DataChannels and WebSockets.
-* [reactive-event-source](https://github.com/andreasnicolaou/reactive-event-source) ⭐ 3 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-19 - Lightweight RxJS-based EventSource wrapper with auto-reconnect, leak prevention, and reactive state management.
+* [reactive-event-source](https://github.com/andreasnicolaou/reactive-event-source) ⭐ 3 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-22 - Lightweight RxJS-based EventSource wrapper with auto-reconnect, leak prevention, and reactive state management.
 * [web-serial-rxjs](https://github.com/gurezo/web-serial-rxjs) ⭐ 2 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-06 - A TypeScript library that provides a reactive RxJS-based wrapper for the Web Serial API, enabling easy serial port communication in web applications.
 * [Official website](https://rxjs.dev/) - Reactive Extensions Library for JavaScript.
 
 ### TypeScript
 
-* [Official GitHub repository](https://github.com/Microsoft/TypeScript) ⭐ 111,869 | 🐛 5,275 | 🌐 Go | 📅 2026-11-21
-* [DefinitelyTyped GitHub repository](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,483 | 🐛 899 | 🌐 TypeScript | 📅 2026-11-20 - The repository for high quality TypeScript type definitions.
+* [Official GitHub repository](https://github.com/Microsoft/TypeScript) ⭐ 111,874 | 🐛 5,280 | 🌐 Go | 📅 2026-11-22
+* [DefinitelyTyped GitHub repository](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,484 | 🐛 900 | 🌐 TypeScript | 📅 2026-11-22 - The repository for high quality TypeScript type definitions.
 * [type-challenges](https://github.com/type-challenges/type-challenges) ⭐ 48,573 | 🐛 33,350 | 🌐 TypeScript | 📅 2026-10-26 - Collection of TypeScript type challenges with online judge.
-* [zod](https://github.com/colinhacks/zod) ⭐ 44,377 | 🐛 128 | 🌐 TypeScript | 📅 2026-11-20 - TypeScript-first schema validation with static type inference.
-* [trpc](https://github.com/trpc/trpc) ⭐ 40,844 | 🐛 115 | 🌐 TypeScript | 📅 2026-11-21 - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+* [zod](https://github.com/colinhacks/zod) ⭐ 44,389 | 🐛 125 | 🌐 TypeScript | 📅 2026-11-22 - TypeScript-first schema validation with static type inference.
+* [trpc](https://github.com/trpc/trpc) ⭐ 40,851 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-21 - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 * [type-fest](https://github.com/sindresorhus/type-fest) ⭐ 17,551 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-19 - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
-* [ts-pattern](https://github.com/gvergnaud/ts-pattern) ⭐ 15,224 | 🐛 86 | 🌐 TypeScript | 📅 2026-11-20 - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
+* [ts-pattern](https://github.com/gvergnaud/ts-pattern) ⭐ 15,223 | 🐛 87 | 🌐 TypeScript | 📅 2026-11-20 - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 * [quicktype](https://github.com/glideapps/quicktype) ⭐ 13,917 | 🐛 249 | 🌐 TypeScript | 📅 2026-10-30 - Generate types and converters from JSON, Schema, and GraphQL.
 * [typescript-book](https://github.com/gibbok/typescript-book) ⭐ 10,370 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-18 - A concise guide to effective development in TypeScript.
-* [valibot](https://github.com/open-circle/valibot) ⭐ 9,084 | 🐛 241 | 🌐 TypeScript | 📅 2026-11-21 - The modular and type safe schema library for validating structural data.
+* [valibot](https://github.com/open-circle/valibot) ⭐ 9,092 | 🐛 242 | 🌐 TypeScript | 📅 2026-11-21 - The modular and type safe schema library for validating structural data.
 * [typebox](https://github.com/sinclairzx81/typebox) ⭐ 7,039 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-16 - JSON Schema Type Builder with Static Type Resolution for TypeScript.
-* [typehero](https://github.com/typehero/typehero) ⭐ 6,646 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-21 - Connect, collaborate, and grow with a community of TypeScript developers.
+* [typehero](https://github.com/typehero/typehero) ⭐ 6,645 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-21 - Connect, collaborate, and grow with a community of TypeScript developers.
 * [ts-essentials](https://github.com/ts-essentials/ts-essentials) ⭐ 4,078 | 🐛 18 | 🌐 TypeScript | 📅 2026-06-03 - All essential TypeScript types in one place.
 * [Total TypeScript Book](https://github.com/total-typescript/total-typescript-book) ⭐ 1,802 | 🐛 19 | 🌐 TypeScript | 📅 2026-06-24 - The companion repository for the upcoming Total TypeScript book.
-* [Sheriff](https://github.com/sheriff-arch/sheriff) ⭐ 329 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-21 - Lightweight Modularity for TypeScript Projects.
+* [Sheriff](https://github.com/sheriff-arch/sheriff) ⭐ 330 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-22 - Lightweight Modularity for TypeScript Projects.
 * [mutates](https://github.com/IKatsuba/mutates) ⭐ 18 | 🐛 13 | 🌐 TypeScript | 📅 2026-05-27 - Powerful TypeScript AST mutation toolset, forked from `ng-morph`, enabling extensive project-wide transformations beyond Angular.
 * [guardz](https://github.com/thiennp/guardz) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-24 - Lightweight, zero-dependency TypeScript type guards for runtime validation with structured error handling.
 * [Official website](https://www.typescriptlang.org/)
@@ -2411,7 +2414,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [AngularDart](https://github.com/flutterdocteur/angulardart) ⭐ 7 | 🐛 3 | 🌐 Dart | 📅 2026-08-18 - A web framework that separates cleanly into a template language and a component model, making it easy to build complex, maintainable web applications.
 * [ngx-notion-cms](https://github.com/borjamrd/ngx-notion-cms) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-10 - Render your Notion content through your Angular application as a CMS.
 * [foblex2D](https://github.com/siarheihuzarevich/foblex2D) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2025-12-06 - Angular library for 2D geometry with utilities for points, lines, vectors, shapes, and transformations, used in `Foblex Flow`.
-* [LogBrew](https://github.com/LogBrewCo/sdk/tree/main/js/logbrew-angular) ⭐ 5 | 🐛 29 | 🌐 JavaScript | 📅 2026-11-21 - Angular providers and optional ErrorHandler capture that send errors, logs, and traces to LogBrew, which has a free plan.
+* [LogBrew](https://github.com/LogBrewCo/sdk/tree/main/js/logbrew-angular) ⭐ 5 | 🐛 30 | 🌐 JavaScript | 📅 2026-11-22 - Angular providers and optional ErrorHandler capture that send errors, logs, and traces to LogBrew, which has a free plan.
 * [fusio-sdk-javascript-angular](https://github.com/apioo/fusio-sdk-javascript-angular) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-31 - This SDK enables Angular apps to integrate with [Fusio](https://www.fusio-project.org/), used by projects like the [backend](https://github.com/apioo/fusio-apps-backend) ⭐ 11 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-18 and [developer](https://github.com/apioo/fusio-apps-developer) ⭐ 5 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-04.
 * [23blocks SDK](https://github.com/23blocks-OS/frontend-sdk) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-06 - Build full-stack apps 10x faster with modular backend blocks.
 * [angular-twitter-timeline](https://github.com/mustafaer/angular-twitter-timeline) ⭐ 3 | 🐛 10 | 🌐 TypeScript | 📅 2026-06-26 - Angular Public Twitter Timeline Widget.
@@ -2434,36 +2437,36 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Wrappers
 
-* [angular-three](https://github.com/angular-threejs/angular-three) ⭐ 303 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-27 - Angular Renderer for [THREE.js](https://github.com/mrdoob/three.js) ⭐ 119,090 | 🐛 408 | 🌐 JavaScript | 📅 2026-11-21.
+* [angular-three](https://github.com/angular-threejs/angular-three) ⭐ 303 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-27 - Angular Renderer for [THREE.js](https://github.com/mrdoob/three.js) ⭐ 119,163 | 🐛 412 | 🌐 JavaScript | 📅 2026-11-22.
 * [ngx-socket-io](https://github.com/rodgc/ngx-socket-io) ⭐ 273 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-29 - [Socket.IO](https://socket.io/) module for Angular.
 * [angular-email-editor](https://github.com/unlayer/angular-email-editor) ⭐ 230 | 🐛 92 | 🌐 TypeScript | 📅 2026-03-27 - Drag-n-drop email editor by [Unlayer](https://unlayer.com/embed) as an Angular wrapper component.
 * [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) ⭐ 215 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-19 - An official CKEditor 5 rich text editor component for Angular 2+.
 * [ngx-three](https://github.com/demike/ngx-three) ⭐ 83 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-09 - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
 * [ngx-vis](https://github.com/visjs/ngx-vis) ⭐ 72 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-20 - Angular wrapper for [vis.js](https://visjs.org/).
 * [gojs-angular](https://github.com/NorthwoodsSoftware/gojs-angular) ⭐ 68 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-02 - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
-* [ngx-xyflow](https://github.com/knackstedt/ngx-xyflow) ⭐ 61 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-01 - Angular wrapper of [xyflow](https://github.com/xyflow/xyflow) ⭐ 39,109 | 🐛 141 | 🌐 TypeScript | 📅 2026-11-19.
+* [ngx-xyflow](https://github.com/knackstedt/ngx-xyflow) ⭐ 61 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-01 - Angular wrapper of [xyflow](https://github.com/xyflow/xyflow) ⭐ 39,114 | 🐛 141 | 🌐 TypeScript | 📅 2026-11-19.
 * [ngx-barcode6](https://github.com/efgiese/ngx-barcode6) ⭐ 35 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-20 - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode](https://github.com/lindell/JsBarcode) ⭐ 5,903 | 🐛 135 | 🌐 JavaScript | 📅 2026-06-23.
 * [ngx-filesize](https://github.com/amitdahan/ngx-filesize) ⭐ 34 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-21 - Angular wrapper for [filesize.js](https://filesizejs.com/).
 * [chat-widget-adapters](https://github.com/livechat/chat-widget-adapters) ⭐ 32 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-22 - Angular wrapper for the [LiveChat](https://developers.livechat.com/) Chat Widget (JavaScript API).
 * [ngx-highlight-js](https://github.com/cipchk/ngx-highlight-js) ⭐ 28 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-15 - Angular wrapper around [highlight.js](https://highlightjs.org/) for syntax highlighting.
 * [ngx-fabric-wrapper](https://github.com/zefoy/ngx-fabric-wrapper) ⭐ 27 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-20 - Angular wrapper library for [Fabric](http://fabricjs.com/).
-* [ngx-tagify](https://github.com/Brakebein/ngx-tagify) ⭐ 26 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-13 - Angular library that wraps [Tagify](https://github.com/yaireo/tagify/) ⭐ 3,890 | 🐛 76 | 🌐 HTML | 📅 2026-10-19.
+* [ngx-tagify](https://github.com/Brakebein/ngx-tagify) ⭐ 26 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-13 - Angular library that wraps [Tagify](https://github.com/yaireo/tagify/) ⭐ 3,890 | 🐛 77 | 🌐 HTML | 📅 2026-10-19.
 * [ngx-grapesjs](https://github.com/Developer-Plexscape/ngx-grapesjs) ⭐ 25 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-15 - Angular wrapper library for [GrapesJS](https://grapesjs.com).
 * [cytoscape-angular](https://github.com/michaelbushe/cytoscape-angular) ⭐ 18 | 🐛 4 | 🌐 TypeScript | 📅 2025-10-05 - A production-ready Angular library providing sophisticated graph visualization capabilities using [Cytoscape.js](https://js.cytoscape.org/).
 * [ngx-pendo](https://github.com/yociduo/ngx-pendo) ⭐ 15 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-16 - A simple wrapper to load Pendo in Angular.
-* [ngx-chessground](https://github.com/topce/ngx-chessground) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - Angular wrapper for [Chessground](https://github.com/lichess-org/chessground) ⭐ 1,393 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-20.
-* [ng-number-flow](https://github.com/phalla-doll/ng-number-flow) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-16 - Angular wrapper around [number-flow](https://github.com/barvian/number-flow) ⭐ 7,829 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-20 — an accessible, animated number component.
+* [ngx-chessground](https://github.com/topce/ngx-chessground) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - Angular wrapper for [Chessground](https://github.com/lichess-org/chessground) ⭐ 1,393 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-20.
+* [ng-number-flow](https://github.com/phalla-doll/ng-number-flow) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-16 - Angular wrapper around [number-flow](https://github.com/barvian/number-flow) ⭐ 7,830 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-20 — an accessible, animated number component.
 * [seatsio-angular](https://github.com/seatsio/seatsio-angular) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-18 - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
 * [rive-angular](https://github.com/Grandgular/rive) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-27 - Modern Angular wrapper for [Rive](https://rive.app/) animations with reactive state management, built with Angular signals and zoneless architecture.
-* [lyne-angular](https://github.com/sbb-design-systems/lyne-angular) ⭐ 7 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-21 - Angular wrapper for the [Lyne Web Components](https://github.com/sbb-design-systems/lyne-components) ⭐ 69 | 🐛 65 | 🌐 TypeScript | 📅 2026-11-21.
+* [lyne-angular](https://github.com/sbb-design-systems/lyne-angular) ⭐ 7 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-22 - Angular wrapper for the [Lyne Web Components](https://github.com/sbb-design-systems/lyne-components) ⭐ 69 | 🐛 65 | 🌐 TypeScript | 📅 2026-11-22.
 * [ngfire](https://github.com/qarapace/ngfire) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-06 - A minimal Angular wrapper around the Firebase JS SDK.
 * [ngx-open-web-ui-chat](https://github.com/micode-ai/ngx-open-web-ui-chat) ⭐ 7 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-17 - Angular component library for embedding [Open WebUI](https://openwebui.com/) chat with Socket.IO streaming, conversation history and markdown support.
 * [ng-elementum](https://github.com/MillerSvt/ng-elementum) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-24 - A modern fork of `@angular/elements` that enhances the integration of Angular components with the Web Components standard.
 * [simplyfire](https://github.com/coturiv/simplyfire) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-26 - A lightweight Firestore API for Firebase cloud functions & Angular.
-* [zag-angular](https://github.com/makuko/zag-angular) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-26 - Angular wrapper for [zag](https://github.com/chakra-ui/zag) ⭐ 5,291 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-21.
-* [d3-cloud-angular](https://github.com/maitrungduc1410/d3-cloud-angular) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-10 - D3 Cloud component for Angular built upon [d3-cloud](https://github.com/jasondavies/d3-cloud) ⭐ 3,949 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30.
+* [zag-angular](https://github.com/makuko/zag-angular) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-26 - Angular wrapper for [zag](https://github.com/chakra-ui/zag) ⭐ 5,290 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-22.
+* [d3-cloud-angular](https://github.com/maitrungduc1410/d3-cloud-angular) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-10 - D3 Cloud component for Angular built upon [d3-cloud](https://github.com/jasondavies/d3-cloud) ⭐ 3,948 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30.
 * [@foisit/angular-wrapper](https://github.com/boluwatifee4/foisit/tree/main/libs/angular-wrapper) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-12 - The AI-Powered Conversational Assistant for Angular Applications.
-* [ngx-sentry](https://github.com/DSI-HUG/ngx-sentry) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24 - Angular wrapper for [Sentry JavaScript SDK](https://github.com/getsentry/sentry-javascript) ⭐ 8,781 | 🐛 410 | 🌐 TypeScript | 📅 2026-11-21.
+* [ngx-sentry](https://github.com/DSI-HUG/ngx-sentry) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24 - Angular wrapper for [Sentry JavaScript SDK](https://github.com/getsentry/sentry-javascript) ⭐ 8,781 | 🐛 422 | 🌐 TypeScript | 📅 2026-11-22.
 * [ngx-webdatarocks](https://github.com/WebDataRocks/ngx-webdatarocks) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-13 - Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/). Follow this [example](https://github.com/WebDataRocks/pivot-angular) ⭐ 33 | 🐛 2 | 🌐 CSS | 📅 2025-09-12 to integrate the WebDataRocks web reporting tool.
 * [angular-calendly](https://github.com/tolutronics/angular-calendly) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-07 - A modern Angular library that provides standalone components for embedding [Calendly](https://calendly.com/) scheduling widgets.
 * [ngx-three-globe](https://github.com/omnedia/ngx-three-globe) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-17 - An Angular library that provides an interactive, 3D globe visualization built using `Three.js`.
@@ -2472,7 +2475,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [flowchart-sequence-designer-angular](https://github.com/ag-gr-hub/flowchart-sequence-designer-angular) ⭐ 1 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-16 - Angular wrapper for [flowchart-sequence-designer](https://github.com/ag-gr-hub/flowchart-sequence-designer) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-29.
 * [ngx-apexsankey](https://github.com/apexcharts/ngx-apexsankey) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08 - Angular wrapper for [ApexSankey](https://github.com/apexcharts/apexsankey) ⭐ 1 | 🐛 1 | 📅 2026-11-08 - A JavaScript library to create Sankey diagrams.
 * [ngx-apextree](https://github.com/apexcharts/ngx-apextree) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08 - Angular wrapper for [ApexTree](https://github.com/apexcharts/apextree) ⭐ 18 | 🐛 1 | 📅 2026-11-17 - a JavaScript library for creating organizational and hierarchical charts.
-* [ngx-boomerangjs](https://github.com/mcvendrell/ngx-boomerangjs) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-01 - An Angular 21+ wrapper for [boomerangjs](https://github.com/akamai/boomerang) ⭐ 1,926 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-10 that provides automatic script loading and Real User Monitoring (RUM) support via Angular's dependency injection system.
+* [ngx-boomerangjs](https://github.com/mcvendrell/ngx-boomerangjs) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-01 - An Angular 21+ wrapper for [boomerangjs](https://github.com/akamai/boomerang) ⭐ 1,927 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-10 that provides automatic script loading and Real User Monitoring (RUM) support via Angular's dependency injection system.
 * [ngx-d3](https://github.com/simonegosetto/ngx-d3) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 - A [D3](https://d3js.org/) wrapper service for Angular applications inspired by [d3-ng2-service](https://github.com/tomwanzek/d3-ng2-service) ⭐ 204 | 🐛 15 | 🌐 TypeScript | 📅 2020-03-26.
 * [ngx-kel-agent](https://github.com/k0swe/ngx-kel-agent) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-11 - Client library for Angular applications to integrate with [kel-agent](https://github.com/k0swe/kel-agent) ⭐ 12 | 🐛 7 | 🌐 Go | 📅 2026-10-18.
 * [ngx-pixel-code](https://github.com/Dev-AlienX/ngx-pixel-code/tree/main/ngx-pixel-code) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Standalone Angular `highlight.js` wrapper featuring dynamic theme loading and custom styles.
@@ -2485,7 +2488,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [injection-js](https://github.com/mgechev/injection-js) ⭐ 1,377 | 🐛 6 | 🌐 TypeScript | 📅 2025-10-22 - A fast, well‑tested JavaScript/TypeScript dependency injection library extracted from Angular’s `ReflectiveInjector`.
 * [@joanpablo/reactive\_forms](https://github.com/joanpablo/reactive_forms) ⭐ 507 | 🐛 112 | 🌐 Dart | 📅 2025-12-22 - A Dart library using a model-driven approach for forms and validations, inspired by Angular's Reactive Forms.
-* [reaktiv](https://github.com/buiapp/reaktiv) ⭐ 461 | 🐛 2 | 🌐 Python | 📅 2026-11-15 - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
+* [reaktiv](https://github.com/buiapp/reaktiv) ⭐ 463 | 🐛 2 | 🌐 Python | 📅 2026-11-15 - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
 * [needle-di](https://github.com/needle-di/needle-di) ⭐ 142 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-04 - A lightweight, type-safe Dependency Injection (DI) library for JavaScript and TypeScript projects.
 * [knifecycle](https://github.com/nfroidure/knifecycle) ⭐ 35 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-28 - Manage your Node.js processes' lifecycle automatically with an unobtrusive dependency injection implementation.
 * [npm-clang-format-node](https://github.com/lumirlumir/npm-clang-format-node) ⭐ 35 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-18 - Node wrapper for LLVM Clang's clang-format and git-clang-format native binaries inspired by [clang-format](https://github.com/angular/clang-format) ⚠️ Archived.
@@ -2503,7 +2506,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [UnReact.js](https://github.com/arnvjshi/unreactpjs) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-29 - A modern framework combining the best of Angular and React for enhanced component communication.
 * [x-injection-reactjs](https://github.com/AdiMarianMutu/x-injection-reactjs) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-18 - Powerful IoC library built on-top of InversifyJS inspired by Angular's DI for ReactJS.
 * [angular-style-injector](https://github.com/emmat-york/angular-style-injector) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-22 - A lightweight dependency injection container inspired by Angular's Injector.
-* [di](https://github.com/kaokei/di) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-11 - A lightweight dependency injection library, similar to [InversifyJS](https://github.com/inversify/InversifyJS) ⭐ 12,050 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-19 and [typedi](https://github.com/typestack/typedi) ⭐ 4,241 | 🐛 59 | 🌐 TypeScript | 📅 2025-10-29.
+* [di](https://github.com/kaokei/di) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-11 - A lightweight dependency injection library, similar to [InversifyJS](https://github.com/inversify/InversifyJS) ⭐ 12,049 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-19 and [typedi](https://github.com/typestack/typedi) ⭐ 4,241 | 🐛 59 | 🌐 TypeScript | 📅 2025-10-29.
 * [GTPL](https://github.com/garag-lib/GTPL) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 - TypeScript library for reactive templates using Direct DOM and Proxy, inspired by Vue, Angular AOT, and JSX, in a compact 9KB package.
 * [rgenex](https://github.com/asengar14/rgenex) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-27 - An Angular‑CLI–style generator for React that instantly scaffolds components, hooks, and pages.
 * [Socketeer](https://github.com/lookMyCode/Socketeer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-24 - Structured, decorator-free WebSocket framework featuring native typing and an architecture inspired by NestJS and Angular patterns (controllers, pipes, guards).
@@ -2516,11 +2519,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ## External Lists
 
-* [awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) ⭐ 311 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-20 - Exhaustive Angular resources—your fallback if you still need more.
+* [awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) ⭐ 310 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-22 - Exhaustive Angular resources—your fallback if you still need more.
 * [awesome-angular](https://github.com/DaanDeSmedt/awesome-angular) ⭐ 103 | 🐛 1 | 📅 2026-10-14
 * [Angular Enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
 * [framework.dev](https://angular.framework.dev/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
